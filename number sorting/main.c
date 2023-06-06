@@ -3,8 +3,6 @@
 #include <string.h>
 #include <time.h>
 
-FILE *file;
-
 #define ARRAYSIZE 8192
 
 int bubbleSortArray[ARRAYSIZE], insertionSortArray[ARRAYSIZE], binSearchSortArray[ARRAYSIZE], linSearchSortArray[ARRAYSIZE];
@@ -75,14 +73,12 @@ void bubbleSort(int buffArray[], int length) {
 
     int buff, i;
 
-    //   printf("Chamada bubble numero: %d\n", bubbleCounter);
+       printf("Chamada bubble numero: %d\n", bubbleCounter);
 
     if (length == 1){
-    //   	printf("length == 1\n");
         return;
     }
     for (i = 0; i < length - 1; i++){
-    //   	printf("for de sorting\n");
         if (buffArray[i] > buffArray[i + 1]){
             buff = buffArray[i];
             buffArray[i] = buffArray[i + 1];
@@ -99,7 +95,7 @@ void insertionSort(int buffArray[], int length) {
     int i, key, j;
     for (i = 1; i < length; i++) {
 
-    //   	  printf("Laï¿½o insertion numero: %d\n", insertionCounter);
+       	printf("Laço insertion numero: %d\n", insertionCounter);
 
         key = buffArray[i];
         j = i - 1;
