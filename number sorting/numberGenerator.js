@@ -2,8 +2,9 @@ const fs = require('fs');
 
 let numbers = ''
 
-for (let i = 0; i < 32768; i++) {
-    numbers += (`${between(1, 100000)},`);
+for (let i = 0; i < 8192; i++) {
+    numbers += (`${between(1, 100000)}`);
+    (i != 8191) ? numbers += `,` : '';
 }
 
 function between(min, max) {  
