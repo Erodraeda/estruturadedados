@@ -2,7 +2,7 @@ const fs = require('fs');
 
 let numbers = ''
 
-for (let i = 0; i < 131072; i++) {
+for (let i = 0; i < 32768; i++) {
     numbers += (`${between(1, 100000)},`);
 }
 
