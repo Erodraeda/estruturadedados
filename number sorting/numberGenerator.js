@@ -1,10 +1,12 @@
 const fs = require('fs');
 
+const lastNumber = 30333
+
 let numbers = ''
 
-for (let i = 0; i < 8192; i++) {
+for (let i = 1; i <= lastNumber; i++) {
     numbers += (`${between(1, 100000)}`);
-    (i != 8191) ? numbers += `,` : '';
+    (i != lastNumber) ? numbers += `,` : '';
 }
 
 function between(min, max) {  
