@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-const lastNumber = 30333
+const lastNumber = 131072
 
 let numbers = ''
 
