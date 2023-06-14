@@ -4,15 +4,19 @@
 #include <time.h>
 
 #define ARRAYSIZE 131072
+#define SEARCH_NUMBER 84055
+#define START_NUMBER 98
 
 int bubbleSortArray[ARRAYSIZE], insertionSortArray[ARRAYSIZE], binSearchSortArray[ARRAYSIZE], linSearchSortArray[ARRAYSIZE], array[ARRAYSIZE];
 
 clock_t start, end;
-double cpu_time_used_bubble, cpu_time_used_insertion, cpu_time_used_binary, cpu_time_used_linear;
+double cpu_time_used_bubble, cpu_time_used_insertion, cpu_time_used_binary, cpu_time_used_linear, cpu_time_used_recbinary;
 
 int bubbleCounter = 1;
 int insertionCounter = 1;
-//int buffer[8096];
+int binaryCounter = 1;
+int recbinaryCounter = 1;
+int linearCounter = 1;
 
 void main() {
 
@@ -29,9 +33,9 @@ void main() {
     cpu_time_used_bubble = ((double) (end - start)) / CLOCKS_PER_SEC;
 
     // Printando os valores ordenados por bubble sort
-    printf("\nArray ordenado por Bubble Sorting:\n");
+    // printf("\nArray ordenado por Bubble Sorting:\n");q
 
-    printArray(bubbleSortArray);
+    // printArray(bubbleSortArray);
 
     // Contando tempo do insertion sort
     start = clock();
@@ -40,9 +44,30 @@ void main() {
     cpu_time_used_insertion = ((double) (end - start)) / CLOCKS_PER_SEC;
 
     // Printando os valores ordenados por insertion sort
-    printf("\nArray ordenado por Insertion Sorting:\n");
+    // printf("\nArray ordenado por Insertion Sorting:\n");
 
-    printArray(insertionSortArray);
+    // printArray(insertionSortArray);
+
+    // Binary Search
+    start = clock();
+    int binarySearchNumber;
+    binarySearchNumber = binarySearch(insertionSortArray, START_NUMBER, ARRAYSIZE, SEARCH_NUMBER);
+    end = clock();
+    cpu_time_used_binary = ((double) (end - start)) / CLOCKS_PER_SEC;
+
+    // Recursive Binary Search
+    start = clock();
+    int recBinarySearchNumber;
+    recBinarySearchNumber = recursiveBinarySearch(insertionSortArray, START_NUMBER, ARRAYSIZE, SEARCH_NUMBER);
+    end = clock();
+    cpu_time_used_recbinary = ((double) (end - start)) / CLOCKS_PER_SEC;
+
+    // Linear Search
+    start = clock();
+    int linearSearchNumber;
+    linearSearchNumber = linearSearch(insertionSortArray, ARRAYSIZE, SEARCH_NUMBER);
+    end = clock();
+    cpu_time_used_linear = ((double) (end - start)) / CLOCKS_PER_SEC;
 
     // Tempo decorrido em cada tipo de sorting
 
@@ -51,6 +76,16 @@ void main() {
     printf("\nBubble sort: %lf segundos, total de chamadas recursivas: %d", cpu_time_used_bubble, bubbleCounter);
 
     printf("\nInsertion sort: %lf segundos, total de la�os: %d\n", cpu_time_used_insertion, insertionCounter);
+
+    // Tempo decorrido em cada tipo de search
+
+    printf("\n\nListagem de tempos decorridos para cada tipo de busca de %d números: \n", ARRAYSIZE);
+
+    printf("\nBinary search: %lf segundos, total de chamadas: %d\n Encontrado na posicao: %d", cpu_time_used_binary, binaryCounter, binarySearchNumber);
+
+    printf("\nRecursive Binary search: %lf segundos, total de chamadas recursivas: %d\n Encontrado na posicao: %d", cpu_time_used_recbinary, recbinaryCounter, recBinarySearchNumber);
+
+    printf("\nLinear search: %lf segundos, total de la�os: %d\n Encontrado na posicao: %d\n", cpu_time_used_linear, linearCounter, linearSearchNumber);
 
 }
 
@@ -64,26 +99,6 @@ void printArray(int buffArray[]) {
         }
     }
 }
-
-//void bubble(int buffArray[], int length) {
-//
-//    bubbleCounter++;
-//    printf("Chamada bubble numero: %d\n", bubbleCounter);
-//	int x;
-//	if (length == 1) return;
-//    if (buffArray[1] < buffArray[0]) {
-//    	x = buffArray[0];
-//    	buffArray[0] = buffArray[1];
-//    	buffArray[1] = x;
-//	}
-//    bubble(buffArray + 1, length - 1);
-//}
-//
-//void bubbleSort(int buffArray[], int length) {
-//	if (length == 1) return;
-//    bubble(buffArray, length);
-//    bubbleSort(buffArray, length-1);
-//}
 
 void bubbleSort(int buffArray[], int length) {
 
@@ -131,12 +146,57 @@ void insertionSort(int buffArray[], int length) {
     }
 }
 
-void binarySearch() {
+int binarySearch(int array[], int start, int arraysize, int number) {
     // NIY
+
+    while (start <= arraysize) {
+        int m = start + (arraysize - start) / 2;
+ 
+        if (array[m] == number) {
+            return m;
+        } 
+        
+        if (array[m] < number) {
+            start = m + 1;
+        } else {
+            arraysize = m - 1;
+        }
+
+        binaryCounter++;
+    }
+ 
+    // If we reach here, then element was not present
+    return -1;
+
 }
 
-void linearSearch() {
+int recursiveBinarySearch(int array[], int start, int arraysize, int number) {
+    if (arraysize >= start) {
+        int mid = start + (arraysize - start) / 2;
+  
+        if (array[mid] == number)
+            return mid;
+ 
+        if (array[mid] > number)
+            return binarySearch(array, start, mid - 1, number);
+ 
+        recbinaryCounter++;
+        return binarySearch(array, mid + 1, arraysize, number);
+    }
+ 
+    return -1;
+}
+
+int linearSearch(int array[], int arraysize, int number) {
     // NIY
+
+    for (int i = 0; i < arraysize; i++) { 
+        if (array[i] == number) {
+            return i;
+        }
+        linearCounter++;
+    }
+    return -1;
 }
 
 void readFile() {
