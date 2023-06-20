@@ -3,11 +3,11 @@
 #include <string.h>
 #include <time.h>
 
-#define ARRAYSIZE 131072
-#define SEARCH_NUMBER 84055
+#define ARRAYSIZE 32768
+#define SEARCH_ARRAYSIZE 32768
 #define START_NUMBER 98
 
-int bubbleSortArray[ARRAYSIZE], insertionSortArray[ARRAYSIZE], binSearchSortArray[ARRAYSIZE], linSearchSortArray[ARRAYSIZE], array[ARRAYSIZE];
+int bubbleSortArray[ARRAYSIZE], insertionSortArray[ARRAYSIZE], binSearchArray[SEARCH_ARRAYSIZE], linSearchArray[SEARCH_ARRAYSIZE];
 
 clock_t start, end;
 double cpu_time_used_bubble, cpu_time_used_insertion, cpu_time_used_binary, cpu_time_used_linear, cpu_time_used_recbinary;
@@ -17,6 +17,9 @@ int insertionCounter = 1;
 int binaryCounter = 1;
 int recbinaryCounter = 1;
 int linearCounter = 1;
+int binaryFoundCounter = 0;
+int recbinaryFoundCounter = 0;
+int linearFoundCounter = 0;
 
 void main() {
 
@@ -24,7 +27,10 @@ void main() {
 
     // Preenche arrays com números existentes no arquivo de texto
 
-    readFile();
+    readSortingFiles();
+
+    readSearchingFiles();
+
 
     // Contando tempo do bubble sort
     start = clock();
@@ -51,21 +57,36 @@ void main() {
     // Binary Search
     start = clock();
     int binarySearchNumber;
-    binarySearchNumber = binarySearch(insertionSortArray, START_NUMBER, ARRAYSIZE, SEARCH_NUMBER);
+    for (i = 0; i < SEARCH_ARRAYSIZE; i++) {
+        int search_number = binSearchArray[i];
+        binarySearchNumber = binarySearch(insertionSortArray, START_NUMBER, ARRAYSIZE, search_number);
+
+        if (binarySearchNumber > -1) binaryFoundCounter++;
+    }
     end = clock();
     cpu_time_used_binary = ((double) (end - start)) / CLOCKS_PER_SEC;
 
     // Recursive Binary Search
     start = clock();
     int recBinarySearchNumber;
-    recBinarySearchNumber = recursiveBinarySearch(insertionSortArray, START_NUMBER, ARRAYSIZE, SEARCH_NUMBER);
+    for (i = 0; i < SEARCH_ARRAYSIZE; i++) {
+        int search_number = binSearchArray[i];
+        recBinarySearchNumber = recursiveBinarySearch(insertionSortArray, START_NUMBER, ARRAYSIZE, search_number);
+
+        if (recBinarySearchNumber > -1) recbinaryFoundCounter++;
+    }
     end = clock();
     cpu_time_used_recbinary = ((double) (end - start)) / CLOCKS_PER_SEC;
 
     // Linear Search
     start = clock();
     int linearSearchNumber;
-    linearSearchNumber = linearSearch(insertionSortArray, ARRAYSIZE, SEARCH_NUMBER);
+    for (i = 0; i < SEARCH_ARRAYSIZE; i++) {
+        int search_number = binSearchArray[i];
+        linearSearchNumber = linearSearch(insertionSortArray, ARRAYSIZE, search_number);
+
+        if (linearSearchNumber > -1) linearFoundCounter++;
+    }
     end = clock();
     cpu_time_used_linear = ((double) (end - start)) / CLOCKS_PER_SEC;
 
@@ -79,13 +100,37 @@ void main() {
 
     // Tempo decorrido em cada tipo de search
 
-    printf("\n\nListagem de tempos decorridos para cada tipo de busca de %d números: \n", ARRAYSIZE);
+    printf("\n\nListagem de tempos decorridos para cada tipo de busca de %d números: \n", SEARCH_ARRAYSIZE);
 
-    printf("\nBinary search: %lf segundos, total de chamadas: %d\n Encontrado na posicao: %d", cpu_time_used_binary, binaryCounter, binarySearchNumber);
+    printf("\nRegular Binary search: %lf segundos para encontrar %d de %d numeros. Total de chamadas: %d\n", cpu_time_used_binary, binaryFoundCounter, SEARCH_ARRAYSIZE, binaryCounter);
 
-    printf("\nRecursive Binary search: %lf segundos, total de chamadas recursivas: %d\n Encontrado na posicao: %d", cpu_time_used_recbinary, recbinaryCounter, recBinarySearchNumber);
+    printf("\nRecursive Binary search: %lf segundos, total de chamadas recursivas: %d\n", cpu_time_used_recbinary, recbinaryFoundCounter, SEARCH_ARRAYSIZE, recbinaryCounter);
 
-    printf("\nLinear search: %lf segundos, total de la�os: %d\n Encontrado na posicao: %d\n", cpu_time_used_linear, linearCounter, linearSearchNumber);
+    printf("\nLinear search: %lf segundos, total de la�os: %d\n\n", cpu_time_used_linear, linearFoundCounter, SEARCH_ARRAYSIZE, linearCounter);
+
+    FILE *file;
+
+        if ((file = fopen("results.txt", "a")) == NULL) {
+            printf("failed to open file");
+        } else {
+            fprintf(file, "\n\nListagem de tempos decorridos para cada tipo de ordenação de %d números: \n", ARRAYSIZE);
+
+            fprintf(file, "\nBubble sort: %lf segundos, total de chamadas recursivas: %d", cpu_time_used_bubble, bubbleCounter);
+
+            fprintf(file, "\nInsertion sort: %lf segundos, total de la�os: %d\n", cpu_time_used_insertion, insertionCounter);
+
+            // Tempo decorrido em cada tipo de search
+
+            fprintf(file, "\n\nListagem de tempos decorridos para cada tipo de busca de %d números: \n", SEARCH_ARRAYSIZE);
+
+            fprintf(file, "\nRegular Binary search: %lf segundos para encontrar %d de %d numeros. Total de chamadas: %d\n", cpu_time_used_binary, binaryFoundCounter, SEARCH_ARRAYSIZE, binaryCounter);
+
+            fprintf(file, "\nRecursive Binary search: %lf segundos, total de chamadas recursivas: %d\n", cpu_time_used_recbinary, recbinaryFoundCounter, SEARCH_ARRAYSIZE, recbinaryCounter);
+
+            fprintf(file, "\nLinear search: %lf segundos, total de la�os: %d\n\n", cpu_time_used_linear, linearFoundCounter, SEARCH_ARRAYSIZE, linearCounter);
+
+            fprintf(file, "-----------------");
+        }
 
 }
 
@@ -199,7 +244,36 @@ int linearSearch(int array[], int arraysize, int number) {
     return -1;
 }
 
-void readFile() {
+void readSearchingFiles() {
+
+    FILE *file;
+    int counter;
+    int buffer;
+    int *output;
+    char fileBuffer[SEARCH_ARRAYSIZE*6];
+    char delims[] = ",";
+    char *token = NULL;
+    if ((file = fopen("searchable.txt", "r")) == NULL) {
+        printf("Erro ao abrir arquivo");
+    } else {
+        while(!feof(file)){            
+            counter = 0;
+            fgets(fileBuffer, SEARCH_ARRAYSIZE*6, file);
+            token = strtok(fileBuffer, delims);
+            while(token != NULL){
+                // converts the string token into an integer and puts it into the array
+                buffer = strtol(token, &output, 10) + 0;
+                linSearchArray[counter] = buffer;
+                binSearchArray[counter] = buffer;
+                token = strtok(NULL, delims);
+                counter++;
+            }
+        }
+    }
+
+}
+
+void readSortingFiles() {
 
     FILE *file;
     int counter;
@@ -220,8 +294,6 @@ void readFile() {
                 buffer = strtol(token, &output, 10) + 0;
                 bubbleSortArray[counter] = buffer;
                 insertionSortArray[counter] = buffer;
-                binSearchSortArray[counter] = buffer;
-                linSearchSortArray[counter] = buffer;
                 token = strtok(NULL, delims);
                 counter++;
             }

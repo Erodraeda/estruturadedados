@@ -1,12 +1,16 @@
 const fs = require('fs');
 
-const lastNumber = 131072
-
 let numbers = ''
 
-for (let i = 1; i <= lastNumber; i++) {
+const arraysize = process.argv[2]
+
+const filename = process.argv[3]
+
+console.log(arraysize, filename)
+
+for (let i = 1; i <= arraysize; i++) {
     numbers += (`${between(1, 100000)}`);
-    (i != lastNumber) ? numbers += `,` : '';
+    (i != arraysize) ? numbers += `,` : '';
 }
 
 function between(min, max) {  
@@ -15,6 +19,6 @@ function between(min, max) {
     )
 }
 
-fs.writeFileSync('./numb.txt', numbers, err => {
+fs.writeFileSync(`./${filename}.txt`, numbers, err => {
     if (err) console.error('duh')
 })
