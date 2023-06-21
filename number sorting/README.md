@@ -21,3 +21,5 @@ Ou rodar no Dev-C++
 E executar o arquivo gerado, no primeiro caso
 $ ./main
 No segundo caso, rodar main.exe
+
+O tamanho de array está definido para 32768, para alterar basta editar as variáveis globais, ARRAYSIZE (array a ser ordenado) ou SEARCH_ARRAYSIZE (array com números a serem buscados) e recompilar o código.
