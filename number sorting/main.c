@@ -5,7 +5,6 @@
 
 #define ARRAYSIZE 32768
 #define SEARCH_ARRAYSIZE 32768
-#define START_NUMBER 98
 
 int bubbleSortArray[ARRAYSIZE], insertionSortArray[ARRAYSIZE], binSearchArray[SEARCH_ARRAYSIZE], linSearchArray[SEARCH_ARRAYSIZE];
 
@@ -26,11 +25,8 @@ void main() {
     int i = 0;
 
     // Preenche arrays com números existentes no arquivo de texto
-
     readSortingFiles();
-
     readSearchingFiles();
-
 
     // Contando tempo do bubble sort
     start = clock();
@@ -38,28 +34,18 @@ void main() {
     end = clock();
     cpu_time_used_bubble = ((double) (end - start)) / CLOCKS_PER_SEC;
 
-    // Printando os valores ordenados por bubble sort
-    // printf("\nArray ordenado por Bubble Sorting:\n");q
-
-    // printArray(bubbleSortArray);
-
     // Contando tempo do insertion sort
     start = clock();
     insertionSort(insertionSortArray, ARRAYSIZE);
     end = clock();
     cpu_time_used_insertion = ((double) (end - start)) / CLOCKS_PER_SEC;
-
-    // Printando os valores ordenados por insertion sort
-    // printf("\nArray ordenado por Insertion Sorting:\n");
-
-    // printArray(insertionSortArray);
-
+    
     // Binary Search
     start = clock();
     int binarySearchNumber;
     for (i = 0; i < SEARCH_ARRAYSIZE; i++) {
         int search_number = binSearchArray[i];
-        binarySearchNumber = binarySearch(insertionSortArray, START_NUMBER, ARRAYSIZE, search_number);
+        binarySearchNumber = binarySearch(insertionSortArray, ARRAYSIZE/2, ARRAYSIZE, search_number);
 
         if (binarySearchNumber > -1) binaryFoundCounter++;
     }
@@ -71,7 +57,7 @@ void main() {
     int recBinarySearchNumber;
     for (i = 0; i < SEARCH_ARRAYSIZE; i++) {
         int search_number = binSearchArray[i];
-        recBinarySearchNumber = recursiveBinarySearch(insertionSortArray, START_NUMBER, ARRAYSIZE, search_number);
+        recBinarySearchNumber = recursiveBinarySearch(insertionSortArray, ARRAYSIZE/2, ARRAYSIZE, search_number);
 
         if (recBinarySearchNumber > -1) recbinaryFoundCounter++;
     }
@@ -233,9 +219,9 @@ int recursiveBinarySearch(int array[], int start, int arraysize, int number) {
 }
 
 int linearSearch(int array[], int arraysize, int number) {
-    // NIY
+    int i = 0;
 
-    for (int i = 0; i < arraysize; i++) { 
+    for (i = 0; i < arraysize; i++) { 
         if (array[i] == number) {
             return i;
         }
