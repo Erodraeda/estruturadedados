@@ -479,3 +479,51 @@ Recursive Binary search: 0.003530 segundos, total de chamadas recursivas: 9235
 Linear search: 0.916412 segundos, total de laï¿½os: 9261
 
 -----------------
+
+Listagem de tempos decorridos para cada tipo de ordenaÃ§Ã£o de 32768 nÃºmeros: 
+
+Bubble sort: 1.329344 segundos, total de chamadas recursivas: 32768
+Insertion sort: 0.387896 segundos, total de laï¿½os: 32768
+
+
+Listagem de tempos decorridos para cada tipo de busca de 32768 nÃºmeros: 
+
+Regular Binary search: 0.003383 segundos para encontrar 9235 de 32768 numeros. Total de chamadas: 910134
+
+Recursive Binary search: 0.003754 segundos, total de chamadas recursivas: 9235
+
+Linear search: 0.998725 segundos, total de laï¿½os: 9261
+
+-----------------
+
+Listagem de tempos decorridos para cada tipo de ordenação de 32768 números: 
+
+Bubble sort: 1.541000 segundos, total de chamadas recursivas: 32768
+Insertion sort: 0.373000 segundos, total de la?os: 32768
+
+
+Listagem de tempos decorridos para cada tipo de busca de 32768 números: 
+
+Regular Binary search: 0.004000 segundos para encontrar 9205 de 32768 numeros. Total de chamadas: 909565
+
+Recursive Binary search: 0.003000 segundos, total de chamadas recursivas: 9205
+
+Linear search: 0.902000 segundos, total de la?os: 9231
+
+-----------------
+
+Listagem de tempos decorridos para cada tipo de ordenação de 32768 números: 
+
+Bubble sort: 1.545000 segundos, total de chamadas recursivas: 32768
+Insertion sort: 0.378000 segundos, total de la?os: 32768
+
+
+Listagem de tempos decorridos para cada tipo de busca de 32768 números: 
+
+Regular Binary search: 0.003000 segundos para encontrar 9205 de 32768 numeros. Total de chamadas: 909565
+
+Recursive Binary search: 0.004000 segundos, total de chamadas recursivas: 9205
+
+Linear search: 0.903000 segundos, total de la?os: 9231
+
+-----------------
