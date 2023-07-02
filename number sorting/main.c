@@ -24,15 +24,9 @@ void main() {
 
     int i = 0;
 
-<<<<<<< Updated upstream
-    // Preenche arrays com nÃºmeros existentes no arquivo de texto
+    // Preenche arrays com nï¿½meros existentes no arquivo de texto
     readSortingFiles();
-=======
-    // Preenche arrays com números existentes no arquivo de texto
 
-    readSortingFiles();
-    
->>>>>>> Stashed changes
     readSearchingFiles();
 
     // Contando tempo do bubble sort
@@ -85,7 +79,7 @@ void main() {
 
     // Tempo decorrido em cada tipo de sorting
 
-    printf("\n\nListagem de tempos decorridos para cada tipo de ordenação de %d números: \n", ARRAYSIZE);
+    printf("\n\nListagem de tempos decorridos para cada tipo de ordenaï¿½ï¿½o de %d nï¿½meros: \n", ARRAYSIZE);
 
     printf("\nBubble sort: %lf segundos, total de chamadas recursivas: %d", cpu_time_used_bubble, bubbleCounter);
 
@@ -93,7 +87,7 @@ void main() {
 
     // Tempo decorrido em cada tipo de search
 
-    printf("\n\nListagem de tempos decorridos para cada tipo de busca de %d números: \n", SEARCH_ARRAYSIZE);
+    printf("\n\nListagem de tempos decorridos para cada tipo de busca de %d nï¿½meros: \n", SEARCH_ARRAYSIZE);
 
     printf("\nRegular Binary search: %lf segundos para encontrar %d de %d numeros. Total de chamadas: %d\n", cpu_time_used_binary, binaryFoundCounter, SEARCH_ARRAYSIZE, binaryCounter);
 
@@ -106,7 +100,7 @@ void main() {
         if ((file = fopen("results.txt", "a")) == NULL) {
             printf("failed to open file");
         } else {
-            fprintf(file, "\n\nListagem de tempos decorridos para cada tipo de ordenação de %d números: \n", ARRAYSIZE);
+            fprintf(file, "\n\nListagem de tempos decorridos para cada tipo de ordenaï¿½ï¿½o de %d nï¿½meros: \n", ARRAYSIZE);
 
             fprintf(file, "\nBubble sort: %lf segundos, total de chamadas recursivas: %d", cpu_time_used_bubble, bubbleCounter);
 
@@ -114,7 +108,7 @@ void main() {
 
             // Tempo decorrido em cada tipo de search
 
-            fprintf(file, "\n\nListagem de tempos decorridos para cada tipo de busca de %d números: \n", SEARCH_ARRAYSIZE);
+            fprintf(file, "\n\nListagem de tempos decorridos para cada tipo de busca de %d nï¿½meros: \n", SEARCH_ARRAYSIZE);
 
             fprintf(file, "\nRegular Binary search: %lf segundos para encontrar %d de %d numeros. Total de chamadas: %d\n", cpu_time_used_binary, binaryFoundCounter, SEARCH_ARRAYSIZE, binaryCounter);
 
@@ -226,12 +220,8 @@ int recursiveBinarySearch(int array[], int start, int arraysize, int number) {
 }
 
 int linearSearch(int array[], int arraysize, int number) {
-<<<<<<< Updated upstream
-    int i = 0;
-=======
     
     int i;
->>>>>>> Stashed changes
 
     for (i = 0; i < arraysize; i++) { 
         if (array[i] == number) {
