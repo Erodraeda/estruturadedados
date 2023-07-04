@@ -1,0 +1,10 @@
+Nome da Cidade: Tanquinho, ID da Cidade: 31103, ID do UF: 29, UF: BA, Populacao: 7936
+Nome da Cidade: Sertanópolis, ID da Cidade: 26504, ID do UF: 41, UF: PR, Populacao: 16456
+Nome da Cidade: Biritinga, ID da Cidade: 3607, ID do UF: 29, UF: BA, Populacao: 15989
+Nome da Cidade: Serra Redonda, ID da Cidade: 15807, ID do UF: 25, UF: PB, Populacao: 7001
+Nome da Cidade: Aguaí, ID da Cidade: 303, ID do UF: 35, UF: SP, Populacao: 36981
+Nome da Cidade: Natividade, ID da Cidade: 14203, ID do UF: 17, UF: TO, Populacao: 9256
+Nome da Cidade: Arraias, ID da Cidade: 2406, ID do UF: 17, UF: TO, Populacao: 10502
+Nome da Cidade: Gabriel Monteiro, ID da Cidade: 16507, ID do UF: 35, UF: SP, Populacao: 2776
+Nome da Cidade: São José do Sul, ID da Cidade: 18614, ID do UF: 43, UF: RS, Populacao: 2464
+Nome da Cidade: Vale Verde, ID da Cidade: 22525, ID do UF: 43, UF: RS, Populacao: 3531
