@@ -850,7 +850,7 @@
 11 lacos para encontrar - Nome da Cidade: Santo Inácio do Piauí, ID da Cidade: 9500, ID do UF: 22, UF: PI, Populacao: 3809
 13 lacos para encontrar - Nome da Cidade: São Braz do Piauí, ID da Cidade: 9559, ID do UF: 22, UF: PI, Populacao: 4454
 11 lacos para encontrar - Nome da Cidade: São Félix do Piauí, ID da Cidade: 9609, ID do UF: 22, UF: PI, Populacao: 2923
-10 lacos para encontrar - Nome da Cidade: São Francisco de Assis do Piauí�, ID da Cidade: 9658, ID do UF: 22, UF: PI, Populacao: 5801
+10 lacos para encontrar - Nome da Cidade: São Francisco de Assis do Piauí, ID da Cidade: 9658, ID do UF: 22, UF: PI, Populacao: 5801
 10 lacos para encontrar - Nome da Cidade: São Francisco do Piauí, ID da Cidade: 9708, ID do UF: 22, UF: PI, Populacao: 6417
 12 lacos para encontrar - Nome da Cidade: São Gonçalo do Gurguéia, ID da Cidade: 9757, ID do UF: 22, UF: PI, Populacao: 3071
 11 lacos para encontrar - Nome da Cidade: São Gonçalo do Piauí, ID da Cidade: 9807, ID do UF: 22, UF: PI, Populacao: 5044
@@ -1436,7 +1436,7 @@
 13 lacos para encontrar - Nome da Cidade: São José dos Cordeiros, ID da Cidade: 14800, ID do UF: 25, UF: PB, Populacao: 3607
 9 lacos para encontrar - Nome da Cidade: São Mamede, ID da Cidade: 14909, ID do UF: 25, UF: PB, Populacao: 7682
 12 lacos para encontrar - Nome da Cidade: São Miguel de Taipu, ID da Cidade: 15005, ID do UF: 25, UF: PB, Populacao: 745
-12 lacos para encontrar - Nome da Cidade: São Sebastião de Lagoa de Roça., ID da Cidade: 15104, ID do UF: 25, UF: PB, Populacao: 11793
+12 lacos para encontrar - Nome da Cidade: São Sebastião de Lagoa de Roça, ID da Cidade: 15104, ID do UF: 25, UF: PB, Populacao: 11793
 11 lacos para encontrar - Nome da Cidade: São Sebastião do Umbuzeiro, ID da Cidade: 15203, ID do UF: 25, UF: PB, Populacao: 3534
 11 lacos para encontrar - Nome da Cidade: Sapé, ID da Cidade: 15302, ID do UF: 25, UF: PB, Populacao: 52977
 12 lacos para encontrar - Nome da Cidade: São Vicente do Seridó, ID da Cidade: 15401, ID do UF: 25, UF: PB, Populacao: 10919
@@ -5244,7 +5244,7 @@
 12 lacos para encontrar - Nome da Cidade: Lambari D'Oeste, ID da Cidade: 5234, ID do UF: 51, UF: MT, Populacao: 6246
 11 lacos para encontrar - Nome da Cidade: Lucas do Rio Verde, ID da Cidade: 5259, ID do UF: 51, UF: MT, Populacao: 69671
 8 lacos para encontrar - Nome da Cidade: Luciara, ID da Cidade: 5309, ID do UF: 51, UF: MT, Populacao: 2036
-12 lacos para encontrar - Nome da Cidade: Vila Bela da Santíssima Trindade@, ID da Cidade: 5507, ID do UF: 51, UF: MT, Populacao: 16412
+12 lacos para encontrar - Nome da Cidade: Vila Bela da Santíssima Trindade, ID da Cidade: 5507, ID do UF: 51, UF: MT, Populacao: 16412
 11 lacos para encontrar - Nome da Cidade: Marcelândia, ID da Cidade: 5580, ID do UF: 51, UF: MT, Populacao: 10107
 10 lacos para encontrar - Nome da Cidade: Matupá, ID da Cidade: 5606, ID do UF: 51, UF: MT, Populacao: 17017
 12 lacos para encontrar - Nome da Cidade: Mirassol d'Oeste, ID da Cidade: 5622, ID do UF: 51, UF: MT, Populacao: 28135
