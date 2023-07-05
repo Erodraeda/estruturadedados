@@ -1,10 +1,10 @@
-Nome da Cidade: Capanema, ID da Cidade: 4501, ID do UF: 41, UF: PR, Populacao: 19172
-Nome da Cidade: Miguel Pereira, ID da Cidade: 2908, ID do UF: 33, UF: RJ, Populacao: 25622
-Nome da Cidade: Palestina, ID da Cidade: 35002, ID do UF: 35, UF: SP, Populacao: 13285
-Nome da Cidade: Morro Reuter, ID da Cidade: 12476, ID do UF: 43, UF: RS, Populacao: 657
-Nome da Cidade: Guabiju, ID da Cidade: 9258, ID do UF: 43, UF: RS, Populacao: 1478
-Nome da Cidade: Tanque Novo, ID da Cidade: 31053, ID do UF: 29, UF: BA, Populacao: 17518
+Nome da Cidade: Ribeirópolis, ID da Cidade: 6008, ID do UF: 28, UF: SE, Populacao: 18891
 Nome da Cidade: Salmourão, ID da Cidade: 45100, ID do UF: 35, UF: SP, Populacao: 5372
-Nome da Cidade: Extremoz, ID da Cidade: 3608, ID do UF: 24, UF: RN, Populacao: 29282
-Nome da Cidade: Pedrão, ID da Cidade: 24108, ID do UF: 29, UF: BA, Populacao: 7438
-Nome da Cidade: Luís Antônio, ID da Cidade: 27603, ID do UF: 35, UF: SP, Populacao: 15628
+Nome da Cidade: São João da Lagoa, ID da Cidade: 62252, ID do UF: 31, UF: MG, Populacao: 4949
+Nome da Cidade: Araranguá, ID da Cidade: 1406, ID do UF: 42, UF: SC, Populacao: 69493
+Nome da Cidade: Palmas, ID da Cidade: 21000, ID do UF: 17, UF: TO, Populacao: 313349
+Nome da Cidade: Acauã, ID da Cidade: 53, ID do UF: 22, UF: PI, Populacao: 7119
+Nome da Cidade: Fundão, ID da Cidade: 2207, ID do UF: 32, UF: ES, Populacao: 22379
+Nome da Cidade: Forquilha, ID da Cidade: 4350, ID do UF: 23, UF: CE, Populacao: 2468
+Nome da Cidade: Santos Dumont, ID da Cidade: 60702, ID do UF: 31, UF: MG, Populacao: 46357
+Nome da Cidade: Catolândia, ID da Cidade: 7400, ID do UF: 29, UF: BA, Populacao: 3619
