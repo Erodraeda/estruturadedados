@@ -1,0 +1,5724 @@
+
+posicao: 0, cidades:
+21700, 52, Uruana
+19100, 52, Santa Bárbara de Goiás
+18300, 52, Posse
+15900, 52, Palminópolis
+13400, 52, Moiporá
+12600, 52, Mairipotaba
+11800, 52, Jaraguá
+10000, 52, Inhumas
+9200, 52, Guapó
+9150, 52, Gouvelândia
+8400, 52, Goianápolis
+7600, 52, Fazenda Nova
+6800, 52, Damolândia
+5000, 52, Carmo do Rio Verde
+4300, 52, Caçu
+4250, 52, Cachoeira Dourada
+3575, 52, Bonópolis
+3500, 52, Bom Jesus de Goiás
+175, 52, Água Fria de Goiás
+100, 52, Abadiânia
+50, 52, Abadia de Goiás
+8600, 51, Vila Rica
+7925, 51, Sorriso
+7875, 51, Sapezal
+7800, 51, Santo Antônio do Leverger
+7750, 51, Salto do Céu
+6000, 51, Nortelândia
+5200, 51, Juscimeira
+5150, 51, Juína
+4500, 51, Indiavaí
+3700, 51, Feliz Natal
+2850, 51, Castanheira
+300, 51, Alto Araguaia
+250, 51, Alta Floresta
+7950, 50, Tacuru
+6275, 50, Paraíso das Águas
+6200, 50, Nova Andradina
+5400, 50, Maracaju
+4700, 50, Ivinhema
+3900, 50, Figueirão
+2100, 50, Bela Vista
+23200, 43, Victor Graeff
+22525, 43, Vale Verde
+22400, 43, Uruguaiana
+22350, 43, União da Serra
+21600, 43, Tramandaí
+20800, 43, Soledade
+19125, 43, São Martinho da Serra
+19000, 43, São Marcos
+18200, 43, São Francisco de Paula
+17400, 43, Santiago
+16600, 43, Sananduva
+15800, 43, Roca Sales
+15750, 43, Riozinho
+14175, 43, Pedras Altas
+14100, 43, Passo Fundo
+14050, 43, Parobé
+13425, 43, Novo Machado
+13375, 43, Nova Santa Rita
+13300, 43, Nova Prata
+12625, 43, Muliterno
+12500, 43, Mostardas
+12450, 43, Morro Redondo
+11775, 43, Maquiné
+11700, 43, Machadinho
+10900, 43, Jacutinga
+10850, 43, Jaboticaba
+9100, 43, Gramado
+9050, 43, Glorinha
+8300, 43, Fontoura Xavier
+8250, 43, Floriano Peixoto
+7500, 43, Espumoso
+7450, 43, Esperança do Sul
+6700, 43, Dona Francisca
+5975, 43, Coxilha
+5900, 43, Coronel Bicaco
+5850, 43, Coqueiros do Sul
+4200, 43, Candelária
+3400, 43, Caiçara
+2600, 43, Braga
+1925, 43, Barra do Rio Azul
+1875, 43, Barra do Quaraí
+1800, 43, Barracão
+1750, 43, Barão do Triunfo
+20000, 42, Balneário Rincão
+19200, 42, Vidal Ramos
+19150, 42, Vargem
+18400, 42, Treze de Maio
+18350, 42, Treviso
+17600, 42, Siderópolis
+17550, 42, Serra Alta
+16800, 42, São José do Cerrito
+15075, 42, Riqueza
+15000, 42, Rio Negrinho
+14300, 42, Rancho Queimado
+13500, 42, Porto Belo
+12700, 42, Petrolândia
+12650, 42, Pescaria Brava
+11900, 42, Palhoça
+11850, 42, Ouro Verde
+10100, 42, Mafra
+10050, 42, Macieira
+9300, 42, Lages
+8500, 42, Ituporanga
+8450, 42, Itapoá
+7700, 42, Ipumirim
+7650, 42, Iporã do Oeste
+6900, 42, Ibirama
+5175, 42, Entre Rios
+5100, 42, Dona Emma
+4400, 42, Coronel Freitas
+4350, 42, Cordilheira Alta
+3600, 42, Campos Novos
+2875, 42, Brunópolis
+2800, 42, Braço do Norte
+1950, 42, Balneário Arroio do Silva
+1000, 42, Anita Garibaldi
+200, 42, Agrolândia
+28625, 41, Alto Paraíso
+28500, 41, Wenceslau Braz
+27700, 41, Toledo
+26900, 41, Tapira
+25100, 41, São João do Triunfo
+24400, 41, Santo Antônio do Sudoeste
+23600, 41, Santa Inês
+22800, 41, Salgado Filho
+21000, 41, Querência do Norte
+20200, 41, Porto Rico
+20150, 41, Porto Barreiro
+19400, 41, Piraí do Sul
+18600, 41, Paula Freitas
+17800, 41, Palmital
+16950, 41, Nova Esperança do Sudoeste
+16000, 41, Miraselva
+15200, 41, Maringá
+14500, 41, Manoel Ribas
+13700, 41, Londrina
+12900, 41, Jundiaí do Sul
+11100, 41, Itambé
+10300, 41, Inajá
+9500, 41, Guaraqueçaba
+8700, 41, Grandes Rios
+8650, 41, Goioxim
+7900, 41, Floresta
+7850, 41, Flor da Serra do Sul
+6100, 41, Conselheiro Mairinck
+5300, 41, Céu Azul
+4600, 41, Capitão Leônidas Marques
+3800, 41, Cambira
+2000, 41, Assis Chateaubriand
+1200, 41, Antonina
+1150, 41, Ângulo
+400, 41, Almirante Tamandaré
+56800, 35, Viradouro
+55000, 35, Tupã
+54300, 35, Teodoro Sampaio
+53500, 35, Tapiraí
+52700, 35, Tabatinga
+51900, 35, Severínia
+50100, 35, São Manuel
+49300, 35, São João do Pau d'Alho
+49250, 35, São João de Iracema
+48500, 35, Santos
+47700, 35, Santo Anastácio
+47650, 35, Santa Salete
+46900, 35, Santa Lúcia
+45100, 35, Salmourão
+44400, 35, Rubiácea
+43600, 35, Rifaina
+42800, 35, Ribeira
+41000, 35, Praia Grande
+40200, 35, Pontal
+39400, 35, Piratininga
+38600, 35, Piracaia
+37800, 35, Piedade
+36000, 35, Parapuã
+35200, 35, Palmeira d'Oeste
+34500, 35, Oscar Bressane
+33700, 35, Ocauçu
+32900, 35, Nova Europa
+31100, 35, Mongaguá
+30300, 35, Mirassol
+29500, 35, Mendonça
+28700, 35, Marabá Paulista
+27900, 35, Lutécia
+26100, 35, Juquiá
+25300, 35, Jaú
+24600, 35, Jacupiranga
+23800, 35, Itobi
+22000, 35, Itaju
+21200, 35, Iporanga
+21150, 35, Ipiguá
+20400, 35, Ilhabela
+19600, 35, Ibitinga
+18800, 35, Guarulhos
+17000, 35, Getulina
+16200, 35, Franca
+15400, 35, Fartura
+15350, 35, Euclides da Cunha Paulista
+14700, 35, Echaporã
+13900, 35, Divinolândia
+13850, 35, Dirce Reis
+12100, 35, Colômbia
+11300, 35, Cedral
+10500, 35, Caraguatatuba
+9700, 35, Campos do Jordão
+8900, 35, Caiabu
+7100, 35, Bom Jesus dos Perdões
+6300, 35, Bernardino de Campos
+5500, 35, Barretos
+4800, 35, Bálsamo
+3950, 35, Aspásia
+3000, 35, Aramina
+2200, 35, Angatuba
+1400, 35, Álvaro de Carvalho
+600, 35, Águas de São Pedro
+550, 35, Águas de Santa Bárbara
+5000, 33, São João da Barra
+4300, 33, Rio Bonito
+3500, 33, Nova Iguaçu
+2700, 33, Maricá
+1900, 33, Itaboraí
+1850, 33, Guapimirim
+225, 33, Areal
+100, 33, Angra dos Reis
+5200, 32, Vila Velha
+5150, 32, Vila Pavão
+4500, 32, Santa Leopoldina
+3700, 32, Muniz Freire
+2900, 32, Itarana
+1100, 32, Bom Jesus do Norte
+300, 32, Alfredo Chaves
+71600, 31, Virgem da Lapa
+70800, 31, Várzea da Palma
+70750, 31, Varjão de Minas
+69000, 31, Tocantins
+68200, 31, Tapiraí
+67400, 31, Silvianópolis
+66600, 31, Serra da Saudade
+65800, 31, Senador José Bento
+64100, 31, São Pedro do Suaçuí
+63300, 31, São José do Divino
+62575, 31, São João do Manteninha
+62500, 31, São João del Rei
+62450, 31, São João das Missões
+61700, 31, São Gonçalo do Abaeté
+61650, 31, São Geraldo do Baixio
+60900, 31, São Brás do Suaçuí
+59100, 31, Santana dos Montes
+58300, 31, Santana da Vargem
+57500, 31, Santa Efigênia de Minas
+56700, 31, Sabará
+55900, 31, Rio Preto
+54200, 31, Resende Costa
+54150, 31, Reduto
+53400, 31, Presidente Olegário
+52600, 31, Pouso Alto
+51800, 31, Poços de Caldas
+50000, 31, Pescador
+49200, 31, Pedrinópolis
+49150, 31, Pedras de Maria da Cruz
+48400, 31, Paulistas
+47600, 31, Passa Quatro
+46750, 31, Palmópolis
+45000, 31, Nova Ponte
+44375, 31, Natalândia
+44300, 31, Nanuque
+43500, 31, Morada Nova de Minas
+43450, 31, Montezuma
+42700, 31, Montalvânia
+41900, 31, Minduri
+40100, 31, Marilac
+39300, 31, Manga
+39250, 31, Mamonas
+38625, 31, Limeira do Oeste
+38500, 31, Liberdade
+37700, 31, Lajinha
+36900, 31, Juruaia
+35100, 31, Janaúba
+35050, 31, Jaíba
+34400, 31, Iturama
+33600, 31, Itapeva
+32800, 31, Itambé do Mato Dentro
+31000, 31, Inhaúma
+30200, 31, Igaratinga
+29400, 31, Ibertioga
+28600, 31, Guarda-Mor
+27800, 31, Grão Mogol
+26950, 31, Frei Lagonegro
+26000, 31, Florestal
+25200, 31, Fama
+24500, 31, Estiva
+23700, 31, Engenheiro Caldas
+22900, 31, Dona Euzébia
+21100, 31, Delfim Moreira
+20300, 31, Cristália
+19500, 31, Coronel Murta
+18700, 31, Coqueiral
+17900, 31, Congonhal
+16100, 31, Chapada do Norte
+15300, 31, Cataguases
+14600, 31, Carrancas
+14550, 31, Carneirinho
+13800, 31, Carmésia
+12000, 31, Candeias
+11200, 31, Campo Belo
+11150, 31, Campo Azul
+10400, 31, Camacho
+9600, 31, Cachoeira da Prata
+8800, 31, Braúnas
+7000, 31, Biquinhas
+6200, 31, Belo Horizonte
+5400, 31, Barão de Cocais
+4700, 31, Ataléia
+3900, 31, Araújos
+2100, 31, Alto Rio Doce
+2050, 31, Alto Caparaó
+1300, 31, Alagoa
+500, 31, Açucena
+33000, 29, Valente
+32200, 29, Ubaitaba
+31400, 29, Teodoro Sampaio
+31350, 29, Teixeira de Freitas
+30600, 29, Serrolândia
+29800, 29, Saúde
+29750, 29, Saubara
+28950, 29, São Domingos
+28000, 29, Santaluz
+27200, 29, Ruy Barbosa
+26400, 29, Riacho de Santana
+25600, 29, Presidente Dutra
+24900, 29, Planaltino
+23100, 29, Olindina
+23050, 29, Novo Triunfo
+22300, 29, Muritiba
+22250, 29, Muquém do São Francisco
+21500, 29, Monte Santo
+21450, 29, Mirante
+20700, 29, Maraú
+19900, 29, Macururé
+18100, 29, Jeremoabo
+17300, 29, Ituberá
+16500, 29, Itapicuru
+15700, 29, Itamari
+14000, 29, Ipirá
+13200, 29, Ibotirama
+12400, 29, Ibipeba
+11600, 29, Governador Mangabeira
+10800, 29, Feira de Santana
+10750, 29, Fátima
+9000, 29, Cordeiros
+8200, 29, Conceição da Feira
+7400, 29, Catolândia
+6600, 29, Candiba
+5800, 29, Camamu
+4100, 29, Boquira
+4050, 29, Bonito
+3300, 29, Barro Preto
+2500, 29, Baianópolis
+1700, 29, Antônio Cardoso
+900, 29, Almadina
+7600, 28, Umbaúba
+6800, 28, São Domingos
+5000, 28, Pedra Mole
+4300, 28, Muribeca
+3500, 28, Lagarto
+2700, 28, Ilha das Flores
+1900, 28, Cumbe
+100, 28, Amparo do São Francisco
+9400, 27, Viçosa
+8600, 27, São Miguel dos Campos
+7800, 27, Roteiro
+6000, 27, Olivença
+5200, 27, Messias
+4500, 27, Maragogi
+3700, 27, Jaramataia
+2900, 27, Girau do Ponciano
+1100, 27, Branquinha
+300, 27, Arapiraca
+16100, 26, Verdejante
+15300, 26, Timbaúba
+14600, 26, Tabira
+13800, 26, São Vicente Férrer
+12000, 26, Sairé
+11200, 26, Poção
+10400, 26, Parnamirim
+9600, 26, Olinda
+8800, 26, Lajedo
+8750, 26, Lagoa Grande
+7950, 26, Jaqueira
+7000, 26, Inajá
+6200, 26, Goiana
+5400, 26, Feira Nova
+4700, 26, Correntes
+3900, 26, Carnaíba
+2100, 26, Bom Conselho
+1300, 26, Barra de Guabiraba
+500, 26, Águas Belas
+17100, 25, Várzea
+16300, 25, Sumé
+15500, 25, Serra Branca
+14800, 25, São José dos Cordeiros
+13000, 25, Salgadinho
+12200, 25, Prata
+11400, 25, Picuí
+10600, 25, Ouro Velho
+9800, 25, Mulungu
+8000, 25, Juru
+7200, 25, Itatuba
+6400, 25, Gurinhém
+5600, 25, Diamante
+4900, 25, Cruz do Espírito Santo
+4850, 25, Coxixola
+3100, 25, Cabaceiras
+2300, 25, Bom Sucesso
+1575, 25, Barra de Santana
+1500, 25, Bananeiras
+775, 25, Aparecida
+700, 25, São João do Rio do Peixe
+14100, 24, Tenente Ananias
+13300, 24, Serra de São Bento
+12500, 24, São Miguel
+11700, 24, São Bento do Trairí
+10900, 24, Riachuelo
+9100, 24, Passa e Fica
+8300, 24, Nova Cruz
+7500, 24, Maxaranguape
+6700, 24, Lajes
+5900, 24, João Dias
+4200, 24, Goianinha
+3400, 24, Equador
+2600, 24, Ceará-Mirim
+1800, 24, Brejinho
+13500, 23, Trairi
+12700, 23, Senador Pompeu
+11900, 23, Saboeiro
+10100, 23, Palmácia
+9300, 23, Nova Russas
+8500, 23, Mombaça
+7700, 23, Maranguape
+7650, 23, Maracanaú
+6900, 23, Jaguaribe
+5100, 23, Guaramiranga
+4400, 23, Fortaleza
+4350, 23, Forquilha
+3600, 23, Catarina
+2800, 23, Canindé
+1950, 23, Barreira
+1000, 23, Aquiraz
+200, 23, Acaraú
+150, 23, Acarape
+11100, 22, União
+10375, 22, São Luis do Piauí
+10300, 22, São Julião
+9500, 22, Santo Inácio do Piauí
+9450, 22, Santo Antônio dos Milagres
+8700, 22, Redenção do Gurguéia
+8650, 22, Queimada Nova
+7900, 22, Pedro II
+7850, 22, Pavussu
+6100, 22, Matias Olímpio
+6050, 22, Massapê do Piauí
+5300, 22, Jerumenha
+5250, 22, Jardim do Mulato
+4600, 22, Hugo Napoleão
+4550, 22, Guaribas
+3800, 22, Flores do Piauí
+3750, 22, Fartura do Piauí
+2075, 22, Cajazeiras do Piauí
+2000, 22, Buriti dos Lopes
+1200, 22, Barras
+1150, 22, Baixa Grande do Ribeiro
+400, 22, Altos
+12100, 21, Timbiras
+11300, 21, São Luís
+11250, 21, São José dos Basílios
+10500, 21, São Bento
+9700, 21, Sambaíba
+8900, 21, Poção de Pedras
+7100, 21, Morros
+6375, 21, Maranhãozinho
+6300, 21, Magalhães de Almeida
+5500, 21, João Lisboa
+5450, 21, Jatobá
+4800, 21, Grajaú
+3125, 21, Central do Maranhão
+3000, 21, Caxias
+2325, 21, Buriticupu
+2200, 21, Buriti
+2150, 21, Brejo de Areia
+1400, 21, Balsas
+1350, 21, Bacurituba
+600, 21, Amarante do Maranhão
+550, 21, Amapá do Maranhão
+21000, 17, Palmas
+20200, 17, São Miguel do Tocantins
+20150, 17, São Félix do Tocantins
+18550, 17, Riachinho
+17800, 17, Ponte Alta do Bom Jesus
+15150, 17, Novo Alegre
+13700, 17, Monte Santo do Tocantins
+11100, 17, Itaporã do Tocantins
+9500, 17, Gurupi
+6100, 17, Cristalândia
+4600, 17, Chapada de Areia
+3800, 17, Buriti do Tocantins
+2000, 17, Araguaçu
+400, 17, Almas
+350, 17, Aliança do Tocantins
+600, 16, Santana
+550, 16, Pracuúba
+8100, 15, Tucuruí
+8050, 15, Trairão
+7300, 15, São Félix do Xingu
+6500, 15, Santa Izabel do Pará
+5700, 15, Ponta de Pedras
+5650, 15, Placas
+4950, 15, Nova Esperança do Piriá
+4000, 15, Limoeiro do Ajuru
+3200, 15, Igarapé-Açu
+2400, 15, Castanhal
+1725, 15, Brasil Novo
+1600, 15, Bonito
+800, 15, Ananindeua
+175, 14, Cantá
+100, 14, Boa Vista
+50, 14, Alto Alegre
+3700, 13, Santo Antônio do Içá
+2900, 13, Maués
+1100, 13, Careiro
+300, 13, Autazes
+500, 12, Sena Madureira
+450, 12, Senador Guiomard
+1500, 11, Seringueiras
+1450, 11, Parecis
+700, 11, Campo Novo de Rondônia
+
+---- 536 colisoes nesta posicao ----
+
+posicao: 1, cidade: NULL
+
+posicao: 2, cidades:
+21601, 52, Uruaçu
+21551, 52, Turvelândia
+19001, 52, Sanclerlândia
+17401, 52, Pires do Rio
+15801, 52, Palmelo
+14101, 52, Mutunópolis
+14051, 52, Mundo Novo
+12501, 52, Luziânia
+11701, 52, Jandaia
+10901, 52, Itapaci
+9101, 52, Goiatuba
+8301, 52, Divinópolis de Goiás
+7501, 52, Estrela do Norte
+6701, 52, Damianópolis
+5901, 52, Corumbaíba
+4201, 52, Cachoeira de Goiás
+3401, 52, Bom Jardim de Goiás
+2601, 52, Aurilândia
+1801, 52, Aragoiânia
+8501, 51, Vera
+7776, 51, Santa Terezinha
+7701, 51, Rosário Oeste
+6851, 51, Porto Estrela
+5176, 51, Juruena
+5101, 51, Juara
+4526, 51, Ipiranga do Norte
+3601, 51, Dom Aquino
+1001, 51, Araguaiana
+201, 51, Água Boa
+7976, 50, Taquarussu
+7901, 50, Sidrolândia
+5251, 50, Laguna Carapã
+4601, 50, Itaquiraí
+3801, 50, Fátima do Sul
+3751, 50, Eldorado
+2951, 50, Chapadão do Sul
+2001, 50, Batayporã
+23101, 43, Vicente Dutra
+22376, 43, Unistalda
+22301, 43, Tuparendi
+22251, 43, Tupandi
+21626, 43, Travesseiro
+21501, 43, Torres
+21451, 43, Teutônia
+20701, 43, Sobradinho
+20651, 43, Silveira Martins
+19901, 43, Sapiranga
+18101, 43, São Francisco de Assis
+18051, 43, São Domingos do Sul
+17301, 43, Santa Vitória do Palmar
+17251, 43, Santa Tereza
+16501, 43, Salvador do Sul
+16451, 43, Salto do Jacuí
+15701, 43, Rio Pardo
+14076, 43, Passo do Sobrado
+14001, 43, Paraí
+13201, 43, Nova Petrópolis
+12476, 43, Morro Reuter
+12401, 43, Montenegro
+12351, 43, Montauri
+11601, 43, Liberato Salzano
+10876, 43, Jacuizinho
+10801, 43, Ivoti
+10751, 43, Ivorá
+9951, 43, Ibirapuitã
+9126, 43, Gramado dos Loureiros
+9001, 43, Giruá
+8201, 43, Flores da Cunha
+7401, 43, Esmeralda
+6601, 43, Dom Pedrito
+6551, 43, Dom Pedro de Alcântara
+5801, 43, Constantina
+4101, 43, Campos Borges
+3301, 43, Caibaté
+2501, 43, Bossoroca
+2451, 43, Boqueirão do Leão
+1701, 43, Barão de Cotegipe
+1651, 43, Barão
+901, 43, Aratiba
+851, 43, Arambaré
+19176, 42, Vargem Bonita
+19101, 42, Vargeão
+18301, 42, Três Barras
+18251, 42, Timbó Grande
+17501, 42, Seara
+16701, 42, São José do Cedro
+15901, 42, São Bonifácio
+14201, 42, Quilombo
+14151, 42, Princesa
+13401, 42, Ponte Serrada
+13351, 42, Ponte Alta do Norte
+12601, 42, Peritiba
+11876, 42, Paial
+11801, 42, Ouro
+11751, 42, Otacílio Costa
+10001, 42, Luiz Alves
+9201, 42, Lacerdópolis
+9151, 42, José Boiteux
+8401, 42, Itapiranga
+7601, 42, Ipira
+6801, 42, Ibicaré
+6751, 42, Ibiam
+5001, 42, Dionísio Cerqueira
+4301, 42, Concórdia
+4251, 42, Cocal do Sul
+3501, 42, Campo Erê
+2701, 42, Botuverá
+1901, 42, Aurora
+101, 42, Abelardo Luz
+51, 42, Abdon Batista
+28401, 41, Uraí
+27601, 41, Tijucas do Sul
+26801, 41, Tapejara
+25001, 41, São João do Ivaí
+24301, 41, Santo Antônio do Paraíso
+23501, 41, Santa Helena
+22701, 41, Sabáudia
+22651, 41, Rosário do Ivaí
+21901, 41, Ribeirão do Pinhal
+20101, 41, Porto Amazonas
+19301, 41, Pinhão
+19251, 41, Pinhal de São Bento
+18501, 41, Pato Branco
+18451, 41, Pato Bragado
+17701, 41, Palmeira
+16901, 41, Nova Esperança
+15101, 41, Mariluz
+14401, 41, Mangueirinha
+14351, 41, Manfrinópolis
+13601, 41, Lobato
+12801, 41, Joaquim Távora
+12751, 41, Jesuítas
+11001, 41, Itambaracá
+10201, 41, Inácio Martins
+9401, 41, Guarapuava
+8601, 41, Goioerê
+8551, 41, Godoy Moreira
+7801, 41, Floraí
+7751, 41, Figueira
+6001, 41, Congonhinhas
+5201, 41, Cerro Azul
+4501, 41, Capanema
+4451, 41, Cantagalo
+3701, 41, Cambé
+2901, 41, Bituruna
+1101, 41, Andirá
+1051, 41, Anahy
+301, 41, Agudos do Sul
+56701, 35, Vinhedo
+55901, 35, Uru
+54201, 35, Tejupá
+53401, 35, Tanabi
+52601, 35, Tabapuã
+52551, 35, Suzanápolis
+51801, 35, Sete Barras
+50001, 35, São Luiz do Paraitinga
+49201, 35, São João das Duas Pontes
+48401, 35, Santópolis do Aguapeí
+47601, 35, Santa Rosa de Viterbo
+46801, 35, Santa Isabel
+45001, 35, Salesópolis
+44301, 35, Roseira
+44251, 35, Rosana
+43501, 35, Riversul
+42701, 35, Restinga
+41901, 35, Queluz
+40101, 35, Pongaí
+39301, 35, Pirassununga
+38501, 35, Piquete
+37701, 35, Piacatu
+36901, 35, Pedranópolis
+35101, 35, Palmares Paulista
+34401, 35, Osasco
+33601, 35, Nuporanga
+32801, 35, Nova Aliança
+31001, 35, Monções
+30201, 35, Mirante do Paranapanema
+29401, 35, Mauá
+28601, 35, Manduri
+27801, 35, Lupércio
+26001, 35, Junqueirópolis
+25201, 35, Jarinu
+24501, 35, Jaci
+23701, 35, Itirapuã
+22901, 35, Itapuí
+21101, 35, Ipeúna
+20426, 35, Ilha Comprida
+20301, 35, Iguape
+19501, 35, Ibirarema
+18701, 35, Guarujá
+17901, 35, Guaraci
+16101, 35, Florínea
+15301, 35, Estrela do Norte
+14601, 35, Dumont
+13801, 35, Diadema
+12001, 35, Colina
+11201, 35, Catiguá
+10401, 35, Capivari
+9601, 35, Campo Limpo Paulista
+8801, 35, Cafelândia
+7001, 35, Boituva
+6201, 35, Bento de Abreu
+5401, 35, Barra do Turvo
+5351, 35, Barra do Chapéu
+4701, 35, Balbinos
+3901, 35, Arujá
+2101, 35, Andradina
+1301, 35, Álvares Machado
+501, 35, Águas de Lindóia
+5901, 33, Trajano de Moraes
+4201, 33, Resende
+4151, 33, Quissamã
+3401, 33, Nova Friburgo
+2601, 33, Mangaratiba
+1876, 33, Iguaba Grande
+1801, 33, Engenheiro Paulo de Frontin
+951, 33, Comendador Levy Gasparian
+5176, 32, Vila Valério
+5101, 32, Viana
+4401, 32, Rio Novo do Sul
+4351, 32, Rio Bananal
+3601, 32, Mucurici
+2801, 32, Itapemirim
+1001, 32, Boa Esperança
+201, 32, Alegre
+71501, 31, Mathias Lobato
+70701, 31, Varginha
+70651, 31, Vargem Grande do Rio Pardo
+69901, 31, Ubá
+68101, 31, Tapira
+68051, 31, Taparuba
+67301, 31, Silveirânia
+66501, 31, Serra Azul de Minas
+65701, 31, Senador Firmino
+64001, 31, São Pedro dos Ferros
+63201, 31, São José do Alegre
+62401, 31, São João da Ponte
+61601, 31, São Geraldo da Piedade
+60801, 31, São Bento Abade
+59001, 31, Santana do Riacho
+58201, 31, Santa Maria do Suaçuí
+57401, 31, Santa Cruz do Escalvado
+56601, 31, Rubim
+55801, 31, Rio Pomba
+54101, 31, Recreio
+53301, 31, Presidente Kubitschek
+52501, 31, Pouso Alegre
+51701, 31, Poço Fundo
+50901, 31, Piranguçu
+49101, 31, Pedralva
+48301, 31, Paula Cândido
+47501, 31, Passabém
+46701, 31, Palma
+45901, 31, Ouro Branco
+45851, 31, Oratórios
+44201, 31, Nacip Raydan
+43401, 31, Monte Sião
+42601, 31, Monsenhor Paulo
+41801, 31, Minas Novas
+40001, 31, Mariana
+39201, 31, Malacacheta
+38401, 31, Leopoldina
+38351, 31, Leme do Prado
+37601, 31, Lagoa Santa
+36801, 31, Juramento
+35076, 31, Jampruca
+35001, 31, Jaguaraçu
+34301, 31, Itumirim
+33501, 31, Itapecerica
+32701, 31, Itambacuri
+31901, 31, Itabirito
+30101, 31, Igarapé
+30051, 31, Icaraí de Minas
+29301, 31, Iapu
+28501, 31, Guarará
+27701, 31, Governador Valadares
+26901, 31, Frei Inocêncio
+25101, 31, Extrema
+24401, 31, Espírito Santo do Dourado
+23601, 31, Elói Mendes
+22801, 31, Dom Viçoso
+21001, 31, Datas
+20201, 31, Cristais
+20151, 31, Crisólita
+19401, 31, Coronel Fabriciano
+18601, 31, Contagem
+17876, 31, Confins
+17801, 31, Conceição dos Ouros
+16001, 31, Chalé
+15201, 31, Conceição da Barra de Minas
+14501, 31, Carmópolis de Minas
+13701, 31, Carlos Chagas
+12901, 31, Caputira
+11101, 31, Campina Verde
+10301, 31, Caldas
+9501, 31, Cabo Verde
+9451, 31, Cabeceira Grande
+8701, 31, Brás Pires
+7901, 31, Bom Repouso
+6101, 31, Belmiro Braga
+5301, 31, Bandeira do Sul
+4601, 31, Astolfo Dutra
+3801, 31, Arapuá
+3751, 31, Araporã
+2001, 31, Alterosa
+1201, 31, Aiuruoca
+401, 31, Acaiaca
+32101, 29, Ubaíra
+31301, 29, Tapiramutá
+30501, 29, Serrinha
+29701, 29, Sátiro Dias
+28901, 29, São Desidério
+27101, 29, Rodelas
+26301, 29, Riachão do Jacuípe
+25501, 29, Prado
+24801, 29, Piritiba
+23001, 29, Nova Viçosa
+22201, 29, Muniz Ferreira
+21401, 29, Mirangaba
+20601, 29, Maragogipe
+19926, 29, Madre de Deus
+19801, 29, Macaúbas
+18001, 29, Jequié
+17201, 29, Ituaçu
+16401, 29, Itapetinga
+15601, 29, Itamaraju
+14901, 29, Itacaré
+13101, 29, Ibititá
+12301, 29, Ibicuí
+11501, 29, Gongogi
+10776, 29, Feira da Mata
+10701, 29, Euclides da Cunha
+9901, 29, Curaçá
+8101, 29, Cocos
+7301, 29, Castro Alves
+6501, 29, Candeias
+5701, 29, Camaçari
+4001, 29, Boninal
+3276, 29, Barrocas
+3201, 29, Barreiras
+2401, 29, Aurelino Leal
+1601, 29, Antas
+801, 29, Alcobaça
+7501, 28, Tomar do Geru
+6701, 28, São Cristóvão
+5901, 28, Riachuelo
+4201, 28, Monte Alegre de Sergipe
+3401, 28, Japoatã
+2601, 28, Gracho Cardoso
+9301, 27, União dos Palmares
+8501, 27, São Luís do Quitunde
+7701, 27, Rio Largo
+6901, 27, Pilar
+5101, 27, Matriz de Camaragibe
+4401, 27, Major Isidoro
+3601, 27, Japaratinga
+2801, 27, Flexeiras
+1001, 27, Boca da Mata
+201, 27, Anadia
+16001, 26, Venturosa
+15201, 26, Terra Nova
+14501, 26, Surubim
+13701, 26, São Lourenço da Mata
+12901, 26, São Benedito do Sul
+11101, 26, Petrolina
+10301, 26, Paranatama
+9501, 26, Nazaré da Mata
+8701, 26, Lagoa dos Gatos
+7901, 26, Jaboatão dos Guararapes
+6101, 26, Glória do Goitá
+5301, 26, Exu
+4601, 26, Condado
+3926, 26, Carnaubeira da Penha
+3801, 26, Capoeiras
+2001, 26, Bodocó
+1201, 26, Arcoverde
+401, 26, Água Preta
+17001, 25, Umbuzeiro
+16201, 25, Sousa
+16151, 25, Sossêgo
+15401, 25, São Vicente do Seridó
+14701, 25, São José do Sabugi
+14651, 25, São José do Brejo do Cruz
+13901, 25, São Bento
+13851, 25, Santo André
+12101, 25, Pombal
+11301, 25, Piancó
+10501, 25, Olivedos
+9701, 25, Monteiro
+8901, 25, Mamanguape
+7101, 25, Itapororoca
+6301, 25, Guarabira
+6251, 25, Gado Bravo
+5501, 25, Vista Serrana
+4801, 25, Coremas
+3001, 25, Caaporã
+2201, 25, Bom Jesus
+2151, 25, Boa Vista
+1401, 25, Baía da Traição
+1351, 25, Assunção
+601, 25, Alhandra
+14001, 24, Tangará
+13201, 24, Senador Georgino Avelino
+12401, 24, São José do Seridó
+11601, 24, São Bento do Norte
+10801, 24, Riacho de Santana
+8201, 24, Nísia Floresta
+7401, 24, Martins
+6601, 24, Lagoa Salgada
+5801, 24, João Câmara
+4101, 24, Galinhos
+3301, 24, Encanto
+3251, 24, Parnamirim
+2501, 24, Carnaubais
+1701, 24, Bom Jesus
+1651, 24, Bodó
+901, 24, Antônio Martins
+13401, 23, Tianguá
+13351, 23, Tejuçuoca
+12601, 23, São Luís do Curu
+11801, 23, Russas
+10951, 23, Pires Ferreira
+10001, 23, Palhano
+9201, 23, Nova Olinda
+8401, 23, Missão Velha
+8351, 23, Milhã
+7601, 23, Limoeiro do Norte
+6801, 23, Jaguaribara
+5001, 23, Guaraciaba do Norte
+4301, 23, Farias Brito
+4251, 23, Cruz
+3501, 23, Cascavel
+2701, 23, Campos Sales
+1901, 23, Barbalha
+1851, 23, Banabuiú
+101, 23, Abaiara
+11001, 22, Teresina
+10201, 22, São José do Piauí
+9401, 22, Santo Antônio de Lisboa
+9351, 22, Santana do Piauí
+8601, 22, Prata do Piauí
+8551, 22, Porto Alegre do Piauí
+7801, 22, Paulistana
+7751, 22, Passagem Franca do Piauí
+6951, 22, Novo Santo Antônio
+6001, 22, Marcos Parente
+5276, 22, Jatobá do Piauí
+5201, 22, Jaicós
+5151, 22, Jacobina do Piauí
+4501, 22, Guadalupe
+3701, 22, Esperantina
+2901, 22, Corrente
+2851, 22, Coronel José Dias
+2251, 22, Canavieira
+2026, 22, Buriti dos Montes
+1176, 22, Barra D'Alcântara
+1101, 22, Avelino Lopes
+1051, 22, Assunção do Piauí
+301, 22, Alto Longá
+251, 22, Alagoinha do Piauí
+12001, 21, Tasso Fragoso
+11201, 21, São José de Ribamar
+10401, 21, São Benedito do Rio Preto
+9601, 21, Rosário
+9551, 21, Ribamar Fiquene
+8801, 21, Pirapemas
+7001, 21, Montes Altos
+6326, 21, Maracaçumé
+6201, 21, Luís Domingues
+5476, 21, Jenipapo dos Vieiras
+5401, 21, Itapecuru Mirim
+5351, 21, Itaipava do Grajaú
+4701, 21, Graça Aranha
+4651, 21, Governador Newton Bello
+3901, 21, Duque Bacelar
+2101, 21, Brejo
+1301, 21, Bacuri
+1251, 21, Bacabeira
+501, 21, Alto Parnaíba
+20101, 17, São Bento do Tocantins
+18501, 17, Recursolândia
+18451, 17, Pugmil
+15101, 17, Novo Acordo
+13601, 17, Monte do Carmo
+12801, 17, Maurilândia do Tocantins
+11951, 17, Lagoa do Tocantins
+6001, 17, Couto Magalhães
+3826, 17, Cachoeirinha
+3701, 17, Brejinho de Nazaré
+2901, 17, Axixá do Tocantins
+1101, 17, Aparecida do Rio Negro
+1051, 17, Angico
+301, 17, Aguiarnópolis
+251, 17, Abreulândia
+501, 16, Oiapoque
+8126, 15, Ulianópolis
+8001, 15, Tomé-Açu
+7201, 15, São Domingos do Capim
+7151, 15, São Domingos do Araguaia
+6401, 15, Santa Cruz do Arari
+6351, 15, Santa Bárbara do Pará
+5601, 15, Peixe-Boi
+5551, 15, Pau D'Arco
+4976, 15, Nova Ipixuna
+4901, 15, Muaná
+3101, 15, Gurupá
+2301, 15, Capitão Poço
+1576, 15, Bom Jesus do Tocantins
+1501, 15, Benevides
+1451, 15, Belterra
+701, 15, Anajás
+4401, 13, Urucurituba
+3601, 13, Santa Isabel do Rio Negro
+2801, 13, Maraã
+1951, 13, Itamarati
+1001, 13, Carauari
+201, 13, Atalaia do Norte
+401, 12, Rio Branco
+351, 12, Marechal Thaumaturgo
+1476, 11, Primavera de Rondônia
+1401, 11, Monte Negro
+601, 11, Cacaulândia
+
+---- 522 colisoes nesta posicao ----
+
+posicao: 3, cidade: NULL
+
+posicao: 4, cidades:
+22302, 52, Vila Propício
+21577, 52, Uirapuru
+21502, 52, Turvânia
+21452, 52, Trombas
+20702, 52, Sítio d'Abadia
+19902, 52, São Francisco de Goiás
+18102, 52, Portelândia
+18052, 52, Porteirão
+17302, 52, Pirenópolis
+16452, 52, Perolândia
+15702, 52, Palmeiras de Goiás
+15652, 52, Palestina de Goiás
+14002, 52, Mozarlândia
+11602, 52, Ivolândia
+10802, 52, Itajá
+9952, 52, Indiara
+8152, 52, Gameleira de Goiás
+7402, 52, Edéia
+7352, 52, Edealina
+6602, 52, Cumari
+5802, 52, Corumbá de Goiás
+4102, 52, Cachoeira Alta
+3302, 52, Bela Vista de Goiás
+2502, 52, Aruanã
+1702, 52, Aragarças
+902, 52, Amorinópolis
+852, 52, Americano do Brasil
+8402, 51, Várzea Grande
+8352, 51, Vale de São Domingos
+7602, 51, Rondonópolis
+6802, 51, Porto dos Gaúchos
+6752, 51, Pontes e Lacerda
+5002, 51, Jauru
+3502, 51, Diamantino
+3452, 51, Denise
+2702, 51, Canarana
+1902, 51, Brasnorte
+1852, 51, Bom Jesus do Araguaia
+102, 51, Acorizal
+7802, 50, Selvíria
+6002, 50, Nova Alvorada do Sul
+5202, 50, Ladário
+5152, 50, Juti
+4502, 50, Itaporã
+3702, 50, Dourados
+2902, 50, Cassilândia
+1102, 50, Aquidauana
+252, 50, Alcinópolis
+23002, 43, Viamão
+22327, 43, Turuçu
+22202, 43, Tupanciretã
+22152, 43, Tunas
+21477, 43, Tiradentes do Sul
+21402, 43, Tenente Portela
+21352, 43, Tavares
+20677, 43, Sinimbu
+20602, 43, Severiano de Almeida
+20552, 43, Sertão Santana
+19802, 43, São Vicente do Sul
+19752, 43, São Vendelino
+18002, 43, São Borja
+17202, 43, Santa Rosa
+16477, 43, Salvador das Missões
+16402, 43, Rosário do Sul
+15602, 43, Rio Grande
+15552, 43, Rio dos Índios
+14902, 43, Porto Alegre
+14027, 43, Paraíso do Sul
+13102, 43, Nova Palma
+12427, 43, Mormaço
+12377, 43, Monte Alegre dos Campos
+12302, 43, Miraguaí
+12252, 43, Minas do Leão
+11627, 43, Lindolfo Collor
+11502, 43, Lavras do Sul
+10702, 43, Itatiba do Sul
+10652, 43, Itati
+9902, 43, Ibiraiaras
+8102, 43, Feliz
+8052, 43, Faxinalzinho
+7302, 43, Erval Seco
+6502, 43, Dom Feliciano
+6452, 43, Dois Lajeados
+5702, 43, Condor
+4952, 43, Caseiros
+4002, 43, Campo Novo
+3202, 43, Cacique Doble
+2402, 43, Bom Retiro do Sul
+2352, 43, Bom Princípio
+1602, 43, Bagé
+1552, 43, Áurea
+877, 43, Araricá
+802, 43, Antônio Prado
+19002, 42, Urussanga
+18202, 42, Timbó
+17402, 42, Schroeder
+16602, 42, São José
+15802, 42, São Bento do Sul
+15752, 42, São Bernardino
+14102, 42, Presidente Nereu
+13302, 42, Ponte Alta
+12502, 42, Penha
+11702, 42, Orleans
+11652, 42, Novo Horizonte
+10902, 42, Modelo
+10852, 42, Mirim Doce
+9177, 42, Jupiá
+9102, 42, Joinville
+8302, 42, Itapema
+7577, 42, Iomerê
+7502, 42, Indaial
+6702, 42, Herval d'Oeste
+6652, 42, Guatambú
+5902, 42, Gaspar
+4202, 42, Chapecó
+4152, 42, Celso Ramos
+3402, 42, Campo Belo do Sul
+2602, 42, Bom Retiro
+1802, 42, Atalanta
+28302, 41, Uniflor
+27502, 41, Tibagi
+26702, 41, Tamboara
+26652, 41, Sulina
+25902, 41, São Pedro do Paraná
+24202, 41, Santo Antônio do Caiuá
+23402, 41, Santa Fé
+22602, 41, Rondon
+21802, 41, Ribeirão Claro
+21752, 41, Reserva do Iguaçu
+20002, 41, Porecatu
+19202, 41, Pinhalão
+19152, 41, Pinhais
+18402, 41, Paranavaí
+17602, 41, Palmas
+16802, 41, Nova Cantu
+15002, 41, Marilena
+14302, 41, Mandirituba
+13502, 41, Loanda
+13452, 41, Lindoeste
+12702, 41, Jataizinho
+11902, 41, Jaguapitã
+10102, 41, Imbituva
+10052, 41, Iguatu
+9302, 41, Guaraniaçu
+8502, 41, General Carneiro
+8452, 41, Foz do Jordão
+7702, 41, Fênix
+7652, 41, Fazenda Rio Grande
+6902, 41, Curitiba
+6852, 41, Cruzmaltina
+5102, 41, Centenário do Sul
+4402, 41, Cândido de Abreu
+3602, 41, Cambará
+2802, 41, Bela Vista do Paraíso
+2752, 41, Bela Vista da Caroba
+1002, 41, Ampére
+202, 41, Adrianópolis
+56602, 35, Vera Cruz
+55802, 35, Urânia
+54102, 35, Taubaté
+53302, 35, Tambaú
+52502, 35, Suzano
+51702, 35, Sertãozinho
+50902, 35, São Simão
+49102, 35, São João da Boa Vista
+48302, 35, Santo Expedito
+47502, 35, Santa Rita do Passa Quatro
+46702, 35, Santa Gertrudes
+44202, 35, Riolândia
+43402, 35, Ribeirão Preto
+42602, 35, Registro
+41802, 35, Queiroz
+40002, 35, Pompéia
+39202, 35, Pirapozinho
+37602, 35, Peruíbe
+36802, 35, Pedra Bela
+35002, 35, Palestina
+34302, 35, Orlândia
+33502, 35, Novo Horizonte
+32827, 35, Nova Campina
+32702, 35, Nipoã
+31902, 35, Morro Agudo
+30102, 35, Mirandópolis
+29302, 35, Matão
+28502, 35, Mairiporã
+27702, 35, Luiziânia
+26902, 35, Limeira
+25102, 35, Jardinópolis
+24402, 35, Jacareí
+23602, 35, Itirapina
+22802, 35, Itaporanga
+21002, 35, Iperó
+20202, 35, Igaratá
+19402, 35, Ibirá
+18602, 35, Guariba
+17802, 35, Guaraçaí
+16002, 35, Flórida Paulista
+15202, 35, Estrela d'Oeste
+15152, 35, Engenheiro Coelho
+14502, 35, Duartina
+13702, 35, Descalvado
+12902, 35, Cosmorama
+11102, 35, Catanduva
+10302, 35, Capela do Alto
+9502, 35, Campinas
+9452, 35, Campina do Monte Alegre
+8702, 35, Caconde
+7902, 35, Brotas
+6102, 35, Bebedouro
+5302, 35, Barra Bonita
+4602, 35, Bady Bassitt
+3802, 35, Artur Nogueira
+2002, 35, Analândia
+1202, 35, Álvares Florence
+1152, 35, Alumínio
+402, 35, Águas da Prata
+5802, 33, Teresópolis
+5752, 33, Tanguá
+4102, 33, Porciúncula
+3302, 33, Niterói
+2502, 33, Magé
+2452, 33, Macuco
+1702, 33, Duque de Caxias
+902, 33, Cambuci
+5002, 32, Serra
+4302, 32, Presidente Kennedy
+4252, 32, Ponto Belo
+3502, 32, Montanha
+2702, 32, Itaguaçu
+2652, 32, Irupi
+1902, 32, Domingos Martins
+102, 32, Afonso Cláudio
+72202, 31, Wenceslau Braz
+71402, 31, Vieiras
+70602, 31, Vargem Bonita
+69802, 31, Turvolândia
+68002, 31, Taiobeiras
+67202, 31, Sete Lagoas
+66402, 31, Seritinga
+65602, 31, Senador Cortes
+65552, 31, Setubinha
+64902, 31, São Sebastião do Rio Verde
+63102, 31, São José da Varginha
+62302, 31, São João da Mata
+62252, 31, São João da Lagoa
+61502, 31, São Geraldo
+60702, 31, Santos Dumont
+59902, 31, Santo Antônio do Amparo
+58102, 31, Santa Maria do Salto
+57377, 31, Santa Cruz de Salinas
+57302, 31, Santa Bárbara do Tugúrio
+57252, 31, Santa Bárbara do Leste
+56502, 31, Rubelita
+56452, 31, Rosário da Limeira
+55702, 31, Rio Piracicaba
+54002, 31, Raul Soares
+53202, 31, Presidente Juscelino
+52402, 31, Poté
+51602, 31, Planura
+50802, 31, Piranga
+49952, 31, Periquito
+49002, 31, Pedra Dourada
+48202, 31, Patrocínio do Muriaé
+47402, 31, Paraopeba
+46602, 31, Paiva
+46552, 31, Pai Pedro
+45877, 31, Orizânia
+45802, 31, Onça de Pitangui
+44102, 31, Muzambinho
+43302, 31, Montes Claros
+42502, 31, Monjolos
+41702, 31, Mesquita
+40902, 31, Matipó
+40852, 31, Matias Cardoso
+39102, 31, Madre de Deus de Minas
+38302, 31, Leandro Ferreira
+37502, 31, Lagoa Formosa
+36702, 31, Juiz de Fora
+36652, 31, Juatuba
+35902, 31, Jesuânia
+34202, 31, Ituiutaba
+33402, 31, Itapagipe
+32602, 31, Itamarati de Minas
+31802, 31, Itabirinha
+30002, 31, Ibituruna
+29202, 31, Heliodora
+28402, 31, Guarani
+27602, 31, Gouveia
+26802, 31, Frei Gaspar
+26752, 31, Franciscópolis
+25952, 31, Fervedouro
+25002, 31, Ewbank da Câmara
+24302, 31, Espinosa
+23502, 31, Douradoquara
+22702, 31, Dom Silvério
+21902, 31, Divinésia
+20102, 31, Couto de Magalhães de Minas
+19302, 31, Coromandel
+18502, 31, Consolação
+17702, 31, Conceição do Rio Verde
+16902, 31, Comendador Gomes
+15102, 31, Cássia
+14402, 31, Carmo do Rio Claro
+13602, 31, Careaçu
+12802, 31, Capitólio
+11002, 31, Campestre
+10202, 31, Cajuri
+9402, 31, Buritizeiro
+8602, 31, Brasília de Minas
+8552, 31, Brasilândia de Minas
+7802, 31, Bom Jesus do Galho
+6002, 31, Bela Vista de Minas
+5202, 31, Bandeira
+4502, 31, Arinos
+4452, 31, Aricanduva
+3702, 31, Araponga
+2902, 31, Antônio Carlos
+2852, 31, Angelândia
+1102, 31, Aimorés
+302, 31, Abre Campo
+32002, 29, Uauá
+31202, 29, Taperoá
+30402, 29, Serra Preta
+29602, 29, Sapeaçu
+28802, 29, Santo Estêvão
+27002, 29, Rio Real
+26202, 29, Riachão das Neves
+25402, 29, Potiraguá
+24702, 29, Piripá
+24652, 29, Pintadas
+23902, 29, Pau Brasil
+22102, 29, Mundo Novo
+22052, 29, Mulungu do Morro
+21302, 29, Milagres
+20502, 29, Maracás
+20452, 29, Mansidão
+19702, 29, Macarani
+18902, 29, Lajedão
+17102, 29, Itororó
+16302, 29, Itapebi
+15502, 29, Itajuípe
+14802, 29, Itabuna
+13002, 29, Ibitiara
+12202, 29, Ibicoara
+11402, 29, Glória
+10727, 29, Eunápolis
+10602, 29, Esplanada
+9802, 29, Cruz das Almas
+8002, 29, Coaraci
+7202, 29, Casa Nova
+6402, 29, Candeal
+5602, 29, Camacan
+4902, 29, Cachoeira
+4852, 29, Cabaceiras do Paraguaçu
+3102, 29, Barra do Rocha
+2302, 29, Aratuípe
+2252, 29, Arataca
+1502, 29, Anguera
+702, 29, Alagoinhas
+7402, 28, Tobias Barreto
+6602, 28, Santo Amaro das Brotas
+5802, 28, Riachão do Dantas
+4102, 28, Moita Bonita
+3302, 28, Japaratuba
+2502, 28, General Maynard
+1702, 28, Cristinápolis
+9202, 27, Traipu
+9152, 27, Teotônio Vilela
+8402, 27, São José da Tapera
+7602, 27, Quebrangulo
+6802, 27, Piaçabuçu
+5002, 27, Mata Grande
+4302, 27, Maceió
+3502, 27, Jacuípe
+2702, 27, Feliz Deserto
+1902, 27, Chã Preta
+102, 27, Água Branca
+15102, 26, Terezinha
+14402, 26, Solidão
+13602, 26, São José do Egito
+12802, 26, Santa Terezinha
+11002, 26, Petrolândia
+10202, 26, Panelas
+9402, 26, Moreno
+8602, 26, Lagoa do Ouro
+7802, 26, Itaquitinga
+7752, 26, Itapissuma
+6002, 26, Garanhuns
+5202, 26, Escada
+5152, 26, Dormentes
+4502, 26, Chã Grande
+3702, 26, Canhotinho
+2902, 26, Cabo de Santo Agostinho
+1102, 26, Araripina
+1052, 26, Araçoiaba
+302, 26, Agrestina
+16102, 25, Soledade
+15302, 25, Sapé
+14602, 25, São José do Bonfim
+14552, 25, São José de Princesa
+13927, 25, São Bentinho
+13802, 25, Santa Teresinha
+12077, 25, Poço de José de Moura
+12002, 25, Pocinhos
+11202, 25, Pedras de Fogo
+10402, 25, Olho d'Água
+9602, 25, Monte Horebe
+8802, 25, Malta
+7002, 25, Itaporanga
+6202, 25, Frei Martinho
+5402, 25, Desterro
+5352, 25, Damião
+4702, 25, Congo
+3902, 25, Camalaú
+2102, 25, Boa Ventura
+2052, 25, Bernardino Batista
+1302, 25, Aroeiras
+577, 25, Algodão de Jandaíra
+502, 25, Alagoinha
+14902, 24, Viçosa
+13102, 24, Senador Elói de Souza
+12302, 24, São José do Campestre
+11502, 24, Santo Antônio
+10702, 24, Riacho da Cruz
+9902, 24, Pendências
+8102, 24, Natal
+7302, 24, Marcelino Vieira
+7252, 24, Major Sales
+6502, 24, Lagoa Nova
+5702, 24, Jardim do Seridó
+4002, 24, Frutuoso Gomes
+3202, 24, Doutor Severiano
+2402, 24, Carnaúba dos Dantas
+1602, 24, Bento Fernandes
+802, 24, Angicos
+14102, 23, Viçosa do Ceará
+13302, 23, Tauá
+13252, 23, Tarrafas
+12502, 23, São João do Jaguaribe
+11702, 23, Reriutaba
+10902, 23, Piquet Carneiro
+10852, 23, Pindoretama
+9102, 23, Mulungu
+8377, 23, Miraíma
+8302, 23, Milagres
+7502, 23, Lavras da Mangabeira
+6702, 23, Jaguaretama
+5902, 23, Ipueiras
+4277, 23, Ereré
+4202, 23, Crato
+3402, 23, Carnaubal
+2602, 23, Camocim
+1802, 23, Baixio
+10102, 22, São José do Peixe
+10052, 22, São José do Divino
+9377, 22, Santa Rosa do Piauí
+9302, 22, Santa Luz
+8502, 22, Porto
+7777, 22, Patos do Piauí
+7702, 22, Parnaíba
+6902, 22, Novo Oriente do Piauí
+5102, 22, Itaueira
+4402, 22, Gilbués
+4352, 22, Geminiano
+3602, 22, Eliseu Martins
+2802, 22, Conceição do Canindé
+2752, 22, Colônia do Gurguéia
+1002, 22, Arraial
+277, 22, Alegrete do Piauí
+202, 22, Água Branca
+12902, 21, Vitória do Mearim
+12852, 21, Vila Nova dos Martírios
+11102, 21, São João dos Patos
+11052, 21, São João do Paraíso
+10302, 21, Santo Antônio dos Lopes
+9502, 21, Riachão
+9452, 21, Raposa
+8702, 21, Pio XII
+7902, 21, Passagem Franca
+6102, 21, Loreto
+5427, 21, Itinga do Maranhão
+5302, 21, Imperatriz
+4677, 21, Governador Nunes Freire
+4602, 21, Governador Eugênio Barros
+4552, 21, Governador Edison Lobão
+3802, 21, Dom Pedro
+3752, 21, Davinópolis
+2077, 21, Bom Lugar
+2002, 21, Bom Jardim
+1202, 21, Bacabal
+477, 21, Alto Alegre do Pindaré
+402, 21, Altamira do Maranhão
+20002, 17, Santa Terezinha do Tocantins
+18402, 17, Presidente Kennedy
+15002, 17, Nova Rosalândia
+14302, 17, Nazaré
+12702, 17, Mateiros
+11902, 17, Lagoa da Confusão
+9302, 17, Guaraí
+7702, 17, Filadélfia
+7652, 17, Figueirópolis
+5102, 17, Chapada da Natividade
+3602, 17, Brasilândia do Tocantins
+1002, 17, Ananás
+402, 16, Mazagão
+7102, 15, São Caetano de Odivelas
+6302, 15, Salvaterra
+5502, 15, Paragominas
+4802, 15, Monte Alegre
+4752, 15, Mojuí dos Campos
+3077, 15, Garrafão do Norte
+3002, 15, Faro
+2202, 15, Capanema
+2152, 15, Canaã dos Carajás
+1402, 15, Belém
+602, 15, Altamira
+27, 14, Amajari
+4302, 13, Urucará
+3502, 13, Pauini
+2702, 13, Manicoré
+1902, 13, Itacoatiara
+1852, 13, Iranduba
+102, 13, Anori
+427, 12, Rodrigues Alves
+302, 12, Feijó
+252, 12, Epitaciolândia
+1302, 11, Mirante da Serra
+502, 11, Novo Horizonte do Oeste
+452, 11, Buritis
+
+---- 529 colisoes nesta posicao ----
+
+posicao: 5, cidade: NULL
+
+posicao: 6, cidades:
+22203, 52, Vila Boa
+21403, 52, Trindade
+20603, 52, Silvânia
+19803, 52, São Domingos
+19753, 52, Santo Antônio do Descoberto
+18003, 52, Porangatu
+17203, 52, Piranhas
+16403, 52, Paraúna
+15603, 52, Padre Bernardo
+14903, 52, Nova Roma
+13103, 52, Mineiros
+13053, 52, Mimoso de Goiás
+12303, 52, Leopoldo de Bulhões
+12253, 52, Lagoa Santa
+11503, 52, Itumbiara
+9903, 52, Iaciara
+8103, 52, Formoso
+7253, 52, Doverlândia
+6503, 52, Cromínia
+5703, 52, Córrego do Ouro
+4953, 52, Campos Verdes
+4003, 52, Cabeceiras
+3203, 52, Barro Alto
+2353, 52, Arenópolis
+1603, 52, Araçu
+803, 52, Alvorada do Norte
+8303, 51, União do Sul
+7578, 51, Rondolândia
+6828, 51, Porto Esperidião
+6778, 51, Porto Alegre do Norte
+6703, 51, Ponte Branca
+6653, 51, Pontal do Araguaia
+5903, 51, Nobres
+4203, 51, Guiratinga
+3403, 51, Cuiabá
+3353, 51, Confresa
+2678, 51, Campo Verde
+2603, 51, Campinápolis
+1803, 51, Barra do Garças
+7703, 50, Sete Quedas
+6903, 50, Porto Murtinho
+5103, 50, Jateí
+4403, 50, Inocência
+2803, 50, Caracol
+1003, 50, Aparecida do Taboado
+203, 50, Água Clara
+22103, 43, Tucunduva
+21303, 43, Taquari
+20578, 43, Sete de Setembro
+20503, 43, Sertão
+20453, 43, Sério
+19703, 43, São Valentim
+18903, 43, São Luiz Gonzaga
+17103, 43, Sant'Ana do Livramento
+16428, 43, Sagrada Família
+16303, 43, Roque Gonzales
+15503, 43, Restinga Sêca
+15453, 43, Relvado
+14803, 43, Portão
+14753, 43, Poço das Antas
+13953, 43, Pantano Grande
+13003, 43, Nova Bréscia
+12203, 43, Maximiliano de Almeida
+12153, 43, Mato Leitão
+11403, 43, Lajeado
+10603, 43, Itaqui
+10553, 43, Itacurubi
+9803, 43, Ibiaçá
+9753, 43, Ibarama
+8078, 43, Fazenda Vilanova
+8003, 43, Faxinal do Soturno
+7203, 43, Erval Grande
+6403, 43, Dois Irmãos
+6353, 43, Dezesseis de Novembro
+5603, 43, Colorado
+4903, 43, Casca
+4853, 43, Carlos Gomes
+3103, 43, Cachoeirinha
+2378, 43, Bom Progresso
+2303, 43, Bom Jesus
+2253, 43, Boa Vista do Sul
+1503, 43, Augusto Pestana
+703, 43, Anta Gorda
+19853, 42, Zortéa
+18103, 42, Timbé do Sul
+17303, 42, Saudades
+17253, 42, São Pedro de Alcântara
+16503, 42, São Joaquim
+15703, 42, Santo Amaro da Imperatriz
+15653, 42, Santa Rosa do Sul
+14003, 42, Presidente Getúlio
+13203, 42, Pomerode
+13153, 42, Planalto Alegre
+12403, 42, Pedras Grandes
+11603, 42, Nova Veneza
+10803, 42, Meleiro
+9003, 42, Joaçaba
+8203, 42, Itajaí
+7403, 42, Imbuia
+6603, 42, Guarujá do Sul
+5803, 42, Garuva
+4178, 42, Cerro Negro
+4103, 42, Caxambu do Sul
+3303, 42, Campo Alegre
+3253, 42, Capão Alto
+2578, 42, Bom Jesus do Oeste
+2503, 42, Bom Jardim da Serra
+2453, 42, Bombinhas
+1703, 42, Ascurra
+1653, 42, Arvoredo
+903, 42, Angelina
+28203, 41, União da Vitória
+27403, 41, Terra Roxa
+26678, 41, Tamarana
+26603, 41, Siqueira Campos
+25803, 41, São Pedro do Ivaí
+25753, 41, São Pedro do Iguaçu
+24103, 41, Santo Antônio da Platina
+24053, 41, Santa Terezinha de Itaipu
+23303, 41, Santa Cruz de Monte Castelo
+22503, 41, Roncador
+21703, 41, Reserva
+20903, 41, Quedas do Iguaçu
+20853, 41, Quatro Pontes
+19103, 41, Piên
+18303, 41, Paranapoema
+17503, 41, Paiçandu
+17453, 41, Ouro Verde do Oeste
+16703, 41, Nova Aurora
+15903, 41, Mirador
+15853, 41, Mercedes
+14203, 41, Mandaguari
+13403, 41, Leópolis
+12603, 41, Jardim Olinda
+11803, 41, Jacarezinho
+10953, 41, Itaipulândia
+10078, 41, Imbaú
+10003, 41, Iguaraçu
+9203, 41, Guaraci
+8403, 41, Francisco Beltrão
+7603, 41, Faxinal
+7553, 41, Farol
+6803, 41, Cruz Machado
+5003, 41, Catanduvas
+4428, 41, Candói
+4303, 41, Campo Mourão
+4253, 41, Campo Magro
+3503, 41, Califórnia
+3453, 41, Cafelândia
+2703, 41, Barra do Jacaré
+1903, 41, Assaí
+1853, 41, Ariranha do Ivaí
+103, 41, Abatiá
+57303, 35, Estiva Gerbi
+56503, 35, Várzea Paulista
+56453, 35, Vargem Grande Paulista
+55703, 35, União Paulista
+54953, 35, Tuiuti
+54003, 35, Tatuí
+53203, 35, Taiúva
+52403, 35, Sumaré
+51603, 35, Serra Negra
+50803, 35, São Sebastião da Grama
+49953, 35, São Lourenço da Serra
+49003, 35, São Francisco
+48203, 35, Santo Antônio do Pinhal
+47403, 35, Santa Rita d'Oeste
+46603, 35, Santa Fé do Sul
+45803, 35, Santa Bárbara d'Oeste
+44103, 35, Rio Grande da Serra
+43303, 35, Ribeirão Pires
+43253, 35, Ribeirão Grande
+42503, 35, Reginópolis
+41703, 35, Quatá
+41653, 35, Quadra
+40903, 35, Pradópolis
+40853, 35, Pracinha
+39103, 35, Pirapora do Bom Jesus
+38303, 35, Piquerobi
+37503, 35, Pereiras
+36703, 35, Pederneiras
+35903, 35, Paranapuã
+34203, 35, Orindiúva
+33403, 35, Nova Odessa
+32603, 35, Nhandeara
+31803, 35, Monte Mor
+30003, 35, Mira Estrela
+29203, 35, Martinópolis
+28403, 35, Mairinque
+27603, 35, Luís Antônio
+26803, 35, Lençóis Paulista
+25003, 35, Jandira
+24303, 35, Jaboticabal
+23503, 35, Itatinga
+22703, 35, Itápolis
+22653, 35, Itapirapuã Paulista
+21903, 35, Itajobi
+20103, 35, Igarapava
+19303, 35, Ibaté
+19253, 35, Iaras
+18503, 35, Guareí
+17703, 35, Guará
+16903, 35, General Salgado
+16853, 35, Gavião Peixoto
+15103, 35, Embu-Guaçu
+14403, 35, Dracena
+13603, 35, Cunha
+12803, 35, Cosmópolis
+11003, 35, Castilho
+10203, 35, Capão Bonito
+10153, 35, Canitar
+9403, 35, Cajuru
+8603, 35, Cachoeira Paulista
+7803, 35, Brodowski
+7753, 35, Brejo Alegre
+6003, 35, Bauru
+5203, 35, Bariri
+4503, 35, Avaré
+3703, 35, Ariranha
+2903, 35, Araçoiaba da Serra
+1103, 35, Alto Alegre
+303, 35, Aguaí
+5703, 33, Sumidouro
+4128, 33, Quatis
+4003, 33, Piraí
+3203, 33, Nilópolis
+2403, 33, Macaé
+1603, 33, Duas Barras
+803, 33, Cachoeiras de Macacu
+4203, 32, Piúma
+3403, 32, Mimoso do Sul
+3353, 32, Marilândia
+2603, 32, Iconha
+2553, 32, Ibitirama
+1803, 32, Divino de São Lourenço
+72103, 31, Volta Grande
+71303, 31, Viçosa
+70578, 31, Vargem Alegre
+70503, 31, Urucânia
+69703, 31, Turmalina
+68903, 31, Tiros
+67103, 31, Serro
+66303, 31, Sericita
+65578, 31, Senador Amaral
+65503, 31, Sardoá
+64803, 31, São Sebastião do Rio Preto
+63003, 31, São José da Safira
+62203, 31, São João Batista do Glória
+61403, 31, São Francisco do Glória
+60603, 31, Santo Hipólito
+59803, 31, Santa Vitória
+58953, 31, Santana do Paraíso
+58003, 31, Santa Maria de Itabira
+57278, 31, Santa Bárbara do Monte Verde
+57203, 31, Santa Bárbara
+56403, 31, Romaria
+55603, 31, Rio Pardo de Minas
+54903, 31, Rio Casca
+53103, 31, Presidente Bernardes
+52303, 31, Porto Firme
+51503, 31, Piumhi
+50703, 31, Pirajuba
+49903, 31, Perdões
+48103, 31, Patrocínio
+47303, 31, Paraisópolis
+46503, 31, Pains
+45703, 31, Oliveira Fortes
+44003, 31, Mutum
+43203, 31, Monte Santo de Minas
+43153, 31, Monte Formoso
+42403, 31, Moema
+41603, 31, Mercês
+40803, 31, Matias Barbosa
+39003, 31, Machado
+38203, 31, Lavras
+37403, 31, Lagoa Dourada
+36603, 31, Nova União
+36553, 31, José Raydan
+35803, 31, Jequitinhonha
+34103, 31, Itueta
+33303, 31, Itaobim
+32503, 31, Itamarandiba
+31703, 31, Itabira
+30903, 31, Inhapim
+29103, 31, Gurinhatã
+28303, 31, Guaranésia
+28253, 31, Guaraciama
+27503, 31, Gonzaga
+26703, 31, Francisco Sá
+25903, 31, Ferros
+24203, 31, Espera Feliz
+23528, 31, Durandé
+23403, 31, Doresópolis
+22603, 31, Dom Joaquim
+21803, 31, Dionísio
+20003, 31, Córrego Novo
+19203, 31, Coroaci
+18403, 31, Conselheiro Pena
+17603, 31, Conceição do Pará
+16803, 31, Coluna
+15003, 31, Cascalho Rico
+14303, 31, Carmo do Paranaíba
+13503, 31, Carbonita
+12703, 31, Capitão Enéas
+12653, 31, Capitão Andrade
+11903, 31, Cana Verde
+10103, 31, Caiana
+9303, 31, Buritis
+9253, 31, Bugre
+8503, 31, Botumirim
+7703, 31, Bom Jesus do Amparo
+6903, 31, Bicas
+5103, 31, Bambuí
+4403, 31, Argirita
+3603, 31, Arantina
+2803, 31, Andrelândia
+1003, 31, Águas Vermelhas
+203, 31, Abaeté
+32903, 29, Valença
+31103, 29, Tanquinho
+31053, 29, Tanque Novo
+30303, 29, Serra Dourada
+29503, 29, São Sebastião do Passé
+28703, 29, Santo Antônio de Jesus
+27903, 29, Santa Inês
+26103, 29, Retirolândia
+25303, 29, Porto Seguro
+25253, 29, Ponto Novo
+24678, 29, Piraí do Norte
+24603, 29, Pindobaçu
+23803, 29, Paripiranga
+22003, 29, Mucuri
+21203, 29, Miguel Calmon
+20403, 29, Manoel Vitorino
+19603, 29, Macajuba
+19553, 29, Luís Eduardo Magalhães
+18803, 29, Laje
+18753, 29, Lagoa Real
+17003, 29, Itiúba
+16203, 29, Itapé
+15403, 29, Itaju do Colônia
+15353, 29, Itaguaçu da Bahia
+14703, 29, Itaberaba
+14653, 29, Itabela
+13903, 29, Ipiaú
+12103, 29, Ibicaraí
+11303, 29, Gentio do Ouro
+11253, 29, Gavião
+10503, 29, Entre Rios
+9703, 29, Cristópolis
+8903, 29, Coração de Maria
+7103, 29, Carinhanha
+6303, 29, Canavieiras
+5503, 29, Caldeirão Grande
+4803, 29, Caatiba
+4753, 29, Buritirama
+3953, 29, Bom Jesus da Serra
+3003, 29, Barra do Mendes
+2203, 29, Aramari
+1403, 29, Angical
+1353, 29, Andorinha
+603, 29, Aiquara
+7303, 28, Telha
+6503, 28, Santa Rosa de Lima
+5703, 28, Propriá
+4003, 28, Maruim
+3203, 28, Itaporanga d'Ajuda
+2403, 28, Gararu
+1603, 28, Cedro de São João
+9103, 27, Taquarana
+8303, 27, São José da Laje
+7503, 27, Porto Real do Colégio
+6703, 27, Penedo
+5903, 27, Olho d'Água Grande
+4203, 27, Limoeiro de Anadia
+3403, 27, Jacaré dos Homens
+2603, 27, Feira Grande
+2553, 27, Estrela de Alagoas
+1803, 27, Carneiros
+15003, 26, Taquaritinga do Norte
+14303, 26, Moreilândia
+13503, 26, São José do Belmonte
+12703, 26, Santa Maria do Cambucá
+11903, 26, Rio Formoso
+10103, 26, Palmeirina
+9303, 26, Mirandiba
+8503, 26, Lagoa de Itaenga
+8453, 26, Lagoa do Carro
+7703, 26, Itapetim
+7653, 26, Itambé
+6903, 26, Iguaracy
+5103, 26, Custódia
+4403, 26, Chã de Alegria
+3603, 26, Camutanga
+2803, 26, Buíque
+1003, 26, Angelim
+203, 26, Afrânio
+16003, 25, Solânea
+15203, 25, São Sebastião do Umbuzeiro
+14503, 25, São José de Piranhas
+14453, 25, São José dos Ramos
+13703, 25, Santa Rita
+13653, 25, Joca Claudino
+12903, 25, Rio Tinto
+11103, 25, Pedra Lavrada
+10303, 25, Nova Palmeira
+9503, 25, Montadas
+8703, 25, Mãe d'Água
+7903, 25, Juripiranga
+6103, 25, Fagundes
+5303, 25, Curral Velho
+4603, 25, Conde
+3803, 25, Caldas Brandão
+3753, 25, Cajazeirinhas
+2003, 25, Belém do Brejo do Cruz
+1203, 25, Areial
+1153, 25, Areia de Baraúnas
+403, 25, Alagoa Nova
+14803, 24, Vera Cruz
+14753, 24, Venha-Ver
+13003, 24, São Vicente
+12203, 24, São José de Mipibu
+11403, 24, Santana do Matos
+10603, 24, Rafael Godeiro
+9803, 24, Pedro Velho
+8953, 24, Rio do Fogo
+8003, 24, Mossoró
+7203, 24, Macau
+6403, 24, Lagoa de Velhos
+5603, 24, Jardim de Piranhas
+4903, 24, Itaú
+4853, 24, Itajá
+3103, 24, Currais Novos
+2303, 24, Caraúbas
+1503, 24, Barcelona
+1453, 24, Baraúna
+703, 24, Alto do Rodrigues
+14003, 23, Várzea Alegre
+13203, 23, Tamboril
+12403, 23, São Gonçalo do Amarante
+11603, 23, Redenção
+10803, 23, Pereiro
+9003, 23, Mucambo
+8203, 23, Meruoca
+7403, 23, Jucás
+6603, 23, Itatira
+6553, 23, Itarema
+5803, 23, Ipu
+4103, 23, Crateús
+3303, 23, Cariús
+2503, 23, Brejo Santo
+1703, 23, Aurora
+903, 23, Apuiarés
+10953, 22, Tamboril do Piauí
+10003, 22, São João do Piauí
+9203, 22, Santa Filomena
+9153, 22, Santa Cruz dos Milagres
+8403, 22, Piripiri
+7603, 22, Parnaguá
+7553, 22, Paquetá
+6803, 22, Nossa Senhora dos Remédios
+6753, 22, Nossa Senhora de Nazaré
+5953, 22, Marcolândia
+5003, 22, Itainópolis
+4303, 22, Fronteiras
+3503, 22, Elesbão Veloso
+3453, 22, Dom Inocêncio
+2778, 22, Colônia do Piauí
+2703, 22, Cocal
+2653, 22, Caxingó
+1903, 22, Bom Jesus
+103, 22, Agricolândia
+53, 22, Acauã
+12803, 21, Viana
+11953, 21, Sucupira do Riachão
+11078, 21, São João do Soter
+11003, 21, São João Batista
+10278, 21, Santo Amaro do Maranhão
+10203, 21, Santa Rita
+9403, 21, Primeira Cruz
+8603, 21, Pinheiro
+7803, 21, Parnarama
+6003, 21, Lima Campos
+5203, 21, Igarapé Grande
+5153, 21, Igarapé do Meio
+4628, 21, Governador Luiz Rocha
+4503, 21, Governador Archer
+3703, 21, Cururupu
+2903, 21, Carutapera
+1103, 21, Axixá
+303, 21, Aldeias Altas
+20978, 17, Talismã
+20903, 17, Taguatinga
+20853, 17, Sucupira
+18303, 17, Praia Norte
+17503, 17, Pium
+16703, 17, Colméia
+16653, 17, Pequizeiro
+14203, 17, Natividade
+11803, 17, Juarina
+7553, 17, Fátima
+2703, 17, Aurora do Tocantins
+1903, 17, Araguacema
+303, 16, Macapá
+253, 16, Itaubal
+7953, 15, Tailândia
+7003, 15, Santo Antônio do Tauá
+6203, 15, Salinópolis
+5403, 15, Ourém
+4703, 15, Moju
+3903, 15, Juruti
+2103, 15, Cametá
+1303, 15, Barcarena
+1253, 15, Bannach
+503, 15, Almeirim
+4203, 13, Tefé
+3403, 13, Parintins
+2603, 13, Manaus
+2553, 13, Manaquiri
+1803, 13, Ipixuna
+328, 12, Jordão
+203, 12, Cruzeiro do Sul
+1203, 11, Ministro Andreazza
+403, 11, Alto Paraíso
+
+---- 524 colisoes nesta posicao ----
+
+posicao: 7, cidade: NULL
+
+posicao: 8, cidades:
+22054, 52, Vicentinópolis
+21304, 52, Três Ranchos
+20504, 52, Serranópolis
+20454, 52, Senador Canedo
+19704, 52, Santa Terezinha de Goiás
+18904, 52, Rubiataba
+17104, 52, Piracanjuba
+16304, 52, Paranaiguara
+15504, 52, Ouvidor
+14879, 52, Nova Iguaçu de Goiás
+14804, 52, Nova Aurora
+13004, 52, Maurilândia
+12204, 52, Jussara
+11404, 52, Itauçu
+10604, 52, Itaguaru
+9804, 52, Hidrolina
+8004, 52, Formosa
+6404, 52, Crixás
+4904, 52, Campos Belos
+4854, 52, Campo Limpo de Goiás
+3104, 52, Baliza
+1504, 52, Aporé
+1454, 52, Aparecida do Rio Doce
+829, 52, Amaralina
+8204, 51, Torixoréu
+7404, 51, São Pedro da Cipa
+7354, 51, São José do Xingu
+4104, 51, Guarantã do Norte
+3379, 51, Cotriguaçu
+3304, 51, Comodoro
+3254, 51, Colniza
+2504, 51, Cáceres
+1704, 51, Barra do Bugres
+8404, 50, Vicentina
+7554, 50, Santa Rita do Pardo
+5004, 50, Jardim
+4304, 50, Iguatemi
+3504, 50, Douradina
+3454, 50, Deodápolis
+2704, 50, Campo Grande
+1904, 50, Bataguassu
+23804, 43, Xangri-lá
+23754, 43, Vitória das Missões
+22004, 43, Triunfo
+21329, 43, Taquaruçu do Sul
+21204, 43, Taquara
+20404, 43, Serafina Corrêa
+20354, 43, Sentinela do Sul
+19604, 43, São Sepé
+18804, 43, São Lourenço do Sul
+17954, 43, Santo Expedito do Sul
+17004, 43, Santana da Boa Vista
+16204, 43, Rondinha
+15404, 43, Redentora
+15354, 43, Quinze de Novembro
+14779, 43, Pontão
+14704, 43, Planalto
+13904, 43, Panambi
+12179, 43, Mato Queimado
+12104, 43, Mata
+12054, 43, Marques de Souza
+11429, 43, Lajeado do Bugre
+11304, 43, Lagoa Vermelha
+11254, 43, Lagoão
+10579, 43, Itapuca
+10504, 43, Iraí
+9704, 43, Humaitá
+9654, 43, Hulha Negra
+8904, 43, Getúlio Vargas
+8854, 43, Gentil
+7104, 43, Herval
+7054, 43, Ernestina
+6429, 43, Dois Irmãos das Missões
+6379, 43, Dilermando de Aguiar
+6304, 43, David Canabarro
+5504, 43, Ciríaco
+5454, 43, Cidreira
+4804, 43, Carlos Barbosa
+3004, 43, Cachoeira do Sul
+2204, 43, Boa Vista do Buricá
+2154, 43, Boa Vista das Missões
+1404, 43, Arvorezinha
+604, 43, Alvorada
+554, 43, Alto Alegre
+18954, 42, Urupema
+18004, 42, Tijucas
+17204, 42, São Miguel do Oeste
+17154, 42, São Miguel da Boa Vista
+16404, 42, São João do Sul
+16354, 42, São João do Itaperiú
+15679, 42, Santa Terezinha
+15604, 42, Santa Rosa de Lima
+15554, 42, Santa Helena
+14904, 42, Rio Fortuna
+13104, 42, Piratuba
+12304, 42, Paulo Lopes
+12254, 42, Passo de Torres
+11504, 42, Nova Trento
+11454, 42, Nova Itaberaba
+10704, 42, Matos Costa
+9904, 42, Lontras
+9854, 42, Lindóia do Sul
+8104, 42, Itaiópolis
+7304, 42, Imbituba
+6504, 42, Guaramirim
+5704, 42, Garopaba
+4004, 42, Catanduvas
+3204, 42, Camboriú
+3154, 42, Calmon
+2404, 42, Blumenau
+1604, 42, Arroio Trinta
+804, 42, Anchieta
+754, 42, Alto Bela Vista
+28104, 41, Umuarama
+27304, 41, Terra Rica
+26504, 41, Sertanópolis
+25704, 41, São Miguel do Iguaçu
+24004, 41, Santana do Itararé
+23204, 41, Santa Cecília do Pavão
+22404, 41, Rolândia
+21604, 41, Renascença
+20804, 41, Quatro Barras
+19954, 41, Pontal do Paraná
+19004, 41, Pérola d'Oeste
+18204, 41, Paranaguá
+17404, 41, Ourizona
+16604, 41, Nova América da Colina
+15804, 41, Medianeira
+15754, 41, Mauá da Serra
+14104, 41, Mandaguaçu
+13429, 41, Lidianópolis
+13304, 41, Laranjeiras do Sul
+13254, 41, Laranjal
+12504, 41, Jardim Alegre
+11704, 41, Jaboti
+10904, 41, Itaguajé
+9104, 41, Guaporema
+8304, 41, Foz do Iguaçu
+7504, 41, Engenheiro Beltrão
+6704, 41, Cruzeiro do Sul
+5904, 41, Colorado
+4204, 41, Campo Largo
+3479, 41, Cafezal do Sul
+3404, 41, Cafeara
+3354, 41, Braganey
+2604, 41, Barracão
+1804, 41, Araucária
+57204, 35, Chavantes
+57154, 35, Zacarias
+56404, 35, Vargem Grande do Sul
+56354, 35, Vargem
+55604, 35, Uchoa
+54904, 35, Três Fronteiras
+53104, 35, Taiaçu
+52304, 35, Sud Mennucci
+51504, 35, Serrana
+50704, 35, São Sebastião
+49904, 35, São José dos Campos
+48104, 35, Santo Antônio do Jardim
+48054, 35, Santo Antônio do Aracanguá
+47304, 35, Santana de Parnaíba
+46504, 35, Santa Ernestina
+45704, 35, Santa Albertina
+44004, 35, Rio das Pedras
+43204, 35, Ribeirão do Sul
+42404, 35, Regente Feijó
+41604, 35, Promissão
+40804, 35, Potirendaba
+40754, 35, Potim
+39004, 35, Pirangi
+38204, 35, Pinhalzinho
+37404, 35, Pereira Barreto
+36604, 35, Paulo de Faria
+35804, 35, Paranapanema
+34104, 35, Oriente
+33304, 35, Nova Luzitânia
+33254, 35, Novais
+32504, 35, Neves Paulista
+31704, 35, Monteiro Lobato
+30904, 35, Mombuca
+29104, 35, Marinópolis
+28304, 35, Magda
+27504, 35, Lucianópolis
+26704, 35, Leme
+25904, 35, Jundiaí
+25854, 35, Jumirim
+24204, 35, Jaborandi
+23404, 35, Itatiba
+22604, 35, Itapira
+21804, 35, Itaí
+20004, 35, Igaraçu do Tietê
+19204, 35, Iacri
+18404, 35, Guaratinguetá
+17604, 35, Guapiara
+16804, 35, Gastão Vidigal
+15129, 35, Emilianópolis
+15004, 35, Embu das Artes
+14304, 35, Dourado
+13504, 35, Cubatão
+12704, 35, Corumbataí
+11904, 35, Clementina
+10104, 35, Cândido Rodrigues
+9304, 35, Cajobi
+9254, 35, Cajati
+8504, 35, Caçapava
+7704, 35, Braúna
+6904, 35, Bofete
+5104, 35, Barbosa
+4404, 35, Avanhandava
+3604, 35, Areiópolis
+2804, 35, Araçatuba
+2754, 35, Araçariguama
+1004, 35, Altinópolis
+204, 35, Adolfo
+5604, 33, Silva Jardim
+5554, 33, Seropédica
+4904, 33, São Gonçalo
+3104, 33, Natividade
+2304, 33, Laje do Muriaé
+2254, 33, Itatiaia
+1504, 33, Cordeiro
+704, 33, Cabo Frio
+4104, 32, Pinheiros
+4054, 32, Pedro Canário
+3304, 32, Mantenópolis
+2504, 32, Ibiraçu
+2454, 32, Ibatiba
+1704, 32, Conceição do Castelo
+904, 32, Barra de São Francisco
+72004, 31, Visconde do Rio Branco
+71204, 31, Vespasiano
+71154, 31, Vermelho Novo
+70529, 31, Urucuia
+70479, 31, Uruana de Minas
+70404, 31, Unaí
+69604, 31, Tupaciguara
+68804, 31, Tiradentes
+67004, 31, Serranos
+66204, 31, Senhora dos Remédios
+65404, 31, Sapucaí-Mirim
+64704, 31, São Sebastião do Paraíso
+63904, 31, São Pedro da União
+62104, 31, São Gotardo
+61304, 31, São Francisco de Sales
+60504, 31, Santo Antônio do Rio Abaixo
+60454, 31, Santo Antônio do Retiro
+59704, 31, Santa Rosa da Serra
+58904, 31, Santana do Manhuaçu
+57104, 31, Salto da Divisa
+56304, 31, Rodeiro
+55504, 31, Rio Paranaíba
+54804, 31, Rio Acima
+53004, 31, Pratinha
+52204, 31, Porteirinha
+51404, 31, Pitangui
+50604, 31, Piracema
+49804, 31, Perdizes
+48004, 31, Patos de Minas
+47204, 31, Paraguaçu
+46404, 31, Paineiras
+45604, 31, Oliveira
+44904, 31, Nova Módica
+43104, 31, Monte Carmelo
+42304, 31, Moeda
+42254, 31, Miravânia
+41504, 31, Mendes Pimentel
+40704, 31, Mateus Leme
+39904, 31, Maria da Fé
+38104, 31, Lassance
+37304, 31, Lagoa dos Patos
+36579, 31, Josenópolis
+36504, 31, Jordânia
+35704, 31, Jequitibá
+34004, 31, Itinga
+33204, 31, Itanhomi
+32404, 31, Itajubá
+31604, 31, Iraí de Minas
+30804, 31, Ingaí
+29004, 31, Guiricema
+28204, 31, Guaraciaba
+27404, 31, Gonçalves
+27354, 31, Glaucilândia
+26604, 31, Francisco Dumont
+25804, 31, Fernandes Tourinho
+24104, 31, Esmeraldas
+23304, 31, Dores do Turvo
+22504, 31, Dom Cavati
+22454, 31, Divisópolis
+21704, 31, Diogo de Vasconcelos
+20904, 31, Curvelo
+19104, 31, Corinto
+18304, 31, Conselheiro Lafaiete
+17504, 31, Conceição do Mato Dentro
+16704, 31, Coimbra
+15904, 31, Chácara
+14204, 31, Carmo do Cajuru
+13404, 31, Caratinga
+12604, 31, Capinópolis
+11804, 31, Canápolis
+10004, 31, Caeté
+9204, 31, Buenópolis
+8404, 31, Botelhos
+7604, 31, Bom Jesus da Penha
+6804, 31, Bias Fortes
+5004, 31, Baldim
+4304, 31, Areado
+3504, 31, Araguari
+2704, 31, Cachoeira de Pajeú
+1904, 31, Alpinópolis
+104, 31, Abadia dos Dourados
+33604, 29, Xique-Xique
+32804, 29, Utinga
+31004, 29, Tanhaçu
+30204, 29, Sento Sé
+30154, 29, Serra do Ramalho
+29404, 29, São Miguel das Matas
+29354, 29, São José da Vitória
+28604, 29, Santo Amaro
+27804, 29, Santa Cruz da Vitória
+26004, 29, Remanso
+25204, 29, Pojuca
+24504, 29, Pindaí
+23704, 29, Paratinga
+22904, 29, Nova Soure
+22854, 29, Nova Redenção
+21104, 29, Medeiros Neto
+21054, 29, Matina
+20304, 29, Malhada de Pedras
+19504, 29, Livramento de Nossa Senhora
+18704, 29, Lafaiete Coutinho
+17904, 29, Jandaíra
+16104, 29, Itaparica
+15304, 29, Itagimirim
+14604, 29, Irecê
+13804, 29, Ipecaetá
+12004, 29, Ibiassucê
+11204, 29, Gandu
+10404, 29, Encruzilhada
+9604, 29, Crisópolis
+8804, 29, Contendas do Sincorá
+7004, 29, Cardeal da Silva
+6204, 29, Canarana
+5404, 29, Cairu
+4704, 29, Buerarema
+3904, 29, Bom Jesus da Lapa
+2104, 29, Araci
+2054, 29, Araçás
+1304, 29, Andaraí
+504, 29, Érico Cardoso
+7204, 28, Siriri
+6404, 28, Santana do São Francisco
+5604, 28, Porto da Folha
+4904, 28, Pacatuba
+3104, 28, Itabi
+2304, 28, Frei Paulo
+1504, 28, Carmópolis
+704, 28, Brejo Grande
+9004, 27, Tanque d'Arca
+8204, 27, São Brás
+7404, 27, Porto de Pedras
+6604, 27, Paulo Jacinto
+5804, 27, Olho d'Água do Casado
+4104, 27, Lagoa da Canoa
+3304, 27, Inhapi
+2504, 27, Dois Riachos
+1704, 27, Capela
+904, 27, Belo Monte
+15904, 26, Tuparetama
+14204, 26, Sirinhaém
+13404, 26, São José da Coroa Grande
+12604, 26, Santa Maria da Boa Vista
+12554, 26, Santa Filomena
+11804, 26, Ribeirão
+10004, 26, Palmares
+9204, 26, Maraial
+9154, 26, Manari
+8404, 26, Jurema
+7604, 26, Ilha de Itamaracá
+6804, 26, Igarassu
+5004, 26, Cupira
+4304, 26, Cedro
+3504, 26, Camocim de São Félix
+3454, 26, Camaragibe
+2704, 26, Buenos Aires
+1904, 26, Bezerros
+104, 26, Afogados da Ingazeira
+54, 26, Abreu e Lima
+16904, 25, Uiraúna
+15104, 25, São Sebastião de Lagoa de Roça.
+14404, 25, São José de Espinharas
+13604, 25, Santana dos Garrotes
+12804, 25, Riacho dos Cavalos
+12754, 25, Riachão do Bacamarte
+11004, 25, Pedra Branca
+10204, 25, Nova Olinda
+9404, 25, Mogeiro
+8604, 25, Lucena
+8554, 25, Logradouro
+7804, 25, Junco do Seridó
+6004, 25, Esperança
+5279, 25, Curral de Cima
+5204, 25, Cuitegi
+4504, 25, Condado
+3704, 25, Cajazeiras
+2904, 25, Brejo dos Santos
+1104, 25, Areia
+304, 25, Alagoa Grande
+14704, 24, Várzea
+13904, 24, Taipu
+12104, 24, São João do Sabugi
+11429, 24, Santana do Seridó
+10504, 24, Rafael Fernandes
+9704, 24, Pedro Avelino
+8904, 24, Parelhas
+7104, 24, Macaíba
+6304, 24, Lagoa de Pedras
+5504, 24, Jardim de Angicos
+4804, 24, Ipueira
+3004, 24, Cruzeta
+2204, 24, Canguaretama
+1404, 24, Baía Formosa
+604, 24, Almino Afonso
+13104, 23, Tabuleiro do Norte
+12304, 23, São Benedito
+11504, 23, Quixeré
+10704, 23, Pentecoste
+9904, 23, Pacujá
+8104, 23, Mauriti
+7304, 23, Juazeiro do Norte
+7254, 23, Jijoca de Jericoacoara
+6504, 23, Itapiúna
+5704, 23, Ipaumirim
+5654, 23, Ipaporanga
+4954, 23, Guaiúba
+4004, 23, Coreaú
+3204, 23, Caririaçu
+2404, 23, Boa Viagem
+1604, 23, Assaré
+804, 23, Antonina do Norte
+754, 23, Amontada
+11704, 22, Wall Ferraz
+10979, 22, Tanque do Piauí
+10904, 22, Socorro do Piauí
+9104, 22, Santa Cruz do Piauí
+8304, 22, Piracuruca
+7504, 22, Palmeirais
+6704, 22, Nazaré do Piauí
+6654, 22, Morro Cabeça no Tempo
+5904, 22, Manoel Emídio
+5854, 22, Madeiro
+4204, 22, Francisco Santos
+4154, 22, Francisco Macedo
+3404, 22, Dom Expedito Lopes
+3354, 22, Dirceu Arcoverde
+2729, 22, Cocal dos Alves
+2604, 22, Castelo do Piauí
+2554, 22, Caridade do Piauí
+1929, 22, Bonfim do Piauí
+1804, 22, Bocaina
+954, 22, Aroeiras do Itaim
+12704, 21, Vargem Grande
+11904, 21, Sucupira do Norte
+11029, 21, São João do Carú
+10104, 21, Santa Quitéria do Maranhão
+9304, 21, Presidente Vargas
+8504, 21, Pindaré-Mirim
+8454, 21, Peritoró
+7704, 21, Paraibano
+6904, 21, Monção
+5104, 21, Icatu
+4404, 21, Gonçalves Dias
+3604, 21, Coroatá
+3554, 21, Conceição do Lago-Açu
+2804, 21, Carolina
+2754, 21, Capinzal do Norte
+1004, 21, Arari
+204, 21, Alcântara
+154, 21, Água Doce do Maranhão
+20804, 17, Sítio Novo do Tocantins
+19004, 17, Santa Tereza do Tocantins
+18204, 17, Porto Nacional
+16604, 17, Peixe
+15754, 17, Palmeirópolis
+13304, 17, Miranorte
+12504, 17, Marianópolis do Tocantins
+12454, 17, Luzinópolis
+10904, 17, Itapiratins
+8304, 17, Goianorte
+8254, 17, Tabocão
+2554, 17, Augustinópolis
+279, 16, Laranjal do Jari
+204, 16, Calçoene
+154, 16, Pedra Branca do Amapari
+7979, 15, Terra Santa
+7904, 15, Soure
+6104, 15, Primavera
+5304, 15, Oriximiná
+4604, 15, Mocajuba
+3804, 15, Jacundá
+3754, 15, Jacareacanga
+2954, 15, Eldorado do Carajás
+2004, 15, Cachoeira do Arari
+1204, 15, Baião
+404, 15, Alenquer
+704, 14, Uiramutã
+4104, 13, Tapauá
+3304, 13, Novo Aripuanã
+2504, 13, Manacapuru
+1704, 13, Humaitá
+1654, 13, Guajará
+904, 13, Canutama
+29, 13, Alvarães
+179, 12, Capixaba
+104, 12, Brasiléia
+54, 12, Assis Brasil
+1104, 11, Itapuã do Oeste
+379, 11, Alto Alegre dos Parecis
+304, 11, Vilhena
+254, 11, Presidente Médici
+
+---- 519 colisoes nesta posicao ----
+
+posicao: 9, cidade: NULL
+
+posicao: 10, cidades:
+22005, 52, Vianópolis
+21080, 52, Teresina de Goiás
+20405, 52, São Simão
+20280, 52, São Patrício
+19605, 52, Santa Tereza de Goiás
+18805, 52, Rio Verde
+15405, 52, Ouro Verde de Goiás
+14705, 52, Nova América
+13905, 52, Mossâmedes
+13855, 52, Morro Agudo de Goiás
+12105, 52, Joviânia
+12055, 52, Jesúpolis
+11305, 52, Itarumã
+9705, 52, Hidrolândia
+8905, 52, Goiás
+7105, 52, Diorama
+6305, 52, Cristianópolis
+5455, 52, Cezarina
+4805, 52, Campo Alegre de Goiás
+2155, 52, Araguapaz
+1405, 52, Aparecida de Goiânia
+605, 52, Alto Paraíso de Goiás
+555, 52, Alto Horizonte
+8105, 51, Tesouro
+8055, 51, Terra Nova do Norte
+7305, 51, São José do Rio Claro
+7180, 51, Ribeirão Cascalheira
+6505, 51, Poconé
+6455, 51, Planalto da Serra
+5580, 51, Marcelandia
+3205, 51, Colíder
+1605, 51, Barão de Melgaço
+805, 51, Apiacás
+8305, 50, Três Lagoas
+7505, 50, Rochedo
+2605, 50, Camapuã
+23705, 43, Vista Gaúcha
+22905, 43, Viadutos
+22855, 43, Vespasiano Corrêa
+21105, 43, Tapes
+20305, 43, Selbach
+20230, 43, Sede Nova
+19505, 43, São Sebastião do Caí
+18705, 43, São Leopoldo
+17905, 43, Santo Cristo
+16105, 43, Ronda Alta
+15305, 43, Quaraí
+14605, 43, Piratini
+14555, 43, Pirapó
+13805, 43, Palmitinho
+12955, 43, Nova Boa Vista
+12005, 43, Mariano Moro
+11205, 43, Júlio de Castilhos
+11155, 43, Jóia
+11130, 43, Jari
+10405, 43, Independência
+10330, 43, Imbé
+9605, 43, Horizontina
+9555, 43, Harmonia
+8805, 43, General Câmara
+7005, 43, Erechim
+6205, 43, Cruzeiro do Sul
+6130, 43, Cruzaltense
+5405, 43, Chiapetta
+5355, 43, Charqueadas
+4705, 43, Carazinho
+4655, 43, Capão do Cipó
+4630, 43, Capão da Canoa
+3905, 43, Campo Bom
+2105, 43, Bento Gonçalves
+2055, 43, Benjamin Constant do Sul
+1305, 43, Arroio Grande
+505, 43, Alpestre
+455, 43, Alegria
+19705, 42, Xaxim
+18905, 42, Urubici
+18855, 42, União do Oeste
+17105, 42, São Martinho
+16305, 42, São João Batista
+16255, 42, São João do Oeste
+15505, 42, Santa Cecília
+15455, 42, Sangão
+14805, 42, Rio do Sul
+13005, 42, Pinheiro Preto
+12205, 42, Papanduva
+11405, 42, Nova Erechim
+10605, 42, Massaranduba
+10555, 42, Marema
+9805, 42, Leoberto Leal
+8955, 42, Jardinópolis
+8005, 42, Itá
+7205, 42, Imaruí
+6405, 42, Guaraciaba
+5605, 42, Galvão
+5555, 42, Frei Rogério
+4905, 42, Descanso
+3105, 42, Caibi
+2305, 42, Biguaçu
+1505, 42, Armazém
+705, 42, Alfredo Wagner
+28005, 41, Ubiratã
+27205, 41, Terra Boa
+26405, 41, Sertaneja
+26355, 41, Serranópolis do Iguaçu
+25605, 41, São Mateus do Sul
+25555, 41, São Manoel do Paraná
+24905, 41, São João do Caiuá
+23105, 41, Santa Amélia
+22305, 41, Rio Negro
+21505, 41, Rebouças
+20705, 41, Quatiguá
+20655, 41, Quarto Centenário
+19905, 41, Ponta Grossa
+18105, 41, Paranacity
+17305, 41, Ortigueira
+17255, 41, Nova Prata do Iguaçu
+16505, 41, Nova Aliança do Ivaí
+15705, 41, Matinhos
+14005, 41, Mamborê
+13205, 41, Lapa
+12405, 41, Japurá
+11605, 41, Ivatuba
+11555, 41, Ivaté
+10805, 41, Iretama
+9005, 41, Guapirama
+8205, 41, Formosa do Oeste
+7405, 41, Enéas Marques
+6605, 41, Cruzeiro do Oeste
+6555, 41, Corumbataí do Sul
+5805, 41, Colombo
+4105, 41, Campo do Tenente
+4055, 41, Campo Bonito
+3305, 41, Borrazópolis
+2505, 41, Barbosa Ferraz
+1705, 41, Araruna
+1655, 41, Arapuã
+905, 41, Amaporã
+57105, 35, Votuporanga
+56305, 35, Valparaíso
+55505, 35, Ubirajara
+54805, 35, Tremembé
+54755, 35, Trabiju
+53955, 35, Tarumã
+53005, 35, Taguaí
+52205, 35, Sorocaba
+51405, 35, Serra Azul
+50605, 35, São Roque
+49805, 35, São José do Rio Preto
+48005, 35, Santo Antônio de Posse
+47205, 35, Santana da Ponte Pensa
+46405, 35, Santa Cruz do Rio Pardo
+45605, 35, Santa Adélia
+44905, 35, Sales Oliveira
+43105, 35, Ribeirão Corrente
+42305, 35, Redenção da Serra
+41505, 35, Presidente Venceslau
+40705, 35, Porto Ferreira
+39905, 35, Poloni
+38105, 35, Pindorama
+37305, 35, Penápolis
+36505, 35, Paulínia
+35705, 35, Paraíso
+34005, 35, Onda Verde
+33205, 35, Nova Independência
+32405, 35, Nazaré Paulista
+31605, 35, Monte Castelo
+30805, 35, Mogi Mirim
+29005, 35, Marília
+28205, 35, Macedônia
+27405, 35, Lucélia
+26605, 35, Lavrinhas
+25805, 35, Júlio Mesquita
+24105, 35, Ituverava
+23305, 35, Itariri
+22505, 35, Itapevi
+21705, 35, Itaberá
+20905, 35, Ipaussu
+19105, 35, Iacanga
+19055, 35, Holambra
+18305, 35, Guararema
+17505, 35, Guapiaçu
+16705, 35, Garça
+15905, 35, Floreal
+14205, 35, Dolcinópolis
+13405, 35, Cruzeiro
+12605, 35, Coronel Macedo
+10005, 35, Cândido Mota
+9205, 35, Cajamar
+8405, 35, Cabreúva
+7605, 35, Bragança Paulista
+6805, 35, Bocaina
+5005, 35, Barão de Antonina
+4305, 35, Avaí
+3505, 35, Areias
+2705, 35, Apiaí
+1905, 35, Amparo
+105, 35, Adamantina
+6305, 33, Volta Redonda
+5505, 33, Saquarema
+4805, 33, São Fidélis
+4755, 33, São Francisco de Itabapoana
+3955, 33, Pinheiral
+3005, 33, Miracema
+2205, 33, Itaperuna
+1405, 33, Conceição de Macabu
+605, 33, Bom Jesus do Itabapoana
+4955, 32, São Roque do Canaã
+4005, 32, Pancas
+3205, 32, Linhares
+3130, 32, João Neiva
+2405, 32, Guarapari
+1605, 32, Conceição da Barra
+805, 32, Baixo Guandu
+71105, 31, Veríssimo
+71030, 31, Verdelândia
+70305, 31, Umburatiba
+69505, 31, Tumiritinga
+68705, 31, Timóteo
+67905, 31, Tabuleiro
+66105, 31, Senhora do Porto
+65305, 31, São Vicente de Minas
+64605, 31, São Sebastião do Oeste
+63805, 31, São Miguel do Anta
+62955, 31, São José da Lapa
+62005, 31, São Gonçalo do Sapucaí
+61205, 31, São Francisco de Paula
+60405, 31, Santo Antônio do Monte
+59605, 31, Santa Rita do Sapucaí
+58805, 31, Santana do Jacaré
+57005, 31, Salinas
+56205, 31, Rochedo de Minas
+55405, 31, Rio Novo
+54705, 31, Ribeirão Vermelho
+53905, 31, Raposos
+52105, 31, Ponte Nova
+51305, 31, Piraúba
+50505, 31, Pimenta
+49705, 31, Perdigão
+48905, 31, Pedra do Indaiá
+47105, 31, Pará de Minas
+46305, 31, Padre Paraíso
+46255, 31, Padre Carvalho
+45505, 31, Olímpio Noronha
+45455, 31, Olhos-d'Água
+44805, 31, Nova Lima
+43005, 31, Monte Belo
+42205, 31, Miraí
+41405, 31, Medina
+40605, 31, Materlândia
+40555, 31, Mata Verde
+40530, 31, Martins Soares
+39805, 31, Mar de Espanha
+38005, 31, Laranjal
+37205, 31, Lagoa da Prata
+36405, 31, Joaquim Felício
+35605, 31, Jequitaí
+34905, 31, Jacutinga
+33105, 31, Itanhandu
+32305, 31, Itaipé
+31505, 31, Ipuiúna
+30705, 31, Indianópolis
+30655, 31, Indaiabira
+29905, 31, Ibitiúra de Minas
+28105, 31, Guapé
+27305, 31, Galiléia
+26505, 31, Francisco Badaró
+25705, 31, Felixlândia
+24005, 31, Ervália
+23205, 31, Dores do Indaiá
+22405, 31, Divisa Nova
+22355, 31, Divisa Alegre
+21605, 31, Diamantina
+20805, 31, Cruzília
+19955, 31, Córrego Fundo
+19005, 31, Cordislândia
+18205, 31, Conquista
+17405, 31, Conceição de Ipanema
+16605, 31, Cláudio
+15805, 31, Centralina
+14105, 31, Carmo de Minas
+13305, 31, Carangola
+12505, 31, Capim Branco
+11705, 31, Canaã
+10905, 31, Campanha
+9105, 31, Bueno Brandão
+8305, 31, Borda da Mata
+8255, 31, Bonito de Minas
+7505, 31, Bom Jardim de Minas
+6705, 31, Betim
+6655, 31, Berizal
+5905, 31, Barroso
+4205, 31, Arcos
+3405, 31, Araçuaí
+2605, 31, Andradas
+1805, 31, Alpercata
+33505, 29, Wenceslau Guimarães
+33455, 29, Wanderley
+32705, 29, Uruçuca
+31905, 29, Tucano
+30105, 29, Senhor do Bonfim
+29305, 29, São Gonçalo dos Campos
+29255, 29, São Gabriel
+28505, 29, Santa Terezinha
+27705, 29, Santa Cruz Cabrália
+26905, 29, Rio do Pires
+25105, 29, Poções
+24405, 29, Pilão Arcado
+23605, 29, Paramirim
+22805, 29, Nova Itarana
+22755, 29, Nova Ibiá
+22730, 29, Nova Fátima
+21005, 29, Mata de São João
+20205, 29, Malhada
+19405, 29, Licínio de Almeida
+18605, 29, Jussiape
+18555, 29, Jussari
+17805, 29, Jaguaripe
+16005, 29, Itanhém
+15205, 29, Itagibá
+14505, 29, Irará
+13705, 29, Inhambupe
+12905, 29, Ibirataia
+11105, 29, Formosa do Rio Preto
+10305, 29, Elísio Medrado
+9505, 29, Cravolândia
+8705, 29, Condeúba
+7905, 29, Cipó
+6105, 29, Canápolis
+5305, 29, Cafarnaum
+4605, 29, Brumado
+3805, 29, Boa Vista do Tupim
+2005, 29, Aracatu
+1205, 29, Anagé
+1155, 29, América Dourada
+405, 29, Água Fria
+355, 29, Adustina
+7105, 28, Simão Dias
+6305, 28, Santa Luzia do Itanhy
+5505, 28, Poço Verde
+4805, 28, Nossa Senhora do Socorro
+3005, 28, Itabaianinha
+2205, 28, Feira Nova
+1405, 28, Carira
+605, 28, Barra dos Coqueiros
+8105, 27, Santana do Mundaú
+7305, 27, Porto Calvo
+6505, 27, Passo de Camaragibe
+5705, 27, Olho d'Água das Flores
+4005, 27, Junqueiro
+3205, 27, Igreja Nova
+2405, 27, Delmiro Gouveia
+2355, 27, Craíbas
+1605, 27, Canapi
+805, 27, Belém
+15805, 26, Tupanatinga
+14105, 26, Sertânia
+13305, 26, São Joaquim do Monte
+12505, 26, Santa Cruz do Capibaribe
+12455, 26, Santa Cruz
+11705, 26, Riacho das Almas
+10905, 26, Pesqueira
+9105, 26, Machados
+8305, 26, Jupi
+8255, 26, Jucati
+7505, 26, Itaíba
+6705, 26, Ibirajuba
+5905, 26, Gameleira
+4205, 26, Catende
+4155, 26, Casinhas
+3405, 26, Calumbi
+2605, 26, Brejo da Madre de Deus
+1805, 26, Betânia
+16805, 25, Triunfo
+16755, 25, Tenório
+15930, 25, Sertãozinho
+15005, 25, São Miguel de Taipu
+14305, 25, São José de Caiana
+13505, 25, Santana de Mangueira
+12705, 25, Remígio
+11905, 25, Pitimbu
+10105, 25, Nova Floresta
+9305, 25, Mataraca
+8505, 25, Livramento
+7705, 25, Juazeirinho
+6905, 25, Itabaiana
+5105, 25, Cuité
+4405, 25, Conceição
+4355, 25, Caturité
+3605, 25, Caiçara
+3555, 25, Cacimbas
+2805, 25, Brejo do Cruz
+1005, 25, Araruna
+205, 25, Aguiar
+14605, 24, Upanema
+13805, 24, Taboleiro Grande
+12005, 24, São Gonçalo do Amarante
+11205, 24, Santa Cruz
+10405, 24, Pureza
+9605, 24, Pedra Preta
+8805, 24, Parazinho
+7005, 24, Luís Gomes
+6205, 24, Lagoa d'Anta
+6155, 24, Jundiá
+5405, 24, Japi
+4705, 24, Ipanguaçu
+3905, 24, Francisco Dantas
+2105, 24, Campo Redondo
+1305, 24, Campo Grande
+505, 24, Alexandria
+13955, 23, Varjota
+13005, 23, Solonópole
+12205, 23, Santa Quitéria
+11405, 23, Quixeramobim
+11355, 23, Quixelô
+10605, 23, Penaforte
+9805, 23, Pacoti
+8005, 23, Massapê
+7205, 23, Jati
+6405, 23, Itapipoca
+5605, 23, Independência
+4905, 23, Groaíras
+3105, 23, Cariré
+2305, 23, Bela Cruz
+1505, 23, Arneiroz
+705, 23, Alto Santo
+11605, 22, Vila Nova do Piauí
+10805, 22, Simplício Mendes
+9955, 22, São João da Varjota
+9005, 22, Rio Grande do Piauí
+8205, 22, Pio IX
+7405, 22, Palmeira do Piauí
+7355, 22, Pajeú do Piauí
+6605, 22, Monte Alegre do Piauí
+5805, 22, Luzilândia
+4105, 22, Francisco Ayres
+3305, 22, Demerval Lobão
+3255, 22, Curralinhos
+3230, 22, Currais
+2505, 22, Caracol
+2455, 22, Capitão Gervásio Oliveira
+1705, 22, Bertolínia
+905, 22, Aroazes
+12605, 21, Urbano Santos
+11805, 21, Sítio Novo
+10005, 21, Santa Luzia
+9205, 21, Presidente Juscelino
+8405, 21, Peri Mirim
+7605, 21, Palmeirândia
+6805, 21, Mirinzal
+6755, 21, Miranda do Norte
+5005, 21, Humberto de Campos
+4305, 21, Godofredo Viana
+3505, 21, Colinas
+2705, 21, Cantanhede
+1905, 21, Bequimão
+105, 21, Afonso Cunha
+55, 21, Açailândia
+20655, 17, Silvanópolis
+16505, 17, Pedro Afonso
+15705, 17, Palmeirante
+14880, 17, Nova Olinda
+13205, 17, Miracema do Tocantins
+12405, 17, Lizarda
+9005, 17, Goiatins
+8205, 17, Formoso do Araguaia
+7405, 17, Esperantina
+4105, 17, Centenário
+3305, 17, Bom Jesus do Tocantins
+105, 16, Amapá
+55, 16, Serra do Navio
+7805, 15, Senador José Porfírio
+7755, 15, Sapucaia
+6005, 15, Prainha
+5205, 15, Oeiras do Pará
+4505, 15, Melgaço
+4455, 15, Medicilândia
+3705, 15, Itupiranga
+2905, 15, Curuçá
+2855, 15, Curuá
+1105, 15, Bagre
+305, 15, Afuá
+605, 14, São Luiz
+4005, 13, Silves
+3205, 13, Novo Airão
+2405, 13, Lábrea
+1605, 13, Fonte Boa
+805, 13, Borba
+680, 13, Boa Vista do Ramos
+1005, 11, Governador Jorge Teixeira
+205, 11, Porto Velho
+155, 11, Ouro Preto do Oeste
+130, 11, Machadinho D'Oeste
+80, 11, Costa Marques
+
+---- 493 colisoes nesta posicao ----
+
+posicao: 11, cidade: NULL
+
+posicao: 12, cidades:
+19506, 52, Santa Rosa de Goiás
+19456, 52, Santa Rita do Novo Destino
+18706, 52, Rianápolis
+15306, 52, Orizona
+15256, 52, Novo Planalto
+15231, 52, Novo Gama
+14606, 52, Niquelândia
+13806, 52, Morrinhos
+13756, 52, Montividiu
+12956, 52, Matrinchã
+12006, 52, Jaupaci
+11206, 52, Itapuranga
+10406, 52, Itaberaí
+9606, 52, Heitoraí
+8806, 52, Goianira
+6206, 52, Cristalina
+5406, 52, Ceres
+4706, 52, Campinorte
+4656, 52, Campinaçu
+3906, 52, Buriti Alegre
+1306, 52, Anicuns
+506, 52, Aloândia
+8956, 51, Nova Monte Verde
+8006, 51, Tapurah
+7206, 51, Rio Branco
+7156, 51, Reserva do Cabaçal
+6281, 51, Novo São Joaquim
+5606, 51, Matupá
+4906, 51, Jangada
+3106, 51, Cocalinho
+3056, 51, Cláudia
+7406, 50, Rio Verde de Mato Grosso
+6606, 50, Ponta Porã
+5806, 50, Nioaque
+5681, 50, Mundo Novo
+4106, 50, Guia Lopes da Laguna
+3306, 50, Coxim
+3256, 50, Costa Rica
+906, 50, Antônio João
+856, 50, Angélica
+23606, 43, Vista Alegre do Prata
+22806, 43, Veranópolis
+21956, 43, Trindade do Sul
+21006, 43, Tapera
+20206, 43, Seberi
+19406, 43, São Pedro do Sul
+19356, 43, São Pedro da Serra
+18606, 43, São José do Ouro
+18481, 43, São José do Hortêncio
+17806, 43, Santo Augusto
+17756, 43, Santo Antônio do Planalto
+16956, 43, Santa Maria do Herval
+16006, 43, Rolante
+15206, 43, Putinga
+15156, 43, Progresso
+15131, 43, Pouso Novo
+14506, 43, Pinheiro Machado
+14456, 43, Pinhal
+13706, 43, Palmeira das Missões
+13656, 43, Palmares do Sul
+12906, 43, Nova Bassano
+11981, 43, Mariana Pimentel
+11106, 43, Jaguari
+10306, 43, Ilópolis
+9506, 43, Guarani das Missões
+8706, 43, Gaurama
+8656, 43, Garruchos
+7906, 43, Farroupilha
+7831, 43, Eugênio de Castro
+6106, 43, Cruz Alta
+6056, 43, Cristal
+5306, 43, Chapada
+4606, 43, Canoas
+3806, 43, Campinas do Sul
+2006, 43, Barros Cassal
+1206, 43, Arroio do Tigre
+406, 43, Alegrete
+19606, 42, Xavantina
+18806, 42, Turvo
+18756, 42, Tunápolis
+17956, 42, Tigrinhos
+17006, 42, São Ludgero
+16206, 42, São Francisco do Sul
+15406, 42, Salto Veloso
+15356, 42, Saltinho
+14706, 42, Rio dos Cedros
+13906, 42, Presidente Castello Branco
+12106, 42, Palmitos
+12056, 42, Palmeira
+11306, 42, Navegantes
+11256, 42, Morro Grande
+10506, 42, Maravilha
+9706, 42, Lebon Régis
+8906, 42, Jaraguá do Sul
+7106, 42, Ilhota
+6306, 42, Guabiruba
+5506, 42, Fraiburgo
+5456, 42, Forquilhinha
+5431, 42, Formosa do Sul
+4806, 42, Curitibanos
+4756, 42, Cunhataí
+3956, 42, Capivari de Baixo
+3006, 42, Caçador
+2206, 42, Benedito Novo
+2156, 42, Belmonte
+2131, 42, Bela Vista do Toldo
+2081, 42, Bandeirante
+1406, 42, Araranguá
+606, 42, Águas Mornas
+556, 42, Águas Frias
+27106, 41, Telêmaco Borba
+26306, 41, Sengés
+26256, 41, Sarandi
+25506, 41, São José dos Pinhais
+25456, 41, São José das Palmeiras
+24806, 41, São João
+23956, 41, Santa Mônica
+23006, 41, Salto do Lontra
+22206, 41, Rio Branco do Sul
+22156, 41, Rio Bonito do Iguaçu
+21406, 41, Realeza
+21356, 41, Rancho Alegre D'Oeste
+20606, 41, Prudentópolis
+19806, 41, Planalto
+18006, 41, Paraíso do Norte
+17206, 41, Nova Olímpia
+16406, 41, Nossa Senhora das Graças
+15606, 41, Matelândia
+14906, 41, Marilândia do Sul
+13106, 41, Kaloré
+12306, 41, Japira
+11506, 41, Ivaiporã
+10706, 41, Irati
+10656, 41, Iracema do Oeste
+9906, 41, Icaraíma
+8106, 41, Flórida
+7306, 41, Doutor Camargo
+7256, 41, Douradina
+6506, 41, Coronel Vivida
+6456, 41, Coronel Domingos Soares
+5706, 41, Clevelândia
+4006, 41, Campina Grande do Sul
+3206, 41, Bom Sucesso
+3156, 41, Bom Jesus do Sul
+2406, 41, Bandeirantes
+1606, 41, Arapoti
+806, 41, Alvorada do Sul
+57006, 35, Votorantim
+56206, 35, Valinhos
+55406, 35, Ubatuba
+55356, 35, Ubarana
+54706, 35, Torrinha
+54656, 35, Torre de Pedra
+53906, 35, Tarabai
+53856, 35, Taquarivaí
+52106, 35, Socorro
+51306, 35, Sebastianópolis do Sul
+50506, 35, São Pedro do Turvo
+49706, 35, São José do Rio Pardo
+48906, 35, São Carlos
+47106, 35, Santa Mercedes
+46306, 35, Santa Cruz das Palmeiras
+46256, 35, Santa Cruz da Esperança
+45506, 35, Sandovalina
+44806, 35, Sales
+43006, 35, Ribeirão Branco
+42206, 35, Rancharia
+41406, 35, Presidente Prudente
+40606, 35, Porto Feliz
+39806, 35, Poá
+38006, 35, Pindamonhangaba
+37206, 35, Pedro de Toledo
+37156, 35, Pedrinhas Paulista
+36406, 35, Paulicéia
+35606, 35, Paraibuna
+34906, 35, Pacaembu
+33106, 35, Nova Guataporanga
+32306, 35, Natividade da Serra
+31506, 35, Monte Azul Paulista
+30706, 35, Mogi Guaçu
+29906, 35, Miracatu
+28106, 35, Macaubal
+27306, 35, Louveira
+27256, 35, Lourdes
+26506, 35, Lavínia
+25706, 35, José Bonifácio
+24006, 35, Itupeva
+23206, 35, Itararé
+22406, 35, Itapeva
+21606, 35, Irapuru
+20806, 35, Inúbia Paulista
+19006, 35, Herculândia
+18206, 35, Guararapes
+17406, 35, Guaíra
+16606, 35, Gália
+15806, 35, Flora Rica
+14106, 35, Dois Córregos
+13306, 35, Cruzália
+12506, 35, Coroados
+11706, 35, Charqueada
+10906, 35, Cássia dos Coqueiros
+9106, 35, Caiuá
+8306, 35, Cabrália Paulista
+7506, 35, Botucatu
+7456, 35, Borebi
+6706, 35, Boa Esperança do Sul
+5906, 35, Batatais
+4206, 35, Auriflama
+3406, 35, Arealva
+3356, 35, Arco-Íris
+2606, 35, Aparecida d'Oeste
+1806, 35, Américo de Campos
+6206, 33, Vassouras
+6156, 33, Varre-Sai
+5406, 33, Sapucaia
+4706, 33, Santo Antônio de Pádua
+3906, 33, Petrópolis
+3856, 33, Paty do Alferes
+2106, 33, Itaocara
+2056, 33, Italva
+1306, 33, Casimiro de Abreu
+506, 33, Bom Jardim
+456, 33, Belford Roxo
+4906, 32, São Mateus
+3106, 32, Jerônimo Monteiro
+3056, 32, Jaguaré
+2306, 32, Guaçuí
+2256, 32, Governador Lindenberg
+1506, 32, Colatina
+706, 32, Atílio Vivácqua
+71006, 31, Vazante
+70206, 31, Uberlândia
+69406, 31, Três Pontas
+69356, 31, Três Marias
+68606, 31, Teófilo Otoni
+67806, 31, Soledade de Minas
+66956, 31, Serranópolis de Minas
+66006, 31, Senhora de Oliveira
+65206, 31, São Tomé das Letras
+64506, 31, São Sebastião do Maranhão
+64431, 31, São Sebastião da Vargem Alegre
+63706, 31, São Lourenço
+62906, 31, São João Nepomuceno
+61106, 31, São Francisco
+61056, 31, São Félix de Minas
+60306, 31, Santo Antônio do Jacinto
+59506, 31, Santa Rita do Itueto
+58706, 31, Santana do Garambéu
+57906, 31, Santa Margarida
+56106, 31, Ritápolis
+55306, 31, Rio Manso
+54606, 31, Ribeirão das Neves
+53806, 31, Queluzito
+52131, 31, Ponto Chique
+52006, 31, Pompéu
+51206, 31, Pirapora
+50406, 31, Piedade dos Gerais
+49606, 31, Pequi
+48806, 31, Pedra do Anta
+48756, 31, Pedra Bonita
+47956, 31, Patis
+47006, 31, Paracatu
+46206, 31, Ouro Verde de Minas
+45406, 31, Olaria
+45356, 31, Novo Oriente de Minas
+44706, 31, Nova Era
+44656, 31, Ninheira
+43906, 31, Muriaé
+42106, 31, Miradouro
+41306, 31, Medeiros
+40506, 31, Martinho Campos
+39706, 31, Maravilhas
+38906, 31, Machacalis
+37106, 31, Lagamar
+36306, 31, João Pinheiro
+35506, 31, Jequeri
+35456, 31, Jenipapo de Minas
+34806, 31, Jacuí
+33006, 31, Itamonte
+32206, 31, Itaguara
+31406, 31, Ipiaçu
+30606, 31, Inconfidentes
+30556, 31, Imbé de Minas
+29806, 31, Ibirité
+28006, 31, Guanhães
+27206, 31, Funilândia
+26406, 31, Fortuna de Minas
+25606, 31, Felisburgo
+24906, 31, Eugenópolis
+23106, 31, Dores de Guanhães
+22306, 31, Divinópolis
+21506, 31, Desterro do Melo
+20706, 31, Cruzeiro da Fortaleza
+19906, 31, Córrego do Bom Jesus
+18106, 31, Congonhas do Norte
+17306, 31, Conceição das Alagoas
+16506, 31, Claro dos Poções
+15706, 31, Central de Minas
+14006, 31, Carmo da Mata
+13206, 31, Carandaí
+12406, 31, Capetinga
+11606, 31, Campos Gerais
+10806, 31, Campanário
+9006, 31, Brumadinho
+8206, 31, Bonfinópolis de Minas
+7406, 31, Bom Despacho
+6606, 31, Bertópolis
+4106, 31, Arceburgo
+3306, 31, Aracitaba
+2506, 31, Amparo do Serra
+1706, 31, Almenara
+1631, 31, Alfredo Vasconcelos
+906, 31, Águas Formosas
+33406, 29, Wagner
+32606, 29, Urandi
+31806, 29, Tremedal
+30006, 29, Sebastião Laranjeiras
+29206, 29, São Francisco do Conde
+28406, 29, Santa Rita de Cássia
+27606, 29, Santa Brígida
+26806, 29, Rio do Antônio
+25956, 29, Rafael Jambeiro
+25931, 29, Quixabeira
+25006, 29, Planalto
+24306, 29, Piatã
+23506, 29, Palmeiras
+22706, 29, Nova Canaã
+22656, 29, Nordestina
+21906, 29, Mucugê
+20106, 29, Mairi
+19306, 29, Lençóis
+18506, 29, Jussara
+18456, 29, Jucuruçu
+17706, 29, Jaguarari
+16906, 29, Itiruçu
+16856, 29, Itatim
+15106, 29, Itagi
+14406, 29, Iraquara
+13606, 29, Ilhéus
+12806, 29, Ibirapuã
+11006, 29, Floresta Azul
+10206, 29, Dom Macedo Costa
+9406, 29, Cotegipe
+8606, 29, Conde
+7806, 29, Cícero Dantas
+6006, 29, Campo Formoso
+5206, 29, Caetité
+5156, 29, Caetanos
+4506, 29, Brotas de Macaúbas
+3706, 29, Boa Nova
+2906, 29, Barra do Choça
+1106, 29, Amélia Rodrigues
+306, 29, Acajutiba
+7006, 28, São Miguel do Aleixo
+6206, 28, Salgado
+5406, 28, Poço Redondo
+4706, 28, Nossa Senhora de Lourdes
+3906, 28, Malhador
+2106, 28, Estância
+1306, 28, Capela
+506, 28, Areia Branca
+8956, 27, Senador Rui Palmeira
+8006, 27, Santana do Ipanema
+7206, 27, Poço das Trincheiras
+6406, 27, Pão de Açúcar
+5606, 27, Novo Lino
+4906, 27, Mar Vermelho
+3106, 27, Igaci
+2306, 27, Coruripe
+1506, 27, Campo Grande
+706, 27, Batalha
+16506, 26, Xexéu
+15706, 26, Triunfo
+14006, 26, Serrita
+13206, 26, São João
+12406, 26, Sanharó
+11606, 26, Recife
+10806, 26, Pedra
+9006, 26, Macaparana
+8206, 26, Joaquim Nabuco
+7406, 26, Itacuruba
+6606, 26, Ibimirim
+5806, 26, Frei Miguelinho
+4106, 26, Caruaru
+3306, 26, Calçado
+2506, 26, Brejinho
+1706, 26, Belo Jardim
+906, 26, Amaraji
+16706, 25, Teixeira
+15906, 25, Serraria
+14206, 25, São José da Lagoa Tapada
+13406, 25, Santa Luzia
+13356, 25, Santa Inês
+12606, 25, Quixaba
+11806, 25, Pirpirituba
+10006, 25, Nazarezinho
+9206, 25, Massaranduba
+9156, 25, Marizópolis
+8406, 25, Lastro
+7606, 25, Juarez Távora
+6806, 25, Ingá
+5006, 25, Cubati
+4306, 25, Catolé do Rocha
+3506, 25, Cacimba de Dentro
+2706, 25, Borborema
+1906, 25, Belém
+106, 25, Água Branca
+14506, 24, Umarizal
+14456, 24, Triunfo Potiguar
+13706, 24, Sítio Novo
+12906, 24, São Tomé
+11106, 24, Ruy Barbosa
+11056, 24, Tibau
+10306, 24, Serra Caiada
+10256, 24, Porto do Mangue
+9506, 24, Pedra Grande
+8706, 24, Paraú
+7906, 24, Monte das Gameleiras
+6106, 24, Jucurutu
+5306, 24, Januário Cicco
+4606, 24, Ielmo Marinho
+3806, 24, Florânia
+3756, 24, Fernando Pedroza
+2006, 24, Caicó
+1206, 24, Arês
+406, 24, Água Nova
+13906, 23, Uruoca
+12106, 23, Santana do Cariri
+11306, 23, Quixadá
+11231, 23, Potiretama
+10506, 23, Pedra Branca
+9706, 23, Pacatuba
+8906, 23, Morrinhos
+7106, 23, Jardim
+6306, 23, Itapajé
+6256, 23, Itaitinga
+5506, 23, Iguatu
+4806, 23, Granjeiro
+3956, 23, Chorozinho
+3931, 23, Choró
+3006, 23, Caridade
+2206, 23, Beberibe
+1406, 23, Aratuba
+606, 23, Altaneira
+11506, 22, Vera Mendes
+10706, 22, Simões
+10656, 22, Sigefredo Pacheco
+10631, 22, Sebastião Leal
+9906, 22, São João da Serra
+9856, 22, São João da Canabrava
+8106, 22, Pimenteiras
+7306, 22, Paes Landim
+6506, 22, Monsenhor Hipólito
+5706, 22, Luís Correia
+5581, 22, Lagoa do Piauí
+4006, 22, Francinópolis
+3206, 22, Curimatá
+2406, 22, Capitão de Campos
+1606, 22, Beneditinos
+1556, 22, Bela Vista do Piauí
+806, 22, Antônio Almeida
+12506, 21, Tutóia
+12456, 21, Turilândia
+11706, 21, São Vicente Ferrer
+11631, 21, São Raimundo do Doca Bezerra
+10906, 21, São Francisco do Maranhão
+10856, 21, São Francisco do Brejão
+9106, 21, Presidente Dutra
+9056, 21, Porto Rico do Maranhão
+8306, 21, Penalva
+8256, 21, Pedro do Rosário
+7506, 21, Paço do Lumiar
+7456, 21, Olinda Nova do Maranhão
+6706, 21, Mirador
+6631, 21, Matões do Norte
+5906, 21, Lago Verde
+4206, 21, Fortuna
+4081, 21, Fernando Falcão
+3406, 21, Coelho Neto
+2606, 21, Cândido Mendes
+2556, 21, Campestre do Maranhão
+1806, 21, Benedito Leite
+1731, 21, Belágua
+956, 21, Arame
+22081, 17, Wanderlândia
+18881, 17, Santa Maria do Tocantins
+18006, 17, Porto Alegre do Tocantins
+17206, 17, Piraquê
+11506, 17, Jaú do Tocantins
+10706, 17, Itaguatins
+7306, 17, Dueré
+6506, 17, Darcinópolis
+3206, 17, Bernardo Sayão
+2406, 17, Arraias
+7706, 15, São Sebastião da Boa Vista
+6906, 15, Santarém Novo
+5106, 15, Óbidos
+5031, 15, Novo Progresso
+4406, 15, Marapanim
+3606, 15, Itaituba
+2806, 15, Curralinho
+2756, 15, Concórdia do Pará
+1956, 15, Cachoeira do Piriá
+1006, 15, Aveiro
+206, 15, Acará
+131, 15, Abel Figueiredo
+506, 14, São João da Baliza
+456, 14, Pacaraima
+3106, 13, Nova Olinda do Norte
+2306, 13, Jutaí
+1506, 13, Envira
+706, 13, Boca do Acre
+631, 13, Beruri
+106, 11, Guajará-Mirim
+56, 11, Cerejeiras
+31, 11, Cabixi
+
+---- 516 colisoes nesta posicao ----
+
+posicao: 13, cidade: NULL
+
+posicao: 14, cidades:
+21007, 52, Taquaral de Goiás
+20207, 52, São Miguel do Araguaia
+20157, 52, São Luiz do Norte
+19407, 52, Santa Rita do Araguaia
+19357, 52, Santa Isabel
+18607, 52, Rialma
+16007, 52, Panamá
+15207, 52, Novo Brasil
+14507, 52, Nerópolis
+13707, 52, Montes Claros de Goiás
+12907, 52, Marzagão
+10307, 52, Israelândia
+9457, 52, Guarinos
+8707, 52, Goiânia
+7907, 52, Flores de Goiás
+5307, 52, Cavalcante
+4607, 52, Campestre de Goiás
+4557, 52, Caldazinha
+3807, 52, Britânia
+1207, 52, Anhanguera
+8907, 51, Nova Maringá
+8857, 51, Nova Marilândia
+7107, 51, São José dos Quatro Marcos
+6307, 51, Paranatinga
+6257, 51, Nova Xavantina
+6232, 51, Nova Olímpia
+6182, 51, Nova Lacerda
+5507, 51, Vila Bela da Santíssima Trindade@
+4807, 51, Jaciara
+3957, 51, Glória D'Oeste
+3007, 51, Chapada dos Guimarães
+1407, 51, Aripuanã
+607, 51, Alto Taquari
+7307, 50, Rio Negro
+5707, 50, Naviraí
+4007, 50, Glória de Dourados
+3207, 50, Corumbá
+3157, 50, Coronel Sapucaia
+2407, 50, Caarapó
+807, 50, Anaurilândia
+23507, 43, Vista Alegre
+23457, 43, Vila Nova do Sul
+22707, 43, Vera Cruz
+21907, 43, Três Passos
+21857, 43, Três Palmeiras
+21832, 43, Três Forquilhas
+20107, 43, Sarandi
+19307, 43, São Paulo das Missões
+18507, 43, São José do Norte
+18457, 43, São José das Missões
+18432, 43, São João do Polêsine
+17707, 43, Santo Antônio das Missões
+16907, 43, Santa Maria
+15107, 43, Porto Xavier
+15057, 43, Porto Mauá
+14407, 43, Pelotas
+13607, 43, Paim Filho
+12807, 43, Nova Araçá
+12757, 43, Nova Alvorada
+11007, 43, Jaguarão
+10207, 43, Ijuí
+9407, 43, Guaporé
+8607, 43, Garibaldi
+7807, 43, Estrela
+6957, 43, Entre Rios do Sul
+6932, 43, Entre-Ijuís
+6007, 43, Crissiumal
+5207, 43, Cerro Largo
+5157, 43, Cerro Grande
+5132, 43, Cerro Branco
+4507, 43, Canguçu
+3707, 43, Campina das Missões
+2907, 43, Cacequi
+1107, 43, Arroio dos Ratos
+1057, 43, Arroio do Sal
+307, 43, Alecrim
+19507, 42, Xanxerê
+18707, 42, Tubarão
+17907, 42, Tangará
+16107, 42, São Domingos
+16057, 42, São Cristóvão do Sul
+15307, 42, Salete
+14607, 42, Rio do Oeste
+13807, 42, Praia Grande
+12007, 42, Palma Sola
+11207, 42, Morro da Fumaça
+10407, 42, Maracajá
+9607, 42, Lauro Müller
+8807, 42, Jaguaruna
+7007, 42, Içara
+6207, 42, Gravatal
+5407, 42, Florianópolis
+5357, 42, Flor do Sertão
+4707, 42, Cunha Porã
+3907, 42, Capinzal
+2107, 42, Barra Velha
+2057, 42, Balneário Barra do Sul
+1307, 42, Araquari
+1257, 42, Apiúna
+507, 42, Águas de Chapecó
+28807, 41, Xambrê
+27957, 41, Tupãssi
+27882, 41, Tunas do Paraná
+27007, 41, Teixeira Soares
+26207, 41, Sapopema
+25407, 41, São José da Boa Vista
+25357, 41, São Jorge do Patrocínio
+24707, 41, São Jerônimo da Serra
+23907, 41, Santa Mariana
+23857, 41, Santa Maria do Oeste
+22107, 41, Rio Bom
+21307, 41, Rancho Alegre
+21257, 41, Ramilândia
+20507, 41, Primeiro de Maio
+19707, 41, Planaltina do Paraná
+19657, 41, Pitangueiras
+18907, 41, Pérola
+18857, 41, Perobal
+17107, 41, Nova Londrina
+17057, 41, Nova Laranjeiras
+16307, 41, Munhoz de Melo
+15507, 41, Marumbi
+15457, 41, Marquinho
+14807, 41, Marialva
+13007, 41, Jussara
+12207, 41, Janiópolis
+11407, 41, Ivaí
+10607, 41, Iporã
+9807, 41, Ibiporã
+9757, 41, Ibema
+8957, 41, Guamiranga
+8007, 41, Florestópolis
+7207, 41, Dois Vizinhos
+7157, 41, Diamante D'Oeste
+6407, 41, Cornélio Procópio
+5607, 41, Cidade Gaúcha
+4907, 41, Castro
+3107, 41, Bocaiúva do Sul
+3057, 41, Boa Vista da Aparecida
+2307, 41, Balsa Nova
+1507, 41, Arapongas
+707, 41, Alto Piquiri
+56107, 35, Valentim Gentil
+55307, 35, Turmalina
+54607, 35, Timburi
+53807, 35, Taquarituba
+52007, 35, Silveiras
+51207, 35, Sarutaiá
+50407, 35, São Pedro
+49607, 35, São José do Barreiro
+48807, 35, São Caetano do Sul
+47007, 35, Santa Maria da Serra
+46207, 35, Santa Cruz da Conceição
+45407, 35, Salto Grande
+44707, 35, Sagres
+43907, 35, Rio Claro
+42107, 35, Rafard
+41307, 35, Presidente Epitácio
+40507, 35, Porangaba
+39707, 35, Platina
+38907, 35, Pirajuí
+37107, 35, Pedreira
+36307, 35, Patrocínio Paulista
+36257, 35, Parisi
+35507, 35, Paraguaçu Paulista
+34807, 35, Ouro Verde
+34757, 35, Ouroeste
+33007, 35, Nova Granada
+32207, 35, Narandiba
+32157, 35, Nantes
+31407, 35, Monte Aprazível
+30607, 35, Mogi das Cruzes
+29807, 35, Mineiros do Tietê
+28007, 35, Macatuba
+27207, 35, Lorena
+26407, 35, Laranjal Paulista
+25607, 35, João Ramalho
+24907, 35, Jambeiro
+23107, 35, Itaquaquecetuba
+22307, 35, Itapetininga
+21507, 35, Irapuã
+20707, 35, Indiaporã
+19907, 35, Iepê
+18107, 35, Guarantã
+17307, 35, Guaimbê
+16507, 35, Gabriel Monteiro
+15707, 35, Ferraz de Vasconcelos
+15657, 35, Fernão
+14957, 35, Embaúba
+14007, 35, Dobrada
+13207, 35, Cristais Paulista
+12407, 35, Cordeirópolis
+11607, 35, Cesário Lange
+10807, 35, Casa Branca
+9957, 35, Canas
+9007, 35, Caieiras
+8207, 35, Buritizal
+7407, 35, Borborema
+6607, 35, Biritiba Mirim
+5807, 35, Bastos
+4107, 35, Atibaia
+3307, 35, Araras
+2507, 35, Aparecida
+1707, 35, Américo Brasiliense
+907, 35, Altair
+6107, 33, Valença
+5307, 33, São Sebastião do Alto
+4607, 33, Santa Maria Madalena
+4557, 33, Rio de Janeiro
+3807, 33, Paraty
+2007, 33, Itaguaí
+1207, 33, Carmo
+1157, 33, Cardoso Moreira
+407, 33, Barra Mansa
+4807, 32, São José do Calçado
+3007, 32, Iúna
+2207, 32, Fundão
+1407, 32, Castelo
+607, 32, Aracruz
+71907, 31, Virgolândia
+70107, 31, Uberaba
+70057, 31, Ubaporanga
+69307, 31, Três Corações
+68507, 31, Teixeiras
+67707, 31, Sobrália
+66907, 31, Serrania
+65107, 31, São Tomás de Aquino
+64407, 31, São Sebastião da Bela Vista
+63607, 31, São José do Mantimento
+62807, 31, São João Evangelista
+61007, 31, São Domingos do Prata
+60207, 31, Santo Antônio do Itambé
+59407, 31, Santa Rita de Ibitipoca
+59357, 31, Santa Rita de Minas
+58607, 31, Santana do Deserto
+57807, 31, Santa Luzia
+56007, 31, Rio Vermelho
+55207, 31, Rio Espera
+54507, 31, Riacho dos Machados
+54457, 31, Riachinho
+53707, 31, Quartel Geral
+52907, 31, Pratápolis
+51107, 31, Pirapetinga
+50307, 31, Piedade do Rio Grande
+49507, 31, Pequeri
+48707, 31, Pedra Azul
+47907, 31, Passos
+46107, 31, Ouro Preto
+45307, 31, Novo Cruzeiro
+44607, 31, Nepomuceno
+43807, 31, Munhoz
+42007, 31, Mirabela
+41207, 31, Matutina
+40407, 31, Marmelópolis
+39607, 31, Mantena
+38807, 31, Luz
+38682, 31, Luislândia
+37007, 31, Ladainha
+36207, 31, João Monlevade
+35407, 31, Jeceaba
+35357, 31, Japonvar
+34707, 31, Jacinto
+33907, 31, Itaverava
+32107, 31, Itacarambi
+31307, 31, Ipatinga
+30507, 31, Ilicínea
+29707, 31, Ibiraci
+29657, 31, Ibiracatu
+28907, 31, Guimarânia
+27107, 31, Frutal
+27057, 31, Fronteira dos Vales
+26307, 31, Fortaleza de Minas
+25507, 31, São Gonçalo do Rio Preto
+24807, 31, Estrela do Sul
+23007, 31, Dores de Campos
+22207, 31, Divinolândia de Minas
+21407, 31, Desterro de Entre Rios
+20607, 31, Crucilândia
+19807, 31, Córrego Danta
+18007, 31, Congonhas
+17207, 31, Conceição das Pedras
+16407, 31, Claraval
+15607, 31, Cedro do Abaeté
+14907, 31, Casa Grande
+13107, 31, Caranaíba
+12307, 31, Capelinha
+11507, 31, Campos Altos
+10707, 31, Cambuquira
+9907, 31, Caetanópolis
+8107, 31, Bonfim
+7307, 31, Bocaiúva
+6507, 31, Berilo
+5707, 31, Barra Longa
+4007, 31, Araxá
+3207, 31, Araçaí
+2407, 31, Alvorada de Minas
+1607, 31, Alfenas
+807, 31, Aguanil
+33307, 29, Vitória da Conquista
+33257, 29, Vereda
+32507, 29, Una
+32457, 29, Umburanas
+31707, 29, Terra Nova
+30907, 29, Tabocas do Brejo Velho
+29107, 29, São Felipe
+29057, 29, São Félix do Coribe
+28307, 29, Santanópolis
+27507, 29, Santa Bárbara
+26707, 29, Rio de Contas
+26657, 29, Ribeirão do Largo
+25907, 29, Quijingue
+24207, 29, Pedro Alexandre
+23407, 29, Palmas de Monte Alto
+23357, 29, Ourolândia
+22607, 29, Nilo Peçanha
+21807, 29, Mortugaba
+20007, 29, Maiquinique
+19207, 29, Lauro de Freitas
+19157, 29, Lapão
+18407, 29, Juazeiro
+18357, 29, João Dourado
+17607, 29, Jaguaquara
+16807, 29, Itarantim
+15007, 29, Itaeté
+14307, 29, Iramaia
+13507, 29, Iguaí
+13457, 29, Igrapiúna
+12707, 29, Ibirapitanga
+11907, 29, Iaçu
+11857, 29, Heliópolis
+10107, 29, Dom Basílio
+10057, 29, Dias d'Ávila
+9307, 29, Correntina
+8507, 29, Conceição do Jacuípe
+7707, 29, Chorrochó
+6907, 29, Caravelas
+6857, 29, Capela do Alto Alegre
+5107, 29, Caém
+4407, 29, Brejolândia
+3607, 29, Biritinga
+2807, 29, Barra da Estiva
+1957, 29, Apuarema
+1007, 29, Amargosa
+207, 29, Abaré
+6107, 28, Rosário do Catete
+5307, 28, Pirambu
+4607, 28, Nossa Senhora das Dores
+3807, 28, Malhada dos Bois
+2007, 28, Divina Pastora
+1207, 28, Canindé de São Francisco
+407, 28, Arauá
+8907, 27, Satuba
+7107, 27, Piranhas
+6307, 27, Palmeira dos Índios
+5507, 27, Murici
+4807, 27, Maribondo
+3007, 27, Ibateguara
+2207, 27, Coqueiro Seco
+1407, 27, Campo Alegre
+1357, 27, Campestre
+607, 27, Barra de São Miguel
+16407, 26, Vitória de Santo Antão
+15607, 26, Trindade
+14857, 26, Tamandaré
+13107, 26, São Caitano
+12307, 26, Saloá
+11507, 26, Quipapá
+10707, 26, Paulista
+9907, 26, Ouricuri
+8107, 26, João Alfredo
+8057, 26, Jatobá
+7307, 26, Ipubi
+6507, 26, Iati
+5707, 26, Floresta
+4007, 26, Carpina
+3207, 26, Caetés
+2407, 26, Brejão
+1607, 26, Belém do São Francisco
+807, 26, Altinho
+17407, 25, Zabelê
+16607, 25, Tavares
+15807, 25, Serra Redonda
+14107, 25, São João do Tigre
+13307, 25, Santa Helena
+12507, 25, Queimadas
+11707, 25, Pilõezinhos
+10907, 25, Paulista
+9107, 25, Mari
+9057, 25, Marcação
+8307, 25, Lagoa Seca
+7507, 25, João Pessoa
+6707, 25, Imaculada
+5907, 25, Emas
+4207, 25, Catingueira
+4157, 25, Casserengue
+3407, 25, Cacimba de Areia
+2607, 25, Igaracy
+1807, 25, Bayeux
+14407, 24, Touros
+13607, 24, Severiano Melo
+13557, 24, Serrinha dos Pintos
+12807, 24, São Rafael
+11007, 24, Rodolfo Fernandes
+10207, 24, Portalegre
+9407, 24, Pau dos Ferros
+9332, 24, Santa Maria
+8607, 24, Paraná
+7807, 24, Monte Alegre
+6007, 24, José da Penha
+5207, 24, Janduís
+4507, 24, Guamaré
+3707, 24, Felipe Guerra
+2907, 24, Coronel João Pessoa
+1107, 24, Areia Branca
+307, 24, Afonso Bezerra
+13807, 23, Uruburetama
+13757, 23, Umirim
+12007, 23, Santana do Acaraú
+11207, 23, Potengi
+10407, 23, Paramoti
+9607, 23, Pacajus
+8807, 23, Moraújo
+7007, 23, Jaguaruana
+6207, 23, Itaiçaba
+5407, 23, Icó
+5357, 23, Icapuí
+5332, 23, Ibicuitinga
+4707, 23, Granja
+4657, 23, Graça
+3907, 23, Chaval
+2107, 23, Baturité
+2057, 23, Barroquinha
+1307, 23, Araripe
+1257, 23, Ararendá
+507, 23, Alcântaras
+11407, 22, Várzea Grande
+11357, 22, Várzea Branca
+10607, 22, São Raimundo Nonato
+9807, 22, São Gonçalo do Piauí
+9757, 22, São Gonçalo do Gurguéia
+8007, 22, Picos
+7207, 22, Padre Marcos
+6407, 22, Monsenhor Gil
+6357, 22, Milton Brandão
+5607, 22, Landri Sales
+5557, 22, Lagoa Alegre
+5532, 22, Jurema
+4907, 22, Isaías Coelho
+3107, 22, Cristino Castro
+2307, 22, Canto do Buriti
+1507, 22, Batalha
+707, 22, Anísio de Abreu
+14007, 21, Zé Doca
+12407, 21, Turiaçu
+11607, 21, São Raimundo das Mangabeiras
+11532, 21, São Pedro da Água Branca
+10807, 21, São Félix de Balsas
+9007, 21, Porto Franco
+8207, 21, Pedreiras
+7407, 21, Olho d'Água das Cunhãs
+7357, 21, Nova Olinda do Maranhão
+6607, 21, Matões
+5807, 21, Lago do Junco
+4107, 21, Fortaleza dos Nogueiras
+4057, 21, Estreito
+3307, 21, Codó
+3257, 21, Cidelândia
+2507, 21, Cajari
+1707, 21, Barreirinhas
+907, 21, Araioses
+832, 21, Apicum-Açu
+22107, 17, Xambioá
+21307, 17, Tupiratins
+21257, 17, Tupirama
+18907, 17, Santa Rosa do Tocantins
+16307, 17, Pau D'Arco
+15507, 17, Oliveira de Fátima
+13957, 17, Muricilândia
+12157, 17, Lavandeira
+9807, 17, Ipueiras
+7207, 17, Dois Irmãos do Tocantins
+5607, 17, Conceição do Tocantins
+5557, 17, Combinado
+3107, 17, Barrolândia
+3057, 17, Bandeirantes do Tocantins
+2307, 17, Arapoema
+707, 17, Alvorada
+8407, 15, Xinguara
+8357, 15, Vitória do Xingu
+7607, 15, São Miguel do Guamá
+6807, 15, Santarém
+5007, 15, Nova Timboteua
+4307, 15, Maracanã
+3507, 15, Irituia
+3457, 15, Ipixuna do Pará
+2707, 15, Conceição do Araguaia
+1907, 15, Bujaru
+1782, 15, Breu Branco
+107, 15, Abaetetuba
+407, 14, Normandia
+282, 14, Iracema
+3957, 13, São Sebastião do Uatumã
+3007, 13, Nhamundá
+2207, 13, Juruá
+1407, 13, Eirunepé
+607, 13, Benjamin Constant
+807, 12, Porto Acre
+1807, 11, Vale do Paraíso
+1757, 11, Vale do Anari
+
+---- 509 colisoes nesta posicao ----
+
+posicao: 15, cidade: NULL
+
+posicao: 16, cidades:
+108, 53, Brasília
+21908, 52, Varjão
+21858, 52, Valparaíso de Goiás
+20108, 52, São Luís de Montes Belos
+20058, 52, São João da Paraúna
+19308, 52, Santa Helena de Goiás
+19258, 52, Santa Fé de Goiás
+18508, 52, Quirinópolis
+17708, 52, Pontalina
+16908, 52, Pilar de Goiás
+14408, 52, Nazário
+12808, 52, Mara Rosa
+11008, 52, Itapirapuã
+10208, 52, Iporá
+10158, 52, Ipiranga de Goiás
+9408, 52, Guarani de Goiás
+8608, 52, Goianésia
+7808, 52, Firminópolis
+5208, 52, Caturaí
+4508, 52, Caldas Novas
+1108, 52, Anápolis
+308, 52, Alexânia
+258, 52, Águas Lindas de Goiás
+8808, 51, Nova Guarita
+7958, 51, Tangará da Serra
+7883, 51, Serra Nova Dourada
+7008, 51, Poxoréu
+6208, 51, Nova Brasilândia
+6158, 51, Nova Bandeirantes
+3908, 51, General Carneiro
+3858, 51, Gaúcha do Norte
+1308, 51, Arenápolis
+1258, 51, Araputanga
+508, 51, Alto Paraguai
+8008, 50, Terenos
+7208, 50, Rio Brilhante
+6408, 50, Pedro Gomes
+6358, 50, Paranhos
+5608, 50, Miranda
+4908, 50, Jaraguari
+3108, 50, Corguinho
+2308, 50, Brasilândia
+1508, 50, Bandeirantes
+708, 50, Anastácio
+23408, 43, Vila Maria
+23358, 43, Vila Lângaro
+22608, 43, Venâncio Aires
+22558, 43, Vanini
+22533, 43, Vale do Sol
+21808, 43, Três de Maio
+20008, 43, Sapucaia do Sul
+19208, 43, São Nicolau
+19158, 43, São Miguel das Missões
+18408, 43, São Jerônimo
+17608, 43, Santo Antônio da Patrulha
+17558, 43, Santo Antônio do Palma
+16808, 43, Santa Cruz do Sul
+16758, 43, Santa Clara do Sul
+16733, 43, Santa Cecília do Sul
+15958, 43, Rolador
+15008, 43, Porto Lucena
+14308, 43, Pejuçara
+13508, 43, Osório
+12708, 43, Nonoai
+12658, 43, Não-Me-Toque
+11908, 43, Marcelino Ramos
+10108, 43, Igrejinha
+9308, 43, Guaíba
+9258, 43, Guabiju
+8508, 43, Frederico Westphalen
+8458, 43, Fortaleza dos Valos
+8433, 43, Forquetinha
+7708, 43, Esteio
+6908, 43, Encruzilhada do Sul
+5108, 43, Caxias do Sul
+4408, 43, Canela
+4358, 43, Candiota
+3608, 43, Cambará do Sul
+3558, 43, Camargo
+2808, 43, Caçapava do Sul
+1958, 43, Barra Funda
+1008, 43, Arroio do Meio
+208, 43, Ajuricaba
+19408, 42, Witmarsum
+19358, 42, Vitor Meireles
+18608, 42, Trombudo Central
+17808, 42, Taió
+17758, 42, Sul Brasil
+16008, 42, São Carlos
+15208, 42, Romelândia
+14508, 42, Rio do Campo
+13708, 42, Pouso Redondo
+12908, 42, Pinhalzinho
+11108, 42, Monte Castelo
+11058, 42, Monte Carlo
+10308, 42, Major Vieira
+9508, 42, Laurentino
+9458, 42, Lajeado Grande
+8708, 42, Jacinto Machado
+7908, 42, Irineópolis
+7858, 42, Irati
+6108, 42, Grão Pará
+5308, 42, Faxinal dos Guedes
+4608, 42, Criciúma
+4558, 42, Correia Pinto
+3808, 42, Canoinhas
+2008, 42, Balneário Camboriú
+1208, 42, Antônio Carlos
+408, 42, Água Doce
+28708, 41, Vitorino
+28658, 41, Virmond
+28633, 41, Doutor Ulysses
+27908, 41, Tuneiras do Oeste
+27858, 41, Três Barras do Paraná
+26108, 41, São Tomé
+25308, 41, São Jorge do Ivaí
+24608, 41, São Carlos do Ivaí
+23808, 41, Santa Izabel do Oeste
+22008, 41, Rio Azul
+21208, 41, Quitandinha
+20408, 41, Presidente Castelo Branco
+20358, 41, Pranchita
+20333, 41, Prado Ferreira
+19608, 41, Pitanga
+18808, 41, Peabiru
+17008, 41, Nova Fátima
+16208, 41, Morretes
+15408, 41, Marmeleiro
+15358, 41, Maripá
+14708, 41, Maria Helena
+13908, 41, Mallet
+12108, 41, Jandaia do Sul
+11308, 41, Itaúna do Sul
+11258, 41, Itaperuçu
+10508, 41, Ipiranga
+9708, 41, Ibaiti
+9658, 41, Honório Serpa
+8908, 41, Guairaçá
+7108, 41, Diamante do Norte
+6308, 41, Corbélia
+5508, 41, Cianorte
+4808, 41, Cascavel
+3958, 41, Campina do Simão
+3008, 41, Boa Esperança
+2208, 41, Atalaia
+1408, 41, Apucarana
+608, 41, Alto Paraná
+56958, 35, Vitória Brasil
+56008, 35, Urupês
+55208, 35, Turiúba
+54508, 35, Tietê
+53708, 35, Taquaritinga
+53658, 35, Taquaral
+52908, 35, Taciba
+51108, 35, Sarapuí
+50308, 35, São Paulo
+49508, 35, São José da Bela Vista
+48708, 35, São Bernardo do Campo
+47908, 35, Santo Antônio da Alegria
+46108, 35, Santa Clara d'Oeste
+45308, 35, Salto de Pirapora
+44608, 35, Sabino
+43808, 35, Rinópolis
+42008, 35, Quintana
+41208, 35, Presidente Bernardes
+40408, 35, Populina
+39608, 35, Planalto
+38808, 35, Piraju
+37008, 35, Pedregulho
+36208, 35, Pariquera-Açu
+35408, 35, Panorama
+34708, 35, Ourinhos
+33908, 35, Olímpia
+32108, 35, Murutinga do Sul
+32058, 35, Motuca
+31308, 35, Monte Alto
+30508, 35, Mococa
+29708, 35, Miguelópolis
+29658, 35, Mesópolis
+28908, 35, Mariápolis
+28858, 35, Marapoama
+27108, 35, Lins
+26308, 35, Lagoinha
+25508, 35, Joanópolis
+24808, 35, Jales
+23008, 35, Itapura
+22208, 35, Itapecerica da Serra
+22158, 35, Itaoca
+21408, 35, Iracemápolis
+20608, 35, Indiana
+19808, 35, Icém
+18008, 35, Guarani d'Oeste
+17208, 35, Guaiçara
+16408, 35, Franco da Rocha
+15608, 35, Fernando Prestes
+14908, 35, Elias Fausto
+13108, 35, Cravinhos
+12308, 35, Conchas
+11508, 35, Cerquilho
+10708, 35, Cardoso
+9908, 35, Cananéia
+8108, 35, Buritama
+7308, 35, Boracéia
+6508, 35, Birigui
+5708, 35, Barueri
+4008, 35, Assis
+3208, 35, Araraquara
+3158, 35, Arapeí
+2408, 35, Anhumas
+1608, 35, Americana
+808, 35, Alfredo Marcondes
+758, 35, Alambari
+6008, 33, Três Rios
+5208, 33, São Pedro da Aldeia
+5158, 33, São José do Vale do Rio Preto
+5133, 33, São José de Ubá
+4508, 33, Rio das Flores
+3708, 33, Paraíba do Sul
+2908, 33, Miguel Pereira
+2858, 33, Mesquita
+1108, 33, Cantagalo
+308, 33, Barra do Piraí
+258, 33, Arraial do Cabo
+233, 33, Armação dos Búzios
+4708, 32, São Gabriel da Palha
+4658, 32, São Domingos do Norte
+3908, 32, Nova Venécia
+2108, 32, Ecoporanga
+1308, 32, Cariacica
+508, 32, Apiacá
+71808, 31, Virginópolis
+70008, 31, Ubaí
+69208, 31, Tombos
+68408, 31, Tarumirim
+67608, 31, Simonésia
+66808, 31, Serra do Salitre
+65008, 31, São Tiago
+64308, 31, São Roque de Minas
+63508, 31, São José do Jacuri
+62708, 31, São João do Paraíso
+62658, 31, São João do Pacuí
+61908, 31, São Gonçalo do Rio Abaixo
+60108, 31, Santo Antônio do Grama
+59308, 31, Santa Rita de Jacutinga
+58508, 31, Santana de Pirapama
+57708, 31, Santa Juliana
+57658, 31, Santa Helena de Minas
+56908, 31, Sacramento
+55108, 31, Rio do Prado
+54408, 31, Ressaquinha
+53608, 31, Prudente de Morais
+52808, 31, Prata
+51008, 31, Piranguinho
+50208, 31, Piedade de Ponte Nova
+50158, 31, Piedade de Caratinga
+49408, 31, Pedro Teixeira
+48608, 31, Peçanha
+47808, 31, Passa Vinte
+46008, 31, Ouro Fino
+45208, 31, Nova Serrana
+44508, 31, Nazareno
+43708, 31, Morro do Pilar
+42908, 31, Monte Azul
+41108, 31, Matozinhos
+40308, 31, Marliéria
+39508, 31, Manhumirim
+38708, 31, Luminárias
+38658, 31, Lontra
+37908, 31, Lamim
+36108, 31, Joanésia
+35308, 31, Japaraíba
+34608, 31, Jaboticatubas
+33808, 31, Itaúna
+33758, 31, Itaú de Minas
+32008, 31, Itacambira
+31208, 31, Ipanema
+31158, 31, Ipaba
+30408, 31, Ijaci
+29608, 31, Ibiaí
+28808, 31, Guidoval
+27008, 31, Fronteira
+26208, 31, Formoso
+25408, 31, Felício dos Santos
+24708, 31, Estrela do Indaiá
+23908, 31, Entre Rios de Minas
+23858, 31, Entre Folhas
+22108, 31, Divino das Laranjeiras
+21308, 31, Descoberto
+21258, 31, Delta
+20508, 31, Cristina
+19708, 31, Coronel Xavier Chaves
+18908, 31, Cordisburgo
+17108, 31, Conceição da Aparecida
+16308, 31, Cipotânea
+15508, 31, Caxambu
+15458, 31, Catuji
+14808, 31, Carvalhos
+13008, 31, Caraí
+12208, 31, Capela Nova
+11408, 31, Campo Florido
+10608, 31, Cambuí
+9808, 31, Cachoeira Dourada
+8008, 31, Bom Sucesso
+7208, 31, Bocaina de Minas
+6408, 31, Belo Vale
+5608, 31, Barbacena
+4908, 31, Baependi
+3108, 31, Antônio Prado de Minas
+2308, 31, Alvinópolis
+1508, 31, Além Paraíba
+708, 31, Água Comprida
+33208, 29, Vera Cruz
+33158, 29, Várzea Nova
+32408, 29, Uibaí
+31608, 29, Teolândia
+30808, 29, Souto Soares
+30758, 29, Sítio do Mato
+29008, 29, São Félix
+28208, 29, Santana
+27408, 29, Salvador
+26608, 29, Ribeira do Pombal
+25808, 29, Queimadas
+25758, 29, Presidente Tancredo Neves
+24108, 29, Pedrão
+24058, 29, Pé de Serra
+23308, 29, Ouriçangas
+22508, 29, Nazaré
+21708, 29, Morro do Chapéu
+20908, 29, Mascote
+19108, 29, Lamarão
+19058, 29, Lajedo do Tabocal
+18308, 29, Jitaúna
+17508, 29, Jacobina
+16708, 29, Itaquara
+15908, 29, Itanagra
+14208, 29, Irajuba
+13408, 29, Igaporã
+12608, 29, Ibiquera
+11808, 29, Guaratinga
+10008, 29, Dário Meira
+9208, 29, Coronel João Sá
+8408, 29, Conceição do Coité
+7608, 29, Central
+7558, 29, Caturama
+6808, 29, Cansanção
+5008, 29, Caculé
+4308, 29, Brejões
+3508, 29, Belo Campo
+2708, 29, Barra
+2658, 29, Banzaê
+1908, 29, Aporá
+108, 29, Abaíra
+6008, 28, Ribeirópolis
+5208, 28, Pinhão
+4508, 28, Nossa Senhora da Glória
+4458, 28, Nossa Senhora Aparecida
+3708, 28, Macambira
+2908, 28, Itabaiana
+1108, 28, Canhoba
+308, 28, Aracaju
+8808, 27, São Sebastião
+7008, 27, Pindoba
+6208, 27, Palestina
+5408, 27, Monteirópolis
+4708, 27, Marechal Deodoro
+3908, 27, Jundiá
+2108, 27, Colônia Leopoldina
+1308, 27, Cajueiro
+508, 27, Barra de Santo Antônio
+16308, 26, Vicência
+16183, 26, Vertente do Lério
+15508, 26, Tracunhaém
+14808, 26, Tacaratu
+13008, 26, São Bento do Una
+12208, 26, Salgueiro
+11533, 26, Quixaba
+11408, 26, Primavera
+10608, 26, Paudalho
+9808, 26, Orocó
+8008, 26, Jataúba
+7208, 26, Ipojuca
+6408, 26, Gravatá
+5608, 26, Flores
+4908, 26, Cumaru
+3108, 26, Cachoeirinha
+2308, 26, Bonito
+1508, 26, Belém de Maria
+708, 26, Aliança
+16508, 25, Taperoá
+15708, 25, Serra Grande
+14008, 25, São João do Cariri
+13208, 25, Santa Cruz
+13158, 25, Santa Cecília
+12408, 25, Puxinanã
+11608, 25, Pilões
+10808, 25, Patos
+9008, 25, Manaíra
+8208, 25, Lagoa de Dentro
+7408, 25, Jericó
+6608, 25, Ibiara
+5808, 25, Duas Estradas
+4108, 25, Carrapateira
+4033, 25, Capim
+3308, 25, Cachoeira dos Índios
+2508, 25, Boqueirão
+1708, 25, Barra de São Miguel
+908, 25, Arara
+15008, 24, Vila Flor
+14308, 24, Timbaúba dos Batistas
+13508, 24, Serrinha
+12708, 24, São Pedro
+11908, 24, São Francisco do Oeste
+10108, 24, Poço Branco
+9308, 24, Patu
+8508, 24, Ouro Branco
+7708, 24, Montanhas
+6908, 24, Lucrécia
+5108, 24, Jandaíra
+4408, 24, Grossos
+3608, 24, Extremoz
+2808, 24, Coronel Ezequiel
+1008, 24, Apodi
+208, 24, Açu
+13708, 23, Umari
+12908, 23, Sobral
+11108, 23, Porteiras
+10308, 23, Parambu
+10258, 23, Paraipaba
+9508, 23, Orós
+9458, 23, Ocara
+8708, 23, Morada Nova
+7908, 23, Martinópole
+6108, 23, Irauçuba
+5308, 23, Ibiapina
+5233, 23, Horizonte
+4608, 23, General Sampaio
+3808, 23, Cedro
+2008, 23, Barro
+1208, 23, Aracoiaba
+408, 23, Aiuaba
+11308, 22, Valença do Piauí
+10508, 22, São Pedro do Piauí
+10383, 22, São Miguel da Baixa Grande
+9708, 22, São Francisco do Piauí
+9658, 22, São Francisco de Assis do Piauí�
+8908, 22, Ribeiro Gonçalves
+8858, 22, Riacho Frio
+7108, 22, Olho D'Água do Piauí
+6308, 22, Miguel Leão
+5508, 22, José de Freitas
+5458, 22, Joca Marques
+4808, 22, Ipiranga do Piauí
+3008, 22, Cristalândia do Piauí
+2208, 22, Campo Maior
+2133, 22, Campo Grande do Piauí
+2083, 22, Cajueiro da Praia
+1408, 22, Barro Duro
+608, 22, Angical do Piauí
+12308, 21, Tuntum
+12233, 21, Trizidela do Vale
+11508, 21, São Mateus do Maranhão
+10708, 21, São Domingos do Maranhão
+10658, 21, São Domingos do Azeitão
+9908, 21, Santa Inês
+8108, 21, Paulo Ramos
+8058, 21, Paulino Neves
+7308, 21, Nova Iorque
+7258, 21, Nova Colinas
+6508, 21, Matinha
+5708, 21, Lago da Pedra
+5658, 21, Junco do Maranhão
+4008, 21, Esperantinópolis
+3208, 21, Chapadinha
+3158, 21, Centro do Guilherme
+2408, 21, Cajapió
+2358, 21, Buritirana
+1608, 21, Barra do Corda
+808, 21, Anapurus
+21208, 17, Tocantinópolis
+18808, 17, Sampaio
+18758, 17, Rio Sono
+17008, 17, Pindorama do Tocantins
+16208, 17, Paranã
+10508, 17, Itacajá
+7108, 17, Divinópolis do Tocantins
+6258, 17, Crixás do Tocantins
+5508, 17, Colinas do Tocantins
+3883, 17, Carmolândia
+3008, 17, Babaçulândia
+2208, 17, Araguatins
+2158, 17, Araguanã
+808, 16, Vitória do Jari
+8308, 15, Viseu
+7508, 15, São João do Araguaia
+7458, 15, São Geraldo do Araguaia
+6708, 15, Santana do Araguaia
+6583, 15, Santa Maria das Barreiras
+5908, 15, Porto de Moz
+4208, 15, Marabá
+3408, 15, Inhangapi
+2608, 15, Colares
+1808, 15, Breves
+1758, 15, Brejo Grande do Araguaia
+958, 15, Aurora do Pará
+308, 14, Mucajaí
+233, 14, Caroebe
+3908, 13, São Paulo de Olivença
+2108, 13, Japurá
+1308, 13, Codajás
+508, 13, Barreirinha
+708, 12, Xapuri
+1708, 11, Urupá
+908, 11, Castanheiras
+
+---- 513 colisoes nesta posicao ----
+
+posicao: 17, cidade: NULL
+
+posicao: 18, cidades:
+21809, 52, Urutaí
+20009, 52, São João d'Aliança
+19209, 52, Santa Cruz de Goiás
+17609, 52, Planaltina
+16809, 52, Petrolina de Goiás
+15009, 52, Nova Veneza
+13509, 52, Monte Alegre de Goiás
+12709, 52, Mambaí
+11909, 52, Jataí
+10109, 52, Ipameri
+8509, 52, Goiandira
+6909, 52, Davinópolis
+5109, 52, Catalão
+5059, 52, Castelândia
+4409, 52, Caiapônia
+3609, 52, Brazabrantes
+3559, 52, Bonfinópolis
+2809, 52, Avelinópolis
+209, 52, Água Limpa
+159, 52, Adelândia
+134, 52, Acreúna
+7909, 51, Sinop
+7859, 51, São Félix do Araguaia
+6109, 51, Nossa Senhora do Livramento
+5309, 51, Luciara
+5259, 51, Lucas do Rio Verde
+5234, 51, Lambari D'Oeste
+4609, 51, Itiquira
+4559, 51, Itaúba
+3809, 51, Figueirópolis D'Oeste
+1209, 51, Araguainha
+409, 51, Alto Garças
+359, 51, Alto Boa Vista
+7109, 50, Ribas do Rio Pardo
+6309, 50, Paranaíba
+6259, 50, Novo Horizonte do Sul
+4809, 50, Japorã
+2209, 50, Bonito
+2159, 50, Bodoquena
+609, 50, Amambai
+23309, 43, Vila Flores
+22509, 43, Vacaria
+21709, 43, Três Coroas
+21634, 43, Três Arroios
+20909, 43, Tapejara
+20859, 43, Tabaí
+19109, 43, São Martinho
+18309, 43, São Gabriel
+17509, 43, Santo Ângelo
+16709, 43, Santa Bárbara do Sul
+15909, 43, Rodeio Bonito
+14209, 43, Pedro Osório
+14159, 43, Paverama
+14134, 43, Paulo Bento
+13409, 43, Novo Hamburgo
+13359, 43, Nova Roma do Sul
+13334, 43, Nova Ramada
+12609, 43, Muçum
+11809, 43, Marau
+11759, 43, Manoel Viana
+11734, 43, Mampituba
+10009, 43, Ibirubá
+9209, 43, Gravataí
+9159, 43, Gramado Xavier
+8409, 43, Formigueiro
+7609, 43, Estância Velha
+7559, 43, Estação
+6809, 43, Encantado
+6759, 43, Doutor Ricardo
+6734, 43, Doutor Maurício Cardoso
+5959, 43, Cotiporã
+5934, 43, Coronel Pilar
+5009, 43, Catuípe
+4309, 43, Cândido Godói
+3509, 43, Camaquã
+2709, 43, Butiá
+2659, 43, Brochier
+2584, 43, Bozano
+1909, 43, Barra do Ribeiro
+1859, 43, Barra do Guarita
+109, 43, Agudo
+59, 43, Água Santa
+34, 43, Aceguá
+19309, 42, Videira
+18509, 42, Treze Tílias
+17709, 42, Sombrio
+16909, 42, São Lourenço do Oeste
+15109, 42, Rodeio
+15059, 42, Rio Rufino
+14409, 42, Rio das Antas
+13609, 42, Porto União
+12809, 42, Balneário Piçarras
+11009, 42, Mondaí
+10209, 42, Major Gercino
+9409, 42, Laguna
+8609, 42, Jaborá
+7809, 42, Irani
+7759, 42, Iraceminha
+7684, 42, Ipuaçu
+6009, 42, Governador Celso Ramos
+5209, 42, Erval Velho
+5159, 42, Doutor Pedrinho
+4509, 42, Corupá
+4459, 42, Coronel Martins
+3709, 42, Canelinha
+2909, 42, Brusque
+2859, 42, Braço do Trombudo
+1109, 42, Anitápolis
+309, 42, Agronômica
+28609, 41, Verê
+28559, 41, Vera Cruz do Oeste
+28534, 41, Ventania
+27809, 41, Tomazina
+26009, 41, São Sebastião da Amoreira
+25209, 41, São Jorge d'Oeste
+24509, 41, Santo Inácio
+23709, 41, Santa Isabel do Ivaí
+22909, 41, Salto do Itararé
+21109, 41, Quinta do Sol
+20309, 41, Porto Vitória
+19509, 41, Piraquara
+18709, 41, Paulo Frontin
+17909, 41, Palotina
+16109, 41, Moreira Sales
+16059, 41, Missal
+15309, 41, Mariópolis
+14609, 41, Marechal Cândido Rondon
+13809, 41, Lupionópolis
+13759, 41, Lunardelli
+13734, 41, Luiziana
+12959, 41, Juranda
+12009, 41, Jaguariaíva
+11209, 41, Itapejara d'Oeste
+10409, 41, Indianópolis
+9609, 41, Guaratuba
+8809, 41, Guaíra
+7009, 41, Curiúva
+6209, 41, Contenda
+5409, 41, Chopinzinho
+4709, 41, Carlópolis
+4659, 41, Carambeí
+3909, 41, Campina da Lagoa
+2109, 41, Astorga
+1309, 41, Antônio Olinto
+509, 41, Altônia
+459, 41, Altamira do Paraná
+56909, 35, Vista Alegre do Alto
+55109, 35, Tupi Paulista
+54409, 35, Terra Roxa
+53609, 35, Tapiratiba
+52809, 35, Taboão da Serra
+51009, 35, São Vicente
+50209, 35, São Miguel Arcanjo
+49409, 35, São Joaquim da Barra
+48609, 35, São Bento do Sapucaí
+47809, 35, Santo André
+46009, 35, Santa Branca
+45209, 35, Salto
+45159, 35, Saltinho
+44509, 35, Rubinéia
+43709, 35, Rincão
+42909, 35, Ribeirão Bonito
+41109, 35, Presidente Alves
+41059, 35, Pratânia
+40309, 35, Pontes Gestal
+40259, 35, Pontalinda
+39509, 35, Pitangueiras
+38709, 35, Piracicaba
+37909, 35, Pilar do Sul
+36109, 35, Pardinho
+35309, 35, Palmital
+34609, 35, Osvaldo Cruz
+33809, 35, Óleo
+32009, 35, Morungaba
+31209, 35, Monte Alegre do Sul
+30409, 35, Mirassolândia
+29609, 35, Meridiano
+28809, 35, Maracaí
+27009, 35, Lindóia
+26209, 35, Juquitiba
+25409, 35, Jeriquara
+24709, 35, Jaguariúna
+23909, 35, Itu
+22109, 35, Itanhaém
+21309, 35, Ipuã
+20509, 35, Indaiatuba
+19709, 35, Ibiúna
+18909, 35, Guzolândia
+18859, 35, Guatapará
+17109, 35, Glicério
+16309, 35, Francisco Morato
+15509, 35, Fernandópolis
+14809, 35, Eldorado
+13009, 35, Cotia
+12209, 35, Conchal
+11409, 35, Cerqueira César
+10609, 35, Carapicuíba
+9809, 35, Campos Novos Paulista
+8009, 35, Buri
+7209, 35, Borá
+7159, 35, Bom Sucesso de Itararé
+6409, 35, Bilac
+6359, 35, Bertioga
+5609, 35, Barrinha
+4909, 35, Bananal
+3109, 35, Arandu
+2309, 35, Anhembi
+1509, 35, Alvinlândia
+709, 35, Agudos
+5109, 33, São João de Meriti
+4409, 33, Rio Claro
+3609, 33, Paracambi
+2809, 33, Mendes
+1009, 33, Campos dos Goytacazes
+209, 33, Araruama
+159, 33, Aperibé
+5309, 32, Vitória
+4609, 32, Santa Teresa
+4559, 32, Santa Maria de Jetibá
+3809, 32, Muqui
+2009, 32, Dores do Rio Preto
+1209, 32, Cachoeiro de Itapemirim
+1159, 32, Brejetuba
+409, 32, Anchieta
+359, 32, Alto Rio Novo
+71709, 31, Virgínia
+70909, 31, Varzelândia
+69109, 31, Toledo
+69059, 31, Tocos do Moji
+68309, 31, Taquaraçu de Minas
+67509, 31, Simão Pereira
+66709, 31, Serra dos Aimorés
+65909, 31, Senador Modestino Gonçalves
+64209, 31, São Romão
+63409, 31, São José do Goiabal
+62609, 31, São João do Oriente
+62559, 31, São João do Manhuaçu
+61809, 31, São Gonçalo do Pará
+60959, 31, São Domingos das Dores
+60009, 31, Santo Antônio do Aventureiro
+59209, 31, Santa Rita de Caldas
+58409, 31, Santana de Cataguases
+57609, 31, Santa Fé de Minas
+56809, 31, Sabinópolis
+55009, 31, Rio Doce
+54309, 31, Resplendor
+53509, 31, Alto Jequitibá
+52709, 31, Prados
+51909, 31, Pocrane
+50109, 31, Piau
+49309, 31, Pedro Leopoldo
+48509, 31, Pavão
+47709, 31, Passa Tempo
+46909, 31, Papagaios
+45109, 31, Nova Resende
+45059, 31, Nova Porteirinha
+44409, 31, Natércia
+44359, 31, Naque
+43609, 31, Morro da Garça
+42809, 31, Monte Alegre de Minas
+41009, 31, Mato Verde
+40209, 31, Maripá de Minas
+40159, 31, Mário Campos
+39409, 31, Manhuaçu
+38609, 31, Lima Duarte
+37809, 31, Lambari
+36959, 31, Juvenília
+36009, 31, Joaíma
+35209, 31, Januária
+34509, 31, Itutinga
+33709, 31, Itatiaiuçu
+32909, 31, Itamogi
+31109, 31, Inimutaba
+30309, 31, Iguatama
+29509, 31, Ibiá
+28709, 31, Guaxupé
+27909, 31, Grupiara
+26109, 31, Formiga
+25309, 31, Faria Lemos
+24609, 31, Estrela Dalva
+23809, 31, Engenheiro Navarro
+22009, 31, Divino
+21209, 31, Delfinópolis
+20409, 31, Cristiano Otoni
+19609, 31, Coronel Pacheco
+18809, 31, Coração de Jesus
+17009, 31, Comercinho
+16209, 31, Chiador
+16159, 31, Chapada Gaúcha
+15409, 31, Catas Altas da Noruega
+15359, 31, Catas Altas
+14709, 31, Carvalhópolis
+13909, 31, Carmo da Cachoeira
+12109, 31, Caparaó
+12059, 31, Cantagalo
+11309, 31, Campo do Meio
+10509, 31, Camanducaia
+9709, 31, Cachoeira de Minas
+8909, 31, Brazópolis
+7109, 31, Boa Esperança
+6309, 31, Belo Oriente
+5509, 31, Barão de Monte Alto
+4809, 31, Augusto de Lima
+3009, 31, Antônio Dias
+2209, 31, Alvarenga
+1409, 31, Albertina
+609, 31, Água Boa
+33109, 29, Várzea do Poço
+33059, 29, Várzea da Roça
+32309, 29, Ubatã
+31509, 29, Teofilândia
+30709, 29, Simões Filho
+29909, 29, Seabra
+28109, 29, Santa Maria da Vitória
+28059, 29, Santa Luzia
+27309, 29, Salinas da Margarida
+26509, 29, Ribeira do Amparo
+25709, 29, Presidente Jânio Quadros
+24009, 29, Paulo Afonso
+23209, 29, Oliveira dos Brejinhos
+22409, 29, Mutuípe
+21609, 29, Morpará
+20809, 29, Marcionílio Souza
+19959, 29, Maetinga
+19009, 29, Lajedinho
+18209, 29, Jiquiriçá
+17409, 29, Jacaraci
+17359, 29, Jaborandi
+17334, 29, Iuiu
+16609, 29, Itapitanga
+15809, 29, Itambé
+14109, 29, Ipupiara
+13309, 29, Ichu
+12509, 29, Ibipitanga
+11709, 29, Guanambi
+11659, 29, Guajeru
+10909, 29, Firmino Alves
+10859, 29, Filadélfia
+9109, 29, Coribe
+8309, 29, Conceição do Almeida
+7509, 29, Catu
+6709, 29, Cândido Sales
+5909, 29, Campo Alegre de Lourdes
+4209, 29, Botuporã
+3409, 29, Belmonte
+2609, 29, Baixa Grande
+1809, 29, Antônio Gonçalves
+6909, 28, São Francisco
+5109, 28, Pedrinhas
+4409, 28, Neópolis
+3609, 28, Laranjeiras
+2809, 28, Indiaroba
+1009, 28, Campo do Brito
+209, 28, Aquidabã
+8709, 27, São Miguel dos Milagres
+7909, 27, Santa Luzia do Norte
+6109, 27, Ouro Branco
+5309, 27, Minador do Negrão
+4609, 27, Maravilha
+3809, 27, Joaquim Gomes
+3759, 27, Jequiá da Praia
+2009, 27, Coité do Nóia
+1209, 27, Cacimbinhas
+409, 27, Atalaia
+16209, 26, Vertentes
+15409, 26, Toritama
+14709, 26, Tacaimbó
+13909, 26, Serra Talhada
+12109, 26, Salgadinho
+11309, 26, Pombos
+10509, 26, Passira
+9709, 26, Orobó
+8909, 26, Limoeiro
+7109, 26, Ingazeira
+6309, 26, Granito
+5509, 26, Ferreiros
+5459, 26, Fernando de Noronha
+4809, 26, Cortês
+3009, 26, Cabrobó
+2209, 26, Bom Jardim
+1409, 26, Barreiros
+609, 26, Alagoinha
+17209, 25, Vieirópolis
+16409, 25, Tacima
+15609, 25, Serra da Raiz
+14909, 25, São Mamede
+13984, 25, São Francisco
+13109, 25, Salgado de São Félix
+12309, 25, Princesa Isabel
+11509, 25, Pilar
+10709, 25, Passagem
+10659, 25, Parari
+9909, 25, Natuba
+8109, 25, Lagoa
+7309, 25, Jacaraú
+6509, 25, Gurjão
+5709, 25, Dona Inês
+4009, 25, Campina Grande
+3209, 25, Cabedelo
+2409, 25, Bonito de Santa Fé
+1609, 25, Barra de Santa Rosa
+1534, 25, Baraúna
+809, 25, Araçagi
+734, 25, Amparo
+14209, 24, Tibau do Sul
+14159, 24, Tenente Laurentino Cruz
+13409, 24, Serra Negra do Norte
+13359, 24, Serra do Mel
+12609, 24, São Paulo do Potengi
+12559, 24, São Miguel do Gostoso
+11809, 24, São Fernando
+10009, 24, Pilões
+9209, 24, Passagem
+8409, 24, Olho d'Água do Borges
+7609, 24, Messias Targino
+6809, 24, Lajes Pintadas
+5009, 24, Jaçanã
+4309, 24, Governador Dix-Sept Rosado
+3509, 24, Espírito Santo
+2709, 24, Cerro Corá
+1909, 24, Caiçara do Rio do Vento
+1859, 24, Caiçara do Norte
+109, 24, Acari
+13609, 23, Ubajara
+13559, 23, Tururu
+12809, 23, Senador Sá
+11959, 23, Salitre
+11009, 23, Poranga
+10209, 23, Paracuru
+9409, 23, Novo Oriente
+8609, 23, Monsenhor Tabosa
+7809, 23, Marco
+6009, 23, Iracema
+5209, 23, Hidrolândia
+4509, 23, Frecheirinha
+4459, 23, Fortim
+3709, 23, Caucaia
+3659, 23, Catunda
+2909, 23, Capistrano
+1109, 23, Aracati
+309, 23, Acopiara
+11209, 22, Uruçuí
+10409, 22, São Miguel do Tapuio
+10359, 22, São Lourenço do Piauí
+9609, 22, São Félix do Piauí
+9559, 22, São Braz do Piauí
+8809, 22, Regeneração
+7959, 22, Nova Santa Rita
+7934, 22, Pedro Laurentino
+7009, 22, Oeiras
+6209, 22, Miguel Alves
+5409, 22, Joaquim Pires
+5359, 22, João Costa
+4709, 22, Inhuma
+4659, 22, Ilha Grande
+3909, 22, Floriano
+3859, 22, Floresta do Piauí
+2109, 22, Campinas do Piauí
+2059, 22, Cabeceiras do Piauí
+1309, 22, Barreiras do Piauí
+509, 22, Amarante
+459, 22, Alvorada do Gurguéia
+13009, 21, Vitorino Freire
+12209, 21, Timon
+11409, 21, São Luís Gonzaga do Maranhão
+10609, 21, São Bernardo
+9809, 21, Santa Helena
+9759, 21, Santa Filomena do Maranhão
+8009, 21, Pastos Bons
+7209, 21, Nina Rodrigues
+6409, 21, Mata Roma
+6359, 21, Marajá do Sena
+5609, 21, Joselândia
+4909, 21, Guimarães
+3109, 21, Cedral
+2309, 21, Buriti Bravo
+1509, 21, Barão de Grajaú
+709, 21, Anajatuba
+21109, 17, Tocantínia
+20309, 17, São Sebastião do Tocantins
+20259, 17, São Salvador do Tocantins
+18709, 17, Rio dos Bois
+18659, 17, Rio da Conceição
+17909, 17, Ponte Alta do Tocantins
+16109, 17, Paraíso do Tocantins
+15259, 17, Novo Jardim
+13809, 17, Palmeiras do Tocantins
+12009, 17, Lajeado
+7009, 17, Dianópolis
+3909, 17, Caseara
+2109, 17, Araguaína
+1309, 17, Aragominas
+709, 16, Tartarugalzinho
+8209, 15, Vigia
+8159, 15, Uruará
+8084, 15, Tucumã
+7409, 15, São Francisco do Pará
+6609, 15, Santa Maria do Pará
+6559, 15, Santa Luzia do Pará
+5809, 15, Portel
+4109, 15, Magalhães Barata
+4059, 15, Mãe do Rio
+3309, 15, Igarapé-Miri
+2509, 15, Chaves
+1709, 15, Bragança
+909, 15, Augusto Corrêa
+859, 15, Anapu
+209, 14, Caracaraí
+159, 14, Bonfim
+3809, 13, São Gabriel da Cachoeira
+2009, 13, Itapiranga
+1209, 13, Coari
+1159, 13, Careiro da Várzea
+409, 13, Barcelos
+609, 12, Tarauacá
+1609, 11, Theobroma
+1559, 11, Teixeirópolis
+1484, 11, São Felipe D'Oeste
+809, 11, Candeias do Jamari
+
+---- 519 colisoes nesta posicao ----
+
+posicao: 19, cidade: NULL
+
+posicao: 20, cidades:
+7535, 52, Faina
+7935, 50, Sonora
+14035, 43, Pareci Novo
+13060, 43, Nova Hartz
+12385, 43, Monte Belo do Sul
+5835, 43, Coqueiro Baixo
+10035, 42, Luzerna
+4110, 33, Porto Real
+5010, 32, Sooretama
+65560, 31, Sem-Peixe
+23035, 29, Novo Horizonte
+3235, 29, Barro Alto
+7635, 23, Madalena
+4285, 23, Eusébio
+1960, 22, Brasileira
+535, 16, Porto Grande
+8035, 15, Tracuateua
+5635, 15, Piçarra
+4260, 13, Uarini
+60, 13, Amaturá
+435, 12, Santa Rosa do Purus
+385, 12, Plácido de Castro
+1435, 11, Nova União
+
+---- 23 colisoes nesta posicao ----
+
+posicao: 21, cidade: NULL
+
+posicao: 22, cidades:
+20686, 52, Simolândia
+14861, 52, Nova Glória
+3361, 51, Conquista D'Oeste
+2686, 51, Campos de Júlio
+22186, 43, Tupanci do Sul
+21436, 43, Terra de Areia
+19711, 43, São Valentim do Sul
+16436, 43, Saldanha Marinho
+13086, 43, Nova Pádua
+13011, 43, Nova Candelária
+1636, 43, Balneário Pinhal
+661, 43, André da Rocha
+7736, 41, Fernandes Pinheiro
+15186, 35, Espírito Santo do Pinhal
+936, 33, Carapebus
+5036, 32, Vargem Alta
+136, 32, Águia Branca
+57336, 31, Santa Cruz de Minas
+37536, 31, Lagoa Grande
+17836, 31, Cônego Marinho
+12036, 25, Poço Dantas
+536, 25, Alcantil
+4236, 23, Croatá
+2711, 22, Cocal de Telha
+2036, 21, Bom Jesus das Selvas
+436, 21, Alto Alegre do Maranhão
+7961, 15, Terra Alta
+6161, 15, Rio Maria
+5536, 15, Parauapebas
+5486, 15, Pacajá
+3536, 13, Presidente Figueiredo
+86, 13, Anamã
+336, 12, Mâncio Lima
+
+---- 33 colisoes nesta posicao ----
+
+posicao: 23, cidade: NULL
+
+posicao: 24, cidades:
+19712, 52, Santo Antônio da Barra
+13087, 52, Minaçu
+10562, 52, Itaguari
+9937, 52, Inaciolândia
+3962, 52, Buritinópolis
+3437, 51, Curvelândia
+2637, 51, Campo Novo do Parecis
+19737, 43, São Valério do Sul
+14787, 43, Ponte Preta
+13037, 43, Nova Esperança do Sul
+10462, 43, Ipiranga do Sul
+5587, 43, Colinas
+15687, 42, Santa Terezinha do Progresso
+2537, 42, Bom Jesus
+65537, 31, Sarzedo
+12762, 25, Riachão do Poço
+2737, 22, Coivaras
+10237, 21, Santana do Maranhão
+20937, 17, Taipas do Tocantins
+212, 16, Cutias
+6187, 15, Rondon do Pará
+6112, 15, Quatipuru
+5437, 15, Ourilândia do Norte
+4237, 13, Tonantins
+4062, 13, Tabatinga
+262, 11, Rio Crespo
+
+---- 26 colisoes nesta posicao ----
+
+posicao: 25, cidade: NULL
+
+posicao: 26, cidades:
+19738, 52, Santo Antônio de Goiás
+14838, 52, Nova Crixás
+5513, 52, Cocalzinho de Goiás
+7263, 51, Santo Afonso
+3488, 50, Dois Irmãos do Buriti
+20263, 43, Segredo
+15313, 43, Quatro Irmãos
+12138, 43, Mato Castelhano
+10538, 43, Itaara
+10413, 43, Inhacorá
+10363, 43, Imigrante
+4713, 43, Caraá
+4663, 43, Capão do Leão
+2238, 43, Boa Vista do Incra
+638, 43, Amaral Ferrador
+2438, 42, Bocaina do Sul
+7538, 41, Entre Rios do Oeste
+43238, 35, Ribeirão dos Índios
+3163, 32, Laranja da Terra
+70438, 31, União de Minas
+27388, 31, Goianá
+12788, 25, Riacho de Santo Antônio
+5238, 25, Cuité de Mamanguape
+10938, 22, Sussuapara
+1988, 22, Brejo do Piauí
+11763, 21, Senador La Rocque
+5963, 21, Lagoa Grande do Maranhão
+238, 16, Ferreira Gomes
+6138, 15, Redenção
+138, 12, Bujari
+13, 12, Acrelândia
+338, 11, Nova Mamoré
+288, 11, Rolim de Moura
+
+---- 33 colisoes nesta posicao ----
+
+posicao: 27, cidade: NULL
+
+posicao: 28, cidades:
+20264, 52, São Miguel do Passa Quatro
+18789, 52, Rio Quente
+3939, 52, Buriti de Goiás
+19364, 43, São Pedro das Missões
+18614, 43, São José do Sul
+14464, 43, Pinhal da Serra
+11239, 43, Lagoa Bonita do Sul
+10439, 43, Ipê
+7864, 43, Fagundes Varela
+5439, 43, Chuí
+4689, 43, Capela de Santana
+4614, 43, Canudos do Vale
+12239, 42, Paraíso
+17214, 41, Nova Santa Bárbara
+15739, 41, Mato Rico
+50539, 31, Pingo-d'Água
+27339, 31, Gameleiras
+20839, 31, Cuparaque
+9339, 25, Matinhas
+11264, 23, Quiterianópolis
+2539, 22, Caraúbas do Piauí
+1739, 22, Betânia do Piauí
+11789, 21, Serrano do Maranhão
+10039, 21, Santa Luzia do Paruá
+9239, 21, Presidente Médici
+5989, 21, Lajeado Novo
+1939, 21, Bernardo do Mearim
+5064, 15, Novo Repartimento
+2939, 15, Dom Eliseu
+2764, 15, Cumaru do Norte
+839, 13, Caapiranga
+189, 11, Pimenta Bueno
+114, 11, Jaru
+64, 11, Colorado do Oeste
+
+---- 34 colisoes nesta posicao ----
+
+posicao: 29, cidade: NULL
+
+posicao: 30, cidades:
+7065, 51, Querência
+7040, 51, Primavera do Leste
+6315, 51, Novo Santo Antônio
+6265, 51, Novo Mundo
+6240, 51, Nova Ubiratã
+6190, 51, Nova Santa Helena
+18465, 43, São José do Herval
+18440, 43, São Jorge
+13490, 43, Novo Barreiro
+7815, 43, Estrela Velha
+27965, 41, Turvo
+3040, 41, Boa Ventura de São Roque
+5565, 22, Lagoa do Barro do Piauí
+5540, 22, Lagoinha do Piauí
+18865, 17, Santa Fé do Araguaia
+18840, 17, Sandolândia
+940, 11, Cujubim
+15, 11, Alta Floresta D'Oeste
+
+---- 18 colisoes nesta posicao ----
+
+posicao: 31, cidade: NULL
+
+posicao: 32, cidades:
+18391, 52, Professor Jamil
+9291, 52, Guaraíta
+7941, 51, Tabaporã
+6216, 51, Nova Canaã do Norte
+22541, 43, Vale Real
+13466, 43, Novo Xingu
+13441, 43, Novo Tiradentes
+13391, 43, Novo Cabrais
+11791, 43, Maratá
+5116, 43, Centenário
+5191, 42, Ermo
+30766, 29, Sítio do Quinto
+5266, 23, Ibaretama
+10391, 22, São Miguel do Fidalgo
+5516, 22, Juazeiro do Piauí
+2091, 22, Caldeirão Grande do Piauí
+3891, 17, Carrasco Bonito
+7466, 15, São João da Ponta
+
+---- 18 colisoes nesta posicao ----
+
+posicao: 33, cidade: NULL
+
+posicao: 34, cidades:
+7792, 51, Santo Antônio do Leste
+4542, 51, Itanhangá
+21667, 43, Três Cachoeiras
+12617, 43, Muitos Capões
+6767, 43, Eldorado do Sul
+11892, 42, Painel
+20442, 35, Ilha Solteira
+2117, 22, Campo Alegre do Fidalgo
+3867, 17, Cariri do Tocantins
+3842, 17, Campos Lindos
+1492, 11, São Francisco do Guaporé
+
+---- 11 colisoes nesta posicao ----
+
+posicao: 35, cidade: NULL
+
+posicao: 36, cidades:
+7768, 51, Santa Rita do Trivelato
+7743, 51, Santa Cruz do Xingu
+2793, 51, Carlinda
+1243, 50, Aral Moreira
+22343, 43, Ubiretama
+21493, 43, Toropi
+14068, 43, Passa Sete
+12443, 43, Morrinhos do Sul
+11718, 43, Maçambará
+11643, 43, Linha Nova
+32868, 35, Nova Castilho
+32843, 35, Nova Canaã Paulista
+13968, 25, São Domingos
+13943, 25, São Domingos do Cariri
+7793, 22, Pau D'Arco do Piauí
+3093, 15, Goianésia do Pará
+393, 12, Porto Walter
+1468, 11, Pimenteiras do Oeste
+
+---- 18 colisoes nesta posicao ----
+
+posicao: 37, cidade: NULL
+
+posicao: 38, cidades:
+2694, 51, Canabrava do Norte
+21469, 43, Tio Hugo
+4194, 42, Chapadão do Lageado
+15194, 35, Espírito Santo do Turvo
+4144, 33, Queimados
+5069, 32, Venda Nova do Imigrante
+169, 32, Água Doce do Norte
+4269, 23, Deputado Irapuan Pinheiro
+1919, 22, Bom Princípio do Piauí
+5494, 15, Palestina do Pará
+3044, 15, Floresta do Araguaia
+3569, 13, Rio Preto da Eva
+144, 13, Apuí
+344, 12, Manoel Urbano
+
+---- 14 colisoes nesta posicao ----
+
+posicao: 39, cidade: NULL
+
+posicao: 40, cidades:
+7695, 50, São Gabriel do Oeste
+23770, 43, Westfália
+11270, 43, Lagoa dos Três Cantos
+6320, 43, Derrubadas
+2220, 43, Boa Vista do Cadeado
+570, 43, Alto Feliz
+15695, 42, Santiago do Sul
+12270, 42, Passos Maia
+24020, 41, Santa Tereza do Oeste
+8320, 41, Francisco Alves
+7520, 41, Esperança Nova
+3370, 41, Brasilândia do Sul
+36570, 35, Paulistânia
+2270, 33, Japeri
+3320, 32, Marataízes
+52170, 31, Ponto dos Volantes
+50570, 31, Pintópolis
+36520, 31, José Gonçalves de Minas
+27370, 31, Goiabeira
+22470, 31, Dom Bosco
+20870, 31, Curral de Dentro
+29370, 29, São José do Jacuípe
+670, 28, Boquim
+9370, 25, Mato Grosso
+6720, 22, Nazária
+6670, 22, Morro do Chapéu do Piauí
+3420, 22, Domingos Mourão
+1945, 22, Boqueirão do Piauí
+1770, 22, Boa Hora
+9270, 21, Presidente Sarney
+1970, 21, Boa Vista do Gurupi
+6195, 15, Rurópolis
+320, 11, São Miguel do Guaporé
+
+---- 33 colisoes nesta posicao ----
+
+posicao: 41, cidade: NULL
+
+posicao: 42, cidades:
+5521, 52, Colinas do Sul
+5471, 52, Chapadão do Céu
+20321, 43, Senador Salgado Filho
+15321, 43, Quevedos
+9571, 43, Herveiras
+5871, 43, Coronel Barros
+5371, 43, Charrua
+4671, 43, Capivari do Sul
+646, 43, Ametista do Sul
+471, 43, Almirante Tamandaré do Sul
+17271, 41, Nova Tebas
+7546, 41, Espigão Alto do Iguaçu
+6571, 41, Cruzeiro do Iguaçu
+19071, 35, Hortolândia
+3346, 32, Marechal Floriano
+71071, 31, Veredinha
+12471, 26, Santa Cruz da Baixa Verde
+15971, 25, Sobrado
+12721, 25, Pedro Régis
+9396, 25, Maturéia
+9971, 22, São João do Arraial
+6696, 22, Murici dos Portelas
+3271, 22, Curral Novo do Piauí
+346, 11, Alvorada D'Oeste
+296, 11, Santa Luzia D'Oeste
+
+---- 25 colisoes nesta posicao ----
+
+posicao: 43, cidade: NULL
+
+posicao: 44, cidades:
+21197, 52, Terezópolis de Goiás
+13772, 52, Montividiu do Norte
+5497, 52, Cidade Ocidental
+7297, 51, São José do Povo
+6422, 51, Peixoto de Azevedo
+6372, 51, Pedra Preta
+5622, 51, Mirassol d'Oeste
+19372, 43, São Pedro do Butiá
+18622, 43, São José dos Ausentes
+16972, 43, Santa Margarida do Sul
+15172, 43, Protásio Alves
+14472, 43, Pinhal Grande
+11122, 43, Jaquirana
+6072, 43, Cristal do Sul
+5447, 43, Chuvisca
+4697, 43, Capitão
+4622, 43, Capão Bonito do Sul
+26272, 41, Saudade do Iguaçu
+22172, 41, Rio Branco do Ivaí
+17297, 41, Novo Itacolomi
+17222, 41, Nova Santa Rosa
+3222, 41, Bom Sucesso do Sul
+64472, 31, São Sebastião do Anta
+62922, 31, São Joaquim de Bicas
+45372, 31, Novorizonte
+44672, 31, Nova Belém
+6422, 27, Pariconha
+12747, 25, Riachão
+9872, 22, São João da Fronteira
+1572, 22, Belém do Piauí
+11722, 21, Satubinha
+11672, 21, São Roberto
+6672, 21, Milagres do Maranhão
+5922, 21, Lagoa do Mato
+1772, 21, Bela Vista do Maranhão
+4422, 15, Marituba
+2772, 15, Curionópolis
+347, 15, Água Azul do Norte
+472, 14, Rorainópolis
+122, 11, Ji-Paraná
+72, 11, Corumbiara
+
+---- 41 colisoes nesta posicao ----
+
+posicao: 45, cidade: NULL
+
+posicao: 46, cidades:
+7248, 51, Santa Carmem
+7198, 51, Ribeirãozinho
+6273, 51, Novo Horizonte do Norte
+15073, 43, Porto Vera Cruz
+14548, 43, Pinto Bandeira
+14498, 43, Pinheirinho do Vale
+14423, 43, Picada Café
+6973, 43, Erebango
+5173, 43, Cerro Grande do Sul
+3673, 43, Campestre da Serra
+1073, 43, Arroio do Padre
+2073, 42, Balneário Gaivota
+1273, 42, Arabutã
+62948, 31, São José da Barra
+27073, 31, Fruta de Leite
+6873, 29, Capim Grosso
+6448, 27, Paripueira
+10623, 22, Sebastião Barros
+5573, 22, Lagoa de São Francisco
+11748, 21, Senador Alexandre Costa
+11573, 21, São Pedro dos Crentes
+5948, 21, Lago dos Rodrigues
+4073, 21, Feira Nova do Maranhão
+873, 21, Araguanã
+3073, 17, Barra do Ouro
+148, 11, Nova Brasilândia D'Oeste
+98, 11, Espigão D'Oeste
+23, 11, Ariquemes
+
+---- 28 colisoes nesta posicao ----
+
+posicao: 47, cidade: NULL
+
+posicao: 48, cidades:
+6299, 51, Paranaíta
+6224, 51, Nova Mutum
+6174, 51, Nova Nazaré
+18499, 43, São José do Inhacorá
+18424, 43, São João da Urtiga
+15149, 43, Presidente Lucena
+12674, 43, Nicolau Vergueiro
+6924, 43, Engenho Velho
+5124, 43, Cerrito
+2099, 42, Barra Bonita
+23824, 41, Santa Lúcia
+7124, 41, Diamante do Sul
+3024, 41, Boa Esperança do Iguaçu
+14924, 35, Elisiário
+4524, 33, Rio das Ostras
+38674, 31, Luisburgo
+15474, 31, Catuti
+33174, 29, Varzedo
+30774, 29, Sobradinho
+6899, 29, Caraíbas
+6824, 29, Canudos
+4074, 25, Caraúbas
+8874, 22, Ribeira do Piauí
+5599, 22, Lagoa do Sítio
+5524, 22, Júlio Borges
+2174, 22, Campo Largo do Piauí
+12274, 21, Tufilândia
+4099, 21, Formosa da Serra Negra
+3174, 21, Centro Novo do Maranhão
+2374, 21, Cachoeira Grande
+20499, 17, São Valério
+18899, 17, Santa Rita do Tocantins
+7474, 15, São João de Pirabas
+924, 11, Chupinguaia
+49, 11, Cacoal
+
+---- 35 colisoes nesta posicao ----
+
+posicao: 49, cidade: NULL
+
+
+---- 25 posicoes preenchidas
+----- 25 posicoes vazias

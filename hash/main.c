@@ -6,8 +6,11 @@
 
 #define MAX_NAME 33
 #define MAX_ID 10
-#define TABLE_SIZE 5570
+#define TABLE_SIZE 5574
+#define HASH_SIZE 50
 #define MAX_STR_LEN 255
+
+FILE* file;
 
 typedef struct {
     char cityName[MAX_NAME];
@@ -23,7 +26,7 @@ typedef struct {
     int ufId;
 } citySearch;
 
-City * hashTable[TABLE_SIZE];
+City * hashTable[HASH_SIZE];
 
 citySearch allCitiesIDs[TABLE_SIZE];
 
@@ -34,14 +37,15 @@ City *cityArray[TABLE_SIZE] = { NULL };
 int binaryTotalCounter = 0;
 int buscas = 1;
 int loopCounter = 0;
+int hashCounter = 0;
 
 int createHash(int cityId) {
-    return ((cityId + cityId) % TABLE_SIZE);
+    return ((cityId + cityId) % HASH_SIZE);
 }
 
 void initHashTable() {
     int i;
-    for (i = 0; i < TABLE_SIZE; i++) {
+    for (i = 0; i < HASH_SIZE; i++) {
         hashTable[i] = NULL;
     }
 }
@@ -57,14 +61,14 @@ int hashTableInsert(City *city) {
 
 City* hashTableSearch(int *cityId, int *ufId) {
     int index = createHash(cityId);
-    int i, counter = 0;
+    int i;
+    hashCounter = 0;
     City *buffer = hashTable[index];
     do {
-        counter++;
+        hashCounter++;
         if (buffer->ufId != ufId) {
             buffer = buffer->next;
         } else {
-            printf("%d lacos para encontrar - ", counter);
             return buffer;
         }
     } while (buffer != NULL);
@@ -97,22 +101,38 @@ City* hashTableDelete(int *cityId, int *ufId) {
 }
 
 void printTable() {
-    int i;
+    int i, emptyCounter = 0, filledCounter = 0, colisionCounter;
     printf(" --- \n");
-    for (i = 0; i < TABLE_SIZE; i++) {
-        if (hashTable[i] == NULL) {
-            printf("\nposicao: %d, cidade: NULL\n", i);
-        } else {
-            printf("\nposicao: %d, cidades:\n", i);
-            City *buffer = hashTable[i];
-            while (buffer != NULL) {
-                printf("%d, %d, %s\n", buffer->cityId, buffer->ufId, buffer->cityName);
-                buffer = buffer->next;
+    if ((file = fopen("printTable.txt", "w")) == NULL) {
+        printf("Erro ao abrir arquivo");
+    } else {
+
+        for (i = 0; i < HASH_SIZE; i++) {
+            colisionCounter = 0;
+            if (hashTable[i] == NULL) {
+                printf("\nposicao: %d, cidade: NULL\n", i);
+                fprintf(file, "\nposicao: %d, cidade: NULL\n", i);
+                emptyCounter++;
+            } else {
+                printf("\nposicao: %d, cidades:\n", i);
+                fprintf(file, "\nposicao: %d, cidades:\n", i);
+                filledCounter++;
+                City *buffer = hashTable[i];
+                while (buffer != NULL) {
+                    printf("%d, %d, %s\n", buffer->cityId, buffer->ufId, buffer->cityName);
+                    fprintf(file, "%d, %d, %s\n", buffer->cityId, buffer->ufId, buffer->cityName);
+                    buffer = buffer->next;
+                    colisionCounter++;
+                }
+                fprintf(file, "\n---- %d colisoes nesta posicao ----\n", colisionCounter);
+                printf("\n-----\n");
             }
-            printf("\n-----\n");
         }
+        fprintf(file, "\n\n---- %d posicoes preenchidas\n----- %d posicoes vazias", filledCounter, emptyCounter);
     }
     printf(" --- \n");
+
+    fclose(file);
 }
 
 // Agradecimento ao Andre por esta parte feita por ele
@@ -240,11 +260,9 @@ int compareCityIdSort (const void * a, const void * b) {
 
 // funcao necessaria para o bsearch, adequada para o caso atual
 int compareCityIdSearch (const void * a, const void * b) {
-
-	City* city1 = (*(City**)a);
     City* city2 = (*(City**)b);
 
-    return ((city1->cityId) - (city2->cityId));
+    return ((a) - (city2->cityId));
   
 }
 
@@ -295,8 +313,6 @@ void main() {
 
     int i;
 
-    FILE* file;
-
     City *buffer;
 
     initHashTable();
@@ -305,40 +321,42 @@ void main() {
 
     ReadCities();
 
+    City emptyCity = {.cityId = 0, .cityName = "", .uf = "", .ufId = 0, .population = 0};
+
+    cityArray[5570] = &emptyCity;
+    cityArray[5571] = &emptyCity;
+    cityArray[5572] = &emptyCity;
+    cityArray[5573] = &emptyCity;
+
+    printTable();
+
     // Preenchimento de array com dados a serem pesquisados (struct de cityId + ufId)
 
     fillSearchArray();
 
     // Ordenacao do array de structs
 
-    qsort(cityArray, TABLE_SIZE, sizeof(cityArray[0]), compareCityIdSearch);
+    qsort(cityArray, TABLE_SIZE, sizeof(cityArray[0]), compareCityIdSort);
 
     // Questao 4 - Teste de buscas Hash e BSearch
 
-    // Gera 10 valores aleatorios dentro do tamanho da tabela para serem pesquisados, comparando com 10 valores dentro da
-    // tabela de ids de municipios, assim pesquisando 10 valores validos
-
-    srand(time(NULL));
-
-    int searchValues[10];
-
-    for (i = 0; i < 10; i++) {
-        searchValues[i] = rand() % TABLE_SIZE;
-    }
-    
     // Busca Hash
 
     if ((file = fopen("questao4HashSearch.txt", "w")) == NULL) {
         printf("Erro ao abrir arquivo");
     } else {
 
-        for (i = 0; i < 10; i++) {
+        for (i = 0; i < TABLE_SIZE; i++) {
             
-            City *cityFound = hashTableSearch(allCitiesIDs[searchValues[i]].cityId, allCitiesIDs[searchValues[i]].ufId);
+            City *cityFound = hashTableSearch(allCitiesIDs[i].cityId, allCitiesIDs[i].ufId);
 
-            printf("Nome da Cidade: %s, ID da Cidade: %d, ID do UF: %d, UF: %s, Populacao: %d\n", cityFound->cityName, cityFound->cityId, cityFound->ufId, cityFound->uf, cityFound->population);
-
-            fprintf(file, "Nome da Cidade: %s, ID da Cidade: %d, ID do UF: %d, UF: %s, Populacao: %d\n", cityFound->cityName, cityFound->cityId, cityFound->ufId, cityFound->uf, cityFound->population);
+            if (cityFound == NULL) {
+                printf("Cidade inexistente: id: %d, uf: %d\n", allCitiesIDs[i].cityId, allCitiesIDs[i].ufId);
+                fprintf(file, "Cidade inexistente: id: %d, uf: %d\n", allCitiesIDs[i].cityId, allCitiesIDs[i].ufId);
+            } else {
+                printf("Cidade encontrada: %s - id: %d - uf: %s, %d - populacao: %d\n", cityFound->cityName, cityFound->cityId, cityFound->uf, cityFound->ufId, cityFound->population);
+                fprintf(file, "Cidade encontrada: %s - id: %d - uf: %s, %d - populacao: %d\n", cityFound->cityName, cityFound->cityId, cityFound->uf, cityFound->ufId, cityFound->population);
+            }
 
         }
 
@@ -347,26 +365,30 @@ void main() {
     fclose(file);
 
     // Busca Binaria
-    
-    // Nao deu
 
-    // if ((file = fopen("questao4BinarySearch.txt", "w")) == NULL) {
-    //     printf("Erro ao abrir arquivo");
-    // } else {
+    if ((file = fopen("questao4BinarySearch.txt", "w")) == NULL) {
+        printf("Erro ao abrir arquivo");
+    } else {
+       
+        for (i = 0; i < TABLE_SIZE; i++) {
 
-    //     for (i = 0; i < 10; i++) {
+            int key = allCitiesIDs[i].cityId;
             
-    //         City *cityFound = bsearch(allCitiesIDs[searchValues[i]].cityId, cityArray, TABLE_SIZE, sizeof(cityArray[0]), compareCityIdSearch);
+            City **cityFound = bsearch(allCitiesIDs[i].cityId, cityArray, TABLE_SIZE, sizeof(cityArray[0]), compareCityIdSearch);
 
-    //         printf("Nome da Cidade: %s, ID da Cidade: %d, ID do UF: %d, UF: %s, Populacao: %d\n", cityFound->cityName, cityFound->cityId, cityFound->ufId, cityFound->uf, cityFound->population);
+            if (cityFound == NULL) {
+                printf("Cidade inexistente: id: %d, uf: %d\n", allCitiesIDs[i].cityId, allCitiesIDs[i].ufId);
+                fprintf(file, "Cidade inexistente: id: %d, uf: %d\n", allCitiesIDs[i].cityId, allCitiesIDs[i].ufId);
+            } else {
+                printf("Cidade encontrada: %s - id: %d - uf: %s, %d - populacao: %d\n", cityArray[i]->cityName, cityArray[i]->cityId, cityArray[i]->uf, cityArray[i]->ufId, cityArray[i]->population);
+                fprintf(file, "Cidade encontrada: %s - id: %d - uf: %s, %d - populacao: %d\n", cityArray[i]->cityName, cityArray[i]->cityId, cityArray[i]->uf, cityArray[i]->ufId, cityArray[i]->population);
+            }
 
-    //         fprintf(file, "Nome da Cidade: %s, ID da Cidade: %d, ID do UF: %d, UF: %s, Populacao: %d\n", cityFound->cityName, cityFound->cityId, cityFound->ufId, cityFound->uf, cityFound->population);
+        }
 
-    //     }
+    }
 
-    // }
-
-    // fclose(file);
+    fclose(file);
 
     // Questao 5 - Busca Binaria com contador
 
@@ -403,11 +425,11 @@ void main() {
             buffer = hashTableSearch(allCitiesIDs[i].cityId, allCitiesIDs[i].ufId);
 
             if (buffer == NULL) {
-                printf(" Cidade inexistente: id: %d, uf: %d\n", allCitiesIDs[i].cityId, allCitiesIDs[i].ufId);
-                fprintf(file, " Cidade inexistente: id: %d, uf: %d\n", allCitiesIDs[i].cityId, allCitiesIDs[i].ufId);
+                printf("Cidade inexistente: id: %d, uf: %d\n", allCitiesIDs[i].cityId, allCitiesIDs[i].ufId);
+                fprintf(file, "Cidade inexistente: id: %d, uf: %d\n", allCitiesIDs[i].cityId, allCitiesIDs[i].ufId);
             } else {
-                printf(" Cidade encontrada: %s - id: %d - uf: %s, %d - populacao: %d\n", buffer->cityName, buffer->cityId, buffer->uf, buffer->ufId, buffer->population);
-                fprintf(file, "Cidade encontrada: %s - id: %d - uf: %s, %d - populacao: %d\n", buffer->cityName, buffer->cityId, buffer->uf, buffer->ufId, buffer->population);
+                printf("%d lacos para encontrar - Cidade encontrada: %s - id: %d - uf: %s, %d - populacao: %d\n", hashCounter, buffer->cityName, buffer->cityId, buffer->uf, buffer->ufId, buffer->population);
+                fprintf(file, "%d lacos para encontrar - Cidade encontrada: %s - id: %d - uf: %s, %d - populacao: %d\n", hashCounter, buffer->cityName, buffer->cityId, buffer->uf, buffer->ufId, buffer->population);
             }
 
         }
@@ -442,46 +464,40 @@ void main() {
     buffer = hashTableSearch(6001, 43);
 
     if (buffer == NULL) {
-        printf(" Cidade inexistente\n");
+        printf("Cidade inexistente\n");
     } else {
-        printf(" Cidade encontrada: %s - id: %d - uf: %s, %d - populacao: %d\n", buffer->cityName, buffer->cityId, buffer->uf, buffer->ufId, buffer->population);
+        printf("%d lacos para encontrar - Cidade encontrada: %s - id: %d - uf: %s, %d - populacao: %d\n", hashCounter, buffer->cityName, buffer->cityId, buffer->uf, buffer->ufId, buffer->population);
     }
     buffer = hashTableSearch(6001, 42);
 
     if (buffer == NULL) {
-        printf(" Cidade inexistente\n");
+        printf("Cidade inexistente\n");
     } else {
-        printf(" Cidade encontrada: %s - id: %d - uf: %s, %d - populacao: %d\n", buffer->cityName, buffer->cityId, buffer->uf, buffer->ufId, buffer->population);
+        printf("%d lacos para encontrar - Cidade encontrada: %s - id: %d - uf: %s, %d - populacao: %d\n", hashCounter, buffer->cityName, buffer->cityId, buffer->uf, buffer->ufId, buffer->population);
     }
     buffer = hashTableSearch(6001, 41);
 
     if (buffer == NULL) {
-        printf(" Cidade inexistente\n");
+        printf("Cidade inexistente\n");
     } else {
-        printf(" Cidade encontrada: %s - id: %d - uf: %s, %d - populacao: %d\n", buffer->cityName, buffer->cityId, buffer->uf, buffer->ufId, buffer->population);
+        printf("%d lacos para encontrar - Cidade encontrada: %s - id: %d - uf: %s, %d - populacao: %d\n", hashCounter, buffer->cityName, buffer->cityId, buffer->uf, buffer->ufId, buffer->population);
     }
     buffer = hashTableSearch(6001, 51);
 
     if (buffer == NULL) {
-        printf(" Cidade inexistente\n");
+        printf("Cidade inexistente\n");
     } else {
-        printf(" Cidade encontrada: %s - id: %d - uf: %s, %d - populacao: %d\n", buffer->cityName, buffer->cityId, buffer->uf, buffer->ufId, buffer->population);
+        printf("%d lacos para encontrar - Cidade encontrada: %s - id: %d - uf: %s, %d - populacao: %d\n", hashCounter, buffer->cityName, buffer->cityId, buffer->uf, buffer->ufId, buffer->population);
     }
 
-    City *cityArray2[5574] = { NULL };
+    cityArray[5570] = &newCity1;
+    cityArray[5571] = &newCity2;
+    cityArray[5572] = &newCity3;
+    cityArray[5573] = &newCity4;
 
-    for (i = 0; i < 5574; i++) {
-        cityArray2[i] = cityArray[i];
-    }
-
-    cityArray2[5570] = &newCity1;
-    cityArray2[5571] = &newCity2;
-    cityArray2[5572] = &newCity3;
-    cityArray2[5573] = &newCity4;
-
-    printf("%s - id: %d - uf: %s, %d - populacao: %d\n", cityArray2[5570]->cityName, cityArray2[5570]->cityId, cityArray2[5570]->uf, cityArray2[5570]->ufId, cityArray2[5570]->population);
-    printf("%s - id: %d - uf: %s, %d - populacao: %d\n", cityArray2[5571]->cityName, cityArray2[5571]->cityId, cityArray2[5571]->uf, cityArray2[5571]->ufId, cityArray2[5571]->population);
-    printf("%s - id: %d - uf: %s, %d - populacao: %d\n", cityArray2[5572]->cityName, cityArray2[5572]->cityId, cityArray2[5572]->uf, cityArray2[5572]->ufId, cityArray2[5572]->population);
-    printf("%s - id: %d - uf: %s, %d - populacao: %d\n", cityArray2[5573]->cityName, cityArray2[5573]->cityId, cityArray2[5573]->uf, cityArray2[5573]->ufId, cityArray2[5573]->population);
+    printf("%s - id: %d - uf: %s, %d - populacao: %d\n", cityArray[5570]->cityName, cityArray[5570]->cityId, cityArray[5570]->uf, cityArray[5570]->ufId, cityArray[5570]->population);
+    printf("%s - id: %d - uf: %s, %d - populacao: %d\n", cityArray[5571]->cityName, cityArray[5571]->cityId, cityArray[5571]->uf, cityArray[5571]->ufId, cityArray[5571]->population);
+    printf("%s - id: %d - uf: %s, %d - populacao: %d\n", cityArray[5572]->cityName, cityArray[5572]->cityId, cityArray[5572]->uf, cityArray[5572]->ufId, cityArray[5572]->population);
+    printf("%s - id: %d - uf: %s, %d - populacao: %d\n", cityArray[5573]->cityName, cityArray[5573]->cityId, cityArray[5573]->uf, cityArray[5573]->ufId, cityArray[5573]->population);
 
 }
